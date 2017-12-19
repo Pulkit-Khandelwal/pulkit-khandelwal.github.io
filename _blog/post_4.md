@@ -3,7 +3,7 @@ title: "Backprop in Neural Networks"
 collection: blog
 permalink: /blog/post_4
 excerpt: 'Backprop in Neural Networks'
-date: 2016-03-01
+date: 2017-03-01
 ---
 
 

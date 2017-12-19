@@ -17,3 +17,6 @@ main:
 
   - title: "Interesting Sites"
     url: /websites/
+    
+  - title: "Talks"
+    url: /talks/

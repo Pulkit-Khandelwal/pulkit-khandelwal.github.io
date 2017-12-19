@@ -8,7 +8,10 @@ main:
         
   - title: "Blog"
     url: /blog/
-
+    
+  - title: "Talks"
+    url: /talks/
+    
   - title: "Reading List"
     url: /reading-list/
     
@@ -17,6 +20,3 @@ main:
 
   - title: "Interesting Sites"
     url: /websites/
-    
-  - title: "Talks"
-    url: /talks/

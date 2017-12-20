@@ -43,7 +43,7 @@ First, let's see what the data looks like by using Pandas. You can download part
     print df.head()
 
 
-![](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/post_3_img_4.png?raw=true)
+![](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/post_3_img_4.png?raw=true "Image 1")
 
 ## Plot the migration path of the birds on a Wolrd Map
 

@@ -43,16 +43,11 @@ First, let's see what the data looks like by using Pandas. You can download part
     print df.head()
 
 
-![](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/post_3_img_4.png?raw=true "Image 1")
+![](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/post_3_img_4.png?raw=true)
 
 ## Plot the migration path of the birds on a Wolrd Map
 
 Next, we plot the positions of the birds as they travel. Basemap is pretty easy to get started with. I have plotted the data on a part of the world map. This is quite useful especially when you want to zoom into a certain area of the world. Here, a map has been displayed between the laitudes 30S and 70N; longitudes between 10W and 90E.
-
-.markdown-cell .ace_line {
-  font-family: "DejaVu Sans Mono";
-  font-size: 18px;
-}
 
 ```
 #initialise the figure object

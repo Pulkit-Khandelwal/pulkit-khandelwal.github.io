@@ -8,4 +8,4 @@ date: 2017-03-01
 
 
 
-\frac{n!}{k!(n-k)!}
+[page](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/questions-ift6266-deep%20(2).pdf)

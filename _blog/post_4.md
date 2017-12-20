@@ -8,4 +8,4 @@ date: 2017-03-01
 
 
 
-$\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
+\frac{n!}{k!(n-k)!}

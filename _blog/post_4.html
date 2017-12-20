@@ -17,7 +17,12 @@ date: 2017-03-01
 </script>
 </head>
 <body>
-<p><span class="math display">\[a_{2} = \hat{y} = softmax(z_{2})
-\label{eqn:four}\]</span></p>
+<p><span class="math display">\[\frac{\partial Loss}{\partial b_{2}} = \frac{\partial Loss}{\partial z_{2}} * \frac{\partial z_{2}}{\partial b_{2}} = (y-\hat{y})
+\label{eqn:sixteen}\]</span></p>
+<p><span class="math display">\[\begin{aligned}
+\frac{\partial Loss}{\partial W_{1}} &amp;= \frac{\partial Loss}{\partial z_{2}} * \frac{\partial z_{2}}{\partial z_{1}} * \frac{\partial z_{1}}{\partial W_{1}} \\
+&amp;= \frac{\partial Loss}{\partial z_{2}} * \frac{\partial z_{2} }{\partial tanh(z_{1})} * \frac{\partial tanh(z_{1})}{\partial z_{1}} * \frac{\partial z_{1}}{\partial W_{1}}\\
+&amp;= x^T (1-tanh^2Z_{1}) (y-\hat{y}) W_{2}^T
+\label{eqn:seventeen}\end{aligned}\]</span></p>
 </body>
 </html>

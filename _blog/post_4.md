@@ -9,3 +9,5 @@ date: 2017-03-01
 
 
 [page](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/questions-ift6266-deep%20(2).pdf)
+
+$ \sum_{\forall i}{x_i^{2}} $

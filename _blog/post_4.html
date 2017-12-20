@@ -19,10 +19,19 @@ date: 2017-03-01
 <body>
 <p><span class="math display">\[\frac{\partial Loss}{\partial b_{2}} = \frac{\partial Loss}{\partial z_{2}} * \frac{\partial z_{2}}{\partial b_{2}} = (y-\hat{y})
 \label{eqn:sixteen}\]</span></p>
-<p><span class="math display">\[\begin{aligned}
-\frac{\partial Loss}{\partial W_{1}} &amp;= \frac{\partial Loss}{\partial z_{2}} * \frac{\partial z_{2}}{\partial z_{1}} * \frac{\partial z_{1}}{\partial W_{1}} \\
-&amp;= \frac{\partial Loss}{\partial z_{2}} * \frac{\partial z_{2} }{\partial tanh(z_{1})} * \frac{\partial tanh(z_{1})}{\partial z_{1}} * \frac{\partial z_{1}}{\partial W_{1}}\\
-&amp;= x^T (1-tanh^2Z_{1}) (y-\hat{y}) W_{2}^T
-\label{eqn:seventeen}\end{aligned}\]</span></p>
+<p>It is a good practice to use gradient checking to compare the analytic and numerical gradient. Oftentimes, we see the absolute error i.e. during the iterations of the gradient descent algorithm the absolute value of the difference between the consecutive gradients are checked. The algorithm terminates when the absolute error is less than some small threshold.<br />
+But, using absolute error is not recommended and rather the use of relative error is suggested.<br />
+Prove this statement with a numerical example.</p>
+<h2 id="solution">Solution</h2>
+<p>Let <span class="math inline">\(g_{n}\)</span> and <span class="math inline">\(g_{n+1}\)</span> be the two consecutive numerical gradients.<br />
+<span class="math inline">\(|g_{n}\)</span> - <span class="math inline">\(g_{n+1}|\)</span> is the absolute error which is calculated and if the error is less than some threshold then the gradient check is successful.<br />
+If <span class="math inline">\(g_{n}\)</span> and <span class="math inline">\(g_{n+1}\)</span> are both very close to 1. For example <span class="math inline">\(g_{n}\)</span>= 1 and <span class="math inline">\(g_{n+1}\)</span> = 1.0001 then<br />
+<span class="math inline">\(|g_{n}\)</span> - <span class="math inline">\(g_{n+1}|\)</span> is of the order <span class="math inline">\(10^{-4}\)</span><br />
+and the gradient check looks good.<br />
+But, when <span class="math inline">\(g_{n}\)</span> and <span class="math inline">\(g_{n+1}\)</span> both have very low values in the order of <span class="math inline">\(10^{-6}\)</span>; then an absolute error of <span class="math inline">\(10^{-4}\)</span> will be considered very large and hence gradient check will fail.<br />
+Therefore, it is better to use the relative error defined as <span class="math inline">\(\frac{|g_{n} - g_{n+1}|}{|g_{n} + g_{n+1}|}\)</span><br />
+This is the ratio between the absolute difference to the absolute sum of the two gradients. This method thus scales the error and gives us the correct error estimate than when only the absolute error is used.<br />
+Instability can be encountered when performing the gradient check. Here, I ask one more question which seems interesting.<br />
+<strong><em>Question</em></strong><br /></p>
 </body>
 </html>

@@ -142,7 +142,7 @@ k['event-id'] = (k['event-id'] - k['event-id'].mean())/k['event-id'].std(ddof=0)
 plot_3d(k)
 ```
 
-![](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/post_3_img_1.png?raw=true)
+![](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/post_3_img_3.png?raw=true)
 
 ## What's Next?
 

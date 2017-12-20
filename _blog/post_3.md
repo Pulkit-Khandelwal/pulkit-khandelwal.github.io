@@ -45,7 +45,6 @@ print df.head()
 
 ![](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/post_3_img_4.png?raw=true)
 
-image_1
 ## Plot the migration path of the birds on a Wolrd Map
 
 Next, we plot the positions of the birds as they travel. Basemap is pretty easy to get started with. I have plotted the data on a part of the world map. This is quite useful especially when you want to zoom into a certain area of the world. Here, a map has been displayed between the laitudes 30S and 70N; longitudes between 10W and 90E.
@@ -82,7 +81,7 @@ pylab.savefig('migration.png',dpi=1000)
 plt.show()
 ```
 
-![](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/post_3_img_1.png)image_2
+![](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/post_3_img_1.png?raw=true)
 
 
 Below is a not so pretty plot :/ But, this might serve for some other task. See! How good Basemap is!
@@ -102,7 +101,7 @@ map.plot(xs,ys,'ro',markersize=1)
 plt.show()
 ```
 
-![](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/post_3_img_2.png)image_3
+![](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/post_3_img_2.png?raw=true)
 
 ## Visualize a bird's trajectory in 3D
 
@@ -143,7 +142,7 @@ k['event-id'] = (k['event-id'] - k['event-id'].mean())/k['event-id'].std(ddof=0)
 plot_3d(k)
 ```
 
-![](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/post_3_img_1.png)image_4
+![](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/post_3_img_1.png?raw=true)
 
 ## What's Next?
 

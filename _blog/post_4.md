@@ -8,4 +8,6 @@ date: 2017-03-01
 
 
 
-$$\frac{\partial Loss}{\partial z_{2}} = y - \sigma(z_{2}) = y - \hat{y}\label{eqn:seven}$$
+$$
+y = -2.2x + 0.5
+$$

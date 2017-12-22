@@ -24,15 +24,18 @@ Also, the reader will get comfortable with the computation of vector, tensor der
 A useful document can be found <a href="https://compsci697l.github.io/docs/vecDerivs.pdf">here</a> for the interested reader to get familiar with tensor operations.</p>
 
   
-<p>Compute the gradients and derivatives of the loss function of the given neural network as shown in the figure below
+<p>Compute the gradients and derivatives of the loss function of the given neural network as shown in the Fig 1.
 with respect to the parameters: <span class="math inline">\(W_{1}\)</span>, <span class="math inline">\(W_{2}\)</span>, <span class="math inline">\(b_{1}\)</span> and <span class="math inline">\(b_{2}\)</span>.
 Where <span class="math inline">\(W_{1}\)</span>, <span class="math inline">\(W_{2}\)</span> are the weight matrices;
 and <span class="math inline">\(b_{1}\)</span> and <span class="math inline">\(b_{2}\)</span> are bias the vectors.
 Let <span class="math inline">\(x \in \mathcal{R}^2\)</span>, <span class="math inline">\(W_{1} \in \mathcal{R}^{2*500}\)</span>, <span class="math inline">\(b_{1} \in \mathcal{R}^{500}\)</span>, <span class="math inline">\(W_{2} \in \mathcal{R}^{500*2}\)</span> and <span class="math inline">\(b_{2} \in \mathcal{R}^2\)</span>.
 Also, show how the forward and backpropagation algorithms work.</p>
  
-<img src="https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/nn-3-layer-network.png?raw=true" alt="Simple Feedforward Network" width="600" height="600" align="middle">
-
+<figure>
+<figcaption>Fig 1. Simple Feedforward Neural Network</figcaption>
+<img src="https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/nn-3-layer-network.png?raw=true" alt="Simple Feedforward Neural Network" width="600" height="600" align="middle">
+</figure>
+  
 <p>Let us first compute the forward propagation. Let <em>x</em> be the input.
 The first hidden layer is computed as follows: <span class="math display">\[z_{1} = \textit{x}W_{1} + b_{1}
 \label{eqn:one}\]</span></p>
@@ -47,8 +50,17 @@ The first hidden layer is computed as follows: <span class="math display">\[z_{1
 <p>where <span class="math inline">\(\hat{y}\)</span> is the predicted output by the feedforward network</p>
 
   
- <p>Let’s see this feedforward network through a circuit diagram as illustrated in figure .
- Now, let’s see how the derivatives are computed with respect to the hidden nodes and bias vectors. Refer figure .</p>
+ <p>Let’s see this feedforward network through a circuit diagram as illustrated in Fig 2.
+ Now, let’s see how the derivatives are computed with respect to the hidden nodes and bias vectors. Refer Fig 3.</p>
 
+<figure>
+<figcaption>Fig 2. Feedforward Circuit Diagram</figcaption>
+<img src="https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/forward.png?raw=true" alt="Feedforward Circuit Diagram" width="600" height="600" align="middle">
+</figure>
+  
+<figure>
+<figcaption>Fig 3. Backpropagation Circuit Diagram</figcaption>
+<img src="https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/backward.png?raw=true" alt="Backpropagation Circuit Diagram" width="600" height="600" align="middle">
+</figure>
 </body>
 </html>

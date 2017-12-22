@@ -34,8 +34,21 @@ Also, show how the forward and backpropagation algorithms work.</p>
 <img src="https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/nn-3-layer-network.png?raw=true" alt="Simple Feedforward Network" width="600" height="600" align="middle">
 
 <p>Let us first compute the forward propagation. Let <em>x</em> be the input.
- The first hidden layer is computed as follows: <span class="math display">\[z_{1} = \textit{x}W_{1} + b_{1}
+The first hidden layer is computed as follows: <span class="math display">\[z_{1} = \textit{x}W_{1} + b_{1}
 \label{eqn:one}\]</span></p>
+  
+<p>We then apply a non-linear activation function to equation <a href="#eqn:one" data-reference-type="ref" data-reference="eqn:one">[eqn:one]</a> <span class="math display">\[a_{1} = \textit{tanh}(z_{1})
+\label{eqn:two}\]</span></p>
+<p>The output layers’ activation are obtained using the following transformation <span class="math display">\[z_{2} = a_{1}W_{2} + b_{2}
+\label{eqn:three}\]</span></p>
+<p>Finally, a <em>softmax</em> is applied to equation <a href="#eqn:two" data-reference-type="ref" data-reference="eqn:two">[eqn:two]</a> to get:</p>
+<p><span class="math display">\[a_{2} = \hat{y} = softmax(z_{2})
+\label{eqn:four}\]</span></p>
+<p>where <span class="math inline">\(\hat{y}\)</span> is the predicted output by the feedforward network</p>
+
+  
+ <p>Let’s see this feedforward network through a circuit diagram as illustrated in figure .
+ Now, let’s see how the derivatives are computed with respect to the hidden nodes and bias vectors. Refer figure .</p>
 
 </body>
 </html>

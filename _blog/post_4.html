@@ -56,12 +56,12 @@ The first hidden layer is computed as follows: <span class="math display">\[z_{1
 \tag{1}\]</span></p>
   
 <p>We then apply a non-linear activation function to equation <span class="math display">\[a_{1} = \textit{tanh}(z_{1})
-\label{eqn:two}\]</span></p>
+\tag{2}\]</span></p>
 <p>The output layers’ activation are obtained using the following transformation <span class="math display">\[z_{2} = a_{1}W_{2} + b_{2}
-\label{eqn:three}\]</span></p>
+\tag{3}\]</span></p>
 <p>Finally, a <em>softmax</em> is applied to get:</p>
 <p><span class="math display">\[a_{2} = \hat{y} = softmax(z_{2})
-\label{eqn:four}\]</span></p>
+\tag{4}\]</span></p>
 <p>where <span class="math inline">\(\hat{y}\)</span> is the predicted output by the feedforward network</p>
 
   
@@ -82,50 +82,50 @@ The first hidden layer is computed as follows: <span class="math display">\[z_{1
  
 <p>Below are the steps to compute the various gradients as shown in figure:</p>
 <p><span class="math display">\[Loss = y * ln(\sigma(z_{2})) + (1-y) * ln(1-\sigma(z_{2}))
-\label{eqn:five}\]</span></p>
+\tag{5}\]</span></p>
 <p>Also, note that:</p>
 <p><span class="math display">\[\frac{d\sigma(z_{2})}{dz} = ln(\sigma(z_{2})) * ln(1-\sigma(z_{2}))
-\label{eqn:six}\]</span></p>
+\tag{6}\]</span></p>
 <p>Therefore, <span class="math display">\[\frac{\partial Loss}{\partial z_{2}} = y - \sigma(z_{2}) = y - \hat{y}
-\label{eqn:seven}\]</span></p>
+\tag{7}\]</span></p>
 <p>Since, <span class="math inline">\(\sigma(z_{2})\)</span> = <span class="math inline">\(\hat{y}\)</span></p>
   
 <p><span class="math display">\[\frac{\partial z_{2}}{\partial w_{2}} = \frac{\partial (a_{1}W_{2}+b_{2})}{\partial w_{2}} = a_{1}
-\label{eqn:eight}\]</span></p>
+\tag{8}\]</span></p>
 <p><span class="math display">\[\frac{\partial z_{2}}{\partial b_{2}} = 1
-\label{eqn:nine}\]</span></p>
+\tag{9}\]</span></p>
 <p><span class="math display">\[\frac{\partial z_{2}}{\partial tanh(z_{1})} = \frac{\partial(a_{1}W_{2}+b_{2})} {\partial tanh(z_{1})}\\
   = \frac{\partial(tanh(z_{1})W_{2}+b_{2})} {\partial tanh(z_{1})}\\
   = z_{2}
-\label{eqn:ten}\]</span></p>
+\tag{10}\]</span></p>
 <p><span class="math display">\[\frac{\partial tanh(z_{1})}{\partial z_{1}} = 1 - tanh^2(z_{1})
-\label{eqn:eleven}\]</span></p>
+\tag{11}\]</span></p>
 
 <p><span class="math display">\[\frac{\partial z_{1}}{\partial W_{1}} = \frac{\partial (xW_{1}+b_{1})}{\partial W_{1}} = x
-\label{eqn:thirteen}\]</span></p>
+\tag{12}\]</span></p>
 <p><span class="math display">\[\frac{\partial z_{1}}{\partial b_{1}} = \frac{\partial (xW_{1}+b_{1})}{\partial b_{1}} = 1
-\label{eqn:fourteen}\]</span></p>
+\tag{13}\]</span></p>
   
 <p>Finally, we can now use the chain rule to compute the effect of the four parameters namely <span class="math inline">\(W_{1}\)</span>, <span class="math inline">\(W_{2}\)</span>, <span class="math inline">\(b_{1}\)</span> and <span class="math inline">\(b_{2}\)</span> on the Loss function.</p>
 <p>In what follows, <span class="math inline">\((P)^T\)</span> indicates the transpose of some matrix or vector P.</p>
   
 <p><span class="math display">\[\frac{\partial Loss}{\partial W_{2}} = \frac{\partial Loss}{\partial z_{2}} * \frac{\partial z_{2}}{\partial W_{2}} = a_{1}^T(y-\hat{y})
-\label{eqn:fifteen}\]</span></p>
+\tag{14}\]</span></p>
   
 <p><span class="math display">\[\frac{\partial Loss}{\partial b_{2}} = \frac{\partial Loss}{\partial z_{2}} * \frac{\partial z_{2}}{\partial b_{2}} = (y-\hat{y})
-\label{eqn:sixteen}\]</span></p>
+\tag{15}\]</span></p>
 
 <p><span class="math display">\[\begin{aligned}
 \frac{\partial Loss}{\partial W_{1}} &amp;= \frac{\partial Loss}{\partial z_{2}} * \frac{\partial z_{2}}{\partial z_{1}} * \frac{\partial z_{1}}{\partial W_{1}} \\
 &amp;= \frac{\partial Loss}{\partial z_{2}} * \frac{\partial z_{2} }{\partial tanh(z_{1})} * \frac{\partial tanh(z_{1})}{\partial z_{1}} * \frac{\partial z_{1}}{\partial W_{1}} \\
 &amp;= x^T (1-tanh^2Z_{1}) (y-\hat{y}) W_{2}^T
-\label{eqn:seventeen}\end{aligned}\]</span></p>
+\tag{16}\end{aligned}\]</span></p>
   
 <p><span class="math display">\[\begin{aligned}
 \frac{\partial Loss}{\partial b_{1}} &amp;= \frac{\partial Loss}{\partial z_{2}} * \frac{\partial z_{2}}{\partial z_{1}} * \frac{\partial z_{1}}{\partial W_{1}} \\
 &amp;= \frac{\partial Loss}{\partial z_{2}} * \frac{\partial z_{2} }{\partial tanh(z_{1})} * \frac{\partial tanh(z_{1})}{\partial z_{1}} * \frac{\partial z_{1}}{\partial b_{1}}\\
 &amp;= (1-tanh^2Z_{1}) (y-\hat{y}) W_{2}^T
-\label{eqn:eighteen}\end{aligned}\]</span></p>
+\tag{17}\end{aligned}\]</span></p>
   
  <p>Hence, we have computed both the forward propagation and back propagation for the given multi-layer neural network.</p>
  

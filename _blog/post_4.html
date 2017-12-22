@@ -94,5 +94,25 @@ The first hidden layer is computed as follows: <span class="math display">\[z_{1
 <p>Finally, we can now use the chain rule to compute the effect of the four parameters namely <span class="math inline">\(W_{1}\)</span>, <span class="math inline">\(W_{2}\)</span>, <span class="math inline">\(b_{1}\)</span> and <span class="math inline">\(b_{2}\)</span> on the Loss function.</p>
 <p>In what follows, <span class="math inline">\((P)^T\)</span> indicates the transpose of some matrix or vector P.</p>
   
+  
+<p><span class="math display">\[\frac{\partial Loss}{\partial W_{2}} = \frac{\partial Loss}{\partial z_{2}} * \frac{\partial z_{2}}{\partial W_{2}} = a_{1}^T(y-\hat{y})
+\label{eqn:fifteen}\]</span></p>
+<p><span class="math display">\[\frac{\partial Loss}{\partial b_{2}} = \frac{\partial Loss}{\partial z_{2}} * \frac{\partial z_{2}}{\partial b_{2}} = (y-\hat{y})
+\label{eqn:sixteen}\]</span></p>
+<p><span class="math display">\[\begin{aligned}
+\frac{\partial Loss}{\partial W_{1}} &amp;= \frac{\partial Loss}{\partial z_{2}} * \frac{\partial z_{2}}{\partial z_{1}} * \frac{\partial z_{1}}{\partial W_{1}} 
+&amp;= \frac{\partial Loss}{\partial z_{2}} * \frac{\partial z_{2} }{\partial tanh(z_{1})} * \frac{\partial tanh(z_{1})}{\partial z_{1}} * \frac{\partial z_{1}}{\partial W_{1}}
+&amp;= x^T (1-tanh^2Z_{1}) (y-\hat{y}) W_{2}^T
+\label{eqn:seventeen}\end{aligned}\]</span></p>
+<p><span class="math display">\[\begin{aligned}
+\frac{\partial Loss}{\partial b_{1}} &amp;= \frac{\partial Loss}{\partial z_{2}} * \frac{\partial z_{2}}{\partial z_{1}} * \frac{\partial z_{1}}{\partial W_{1}} 
+&amp;= \frac{\partial Loss}{\partial z_{2}} * \frac{\partial z_{2} }{\partial tanh(z_{1})} * \frac{\partial tanh(z_{1})}{\partial z_{1}} * \frac{\partial z_{1}}{\partial b_{1}}
+&amp;= (1-tanh^2Z_{1}) (y-\hat{y}) W_{2}^T
+\label{eqn:seventeen}\end{aligned}\]</span></p>
+  
+ <p>Hence, we have computed both the forward propagation and back propagation for the given multi-layer neural network.</p>
+ 
+  
+  
 </body>
 </html>

@@ -37,11 +37,11 @@ Also, show how the forward and backpropagation algorithms work.</p>
 The first hidden layer is computed as follows: <span class="math display">\[z_{1} = \textit{x}W_{1} + b_{1}
 \label{eqn:one}\]</span></p>
   
-<p>We then apply a non-linear activation function to equation <a href="#eqn:one" data-reference-type="ref" data-reference="eqn:one">[eqn:one]</a> <span class="math display">\[a_{1} = \textit{tanh}(z_{1})
+<p>We then apply a non-linear activation function to equation <span class="math display">\[a_{1} = \textit{tanh}(z_{1})
 \label{eqn:two}\]</span></p>
 <p>The output layers’ activation are obtained using the following transformation <span class="math display">\[z_{2} = a_{1}W_{2} + b_{2}
 \label{eqn:three}\]</span></p>
-<p>Finally, a <em>softmax</em> is applied to equation <a href="#eqn:two" data-reference-type="ref" data-reference="eqn:two">[eqn:two]</a> to get:</p>
+<p>Finally, a <em>softmax</em> is applied to get:</p>
 <p><span class="math display">\[a_{2} = \hat{y} = softmax(z_{2})
 \label{eqn:four}\]</span></p>
 <p>where <span class="math inline">\(\hat{y}\)</span> is the predicted output by the feedforward network</p>

@@ -94,10 +94,11 @@ The first hidden layer is computed as follows: <span class="math display">\[z_{1
 \tag{8}\]</span></p>
 <p><span class="math display">\[\frac{\partial z_{2}}{\partial b_{2}} = 1
 \tag{9}\]</span></p>
-<p><span class="math display">\[\frac{\partial z_{2}}{\partial tanh(z_{1})} = \frac{\partial(a_{1}W_{2}+b_{2})} {\partial tanh(z_{1})}\\
+<p><span class="math display">\[\begin{aligned}
+  \frac{\partial z_{2}}{\partial tanh(z_{1})} = \frac{\partial(a_{1}W_{2}+b_{2})} {\partial tanh(z_{1})}\\
   = \frac{\partial(tanh(z_{1})W_{2}+b_{2})} {\partial tanh(z_{1})}\\
   = z_{2}
-\tag{10}\]</span></p>
+\end{aligned}\tag{10}\]</span></p>
 <p><span class="math display">\[\frac{\partial tanh(z_{1})}{\partial z_{1}} = 1 - tanh^2(z_{1})
 \tag{11}\]</span></p>
 

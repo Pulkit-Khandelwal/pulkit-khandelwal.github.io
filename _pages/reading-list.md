@@ -5,6 +5,10 @@ permalink: /reading-list/
 author_profile: true
 ---
 
+Somebody once asked Warren Buffett about his secret to success. Buffett pointed to a stack of books and said,
+> Read 500 pages like this every day. That’s how knowledge works. It builds up, like compound interest.
+>All of you can do it, but I guarantee not many of you will…
+
 ## I read cognitive science, psychology and popular science books. Every now and then, I also read some fiction.
 
 I also follow the book recommendations by [**Bill Gates**](https://www.gatesnotes.com/Books#All) and [**Mark Zuckerberg**](http://www.ayearofbooks.net/book-1-/). 
@@ -69,6 +73,7 @@ My Bookshelf
 * **And the Mountains Echoed** by *Khaled Hosseini*
 * **The Shiva Trilogy** by *Amish Tripathi*
 
+## Reading improves your life and makes you happy. Here are some notes which might help you to read more books and get the most out of them. 
 
 ## Hungry for more?
 

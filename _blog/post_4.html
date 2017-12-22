@@ -2,7 +2,7 @@
 title: "Backprop in Neural Networks"
 collection: blog
 permalink: /blog/post_4
-excerpt: 'Backprop in Neural Networks'
+excerpt: 'Step by step derivation of Backpropagation Algorithm in Neural Networks'
 date: 2017-03-01
 ---
 
@@ -16,9 +16,22 @@ date: 2017-03-01
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 </head>
+
 <body>
   
-<p>Compute the gradients and derivatives of the loss function of the given neural network as shown in figure <a href="#fig:a" data-reference-type="ref" data-reference="fig:a">[fig:a]</a> with respect to the parameters: <span class="math inline">\(W_{1}\)</span>, <span class="math inline">\(W_{2}\)</span>, <span class="math inline">\(b_{1}\)</span> and <span class="math inline">\(b_{2}\)</span>. Where <span class="math inline">\(W_{1}\)</span>, <span class="math inline">\(W_{2}\)</span> are the weight matrices; and <span class="math inline">\(b_{1}\)</span> and <span class="math inline">\(b_{2}\)</span> are bias the vectors. Let <span class="math inline">\(x \in \mathcal{R}^2\)</span>, <span class="math inline">\(W_{1} \in \mathcal{R}^{2*500}\)</span>, <span class="math inline">\(b_{1} \in \mathcal{R}^{500}\)</span>, <span class="math inline">\(W_{2} \in \mathcal{R}^{500*2}\)</span> and <span class="math inline">\(b_{2} \in \mathcal{R}^2\)</span>. Also, show how the forward and backpropagation algorithms work.</p>
+<p>This question serves as good exercise to see how forward propagation works and then how the gradients are computed to implement the backpropagation algorithm.
+Also, the reader will get comfortable with the computation of vector, tensor derivatives and vector/matrix calculus.
+A useful document can be found <a href="https://compsci697l.github.io/docs/vecDerivs.pdf">here</a> for the interested reader to get familiar with tensor operations.</p>
+
+  
+<p>Compute the gradients and derivatives of the loss function of the given neural network as shown in the figure below
+with respect to the parameters: <span class="math inline">\(W_{1}\)</span>, <span class="math inline">\(W_{2}\)</span>, <span class="math inline">\(b_{1}\)</span> and <span class="math inline">\(b_{2}\)</span>.
+Where <span class="math inline">\(W_{1}\)</span>, <span class="math inline">\(W_{2}\)</span> are the weight matrices;
+and <span class="math inline">\(b_{1}\)</span> and <span class="math inline">\(b_{2}\)</span> are bias the vectors.
+Let <span class="math inline">\(x \in \mathcal{R}^2\)</span>, <span class="math inline">\(W_{1} \in \mathcal{R}^{2*500}\)</span>, <span class="math inline">\(b_{1} \in \mathcal{R}^{500}\)</span>, <span class="math inline">\(W_{2} \in \mathcal{R}^{500*2}\)</span> and <span class="math inline">\(b_{2} \in \mathcal{R}^2\)</span>.
+Also, show how the forward and backpropagation algorithms work.</p>
+ 
+<img src="https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/nn-3-layer-network.png" alt="Simple Feedforward Network" width="500" height="500">
 
 
 </body>

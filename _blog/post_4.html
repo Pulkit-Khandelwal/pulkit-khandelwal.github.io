@@ -119,13 +119,13 @@ The first hidden layer is computed as follows: <span class="math display">\[z_{1
 \frac{\partial Loss}{\partial W_{1}} &amp;= \frac{\partial Loss}{\partial z_{2}} * \frac{\partial z_{2}}{\partial z_{1}} * \frac{\partial z_{1}}{\partial W_{1}} \\
 &amp;= \frac{\partial Loss}{\partial z_{2}} * \frac{\partial z_{2} }{\partial tanh(z_{1})} * \frac{\partial tanh(z_{1})}{\partial z_{1}} * \frac{\partial z_{1}}{\partial W_{1}} \\
 &amp;= x^T (1-tanh^2Z_{1}) (y-\hat{y}) W_{2}^T
-\tag{16}\end{aligned}\]</span></p>
+\end{aligned}\tag{16}\]</span></p>
   
 <p><span class="math display">\[\begin{aligned}
 \frac{\partial Loss}{\partial b_{1}} &amp;= \frac{\partial Loss}{\partial z_{2}} * \frac{\partial z_{2}}{\partial z_{1}} * \frac{\partial z_{1}}{\partial W_{1}} \\
 &amp;= \frac{\partial Loss}{\partial z_{2}} * \frac{\partial z_{2} }{\partial tanh(z_{1})} * \frac{\partial tanh(z_{1})}{\partial z_{1}} * \frac{\partial z_{1}}{\partial b_{1}}\\
 &amp;= (1-tanh^2Z_{1}) (y-\hat{y}) W_{2}^T
-\tag{17}\end{aligned}\]</span></p>
+\end{aligned}\tag{17}\]</span></p>
   
  <p>Hence, we have computed both the forward propagation and back propagation for the given multi-layer neural network.</p>
  

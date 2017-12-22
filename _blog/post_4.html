@@ -91,8 +91,7 @@ The first hidden layer is computed as follows: <span class="math display">\[z_{1
 \label{eqn:eight}\]</span></p>
 <p><span class="math display">\[\frac{\partial z_{2}}{\partial b_{2}} = 1
 \label{eqn:nine}\]</span></p>
-<p><span class="math display">\[\frac{\partial z_{2}}{\partial tanh(z_{1})}\\
-  = \frac{\partial(a_{1}W_{2}+b_{2})} {\partial tanh(z_{1})}\\
+<p><span class="math display">\[\frac{\partial z_{2}}{\partial tanh(z_{1})} = \frac{\partial(a_{1}W_{2}+b_{2})} {\partial tanh(z_{1})}\\
   = \frac{\partial(tanh(z_{1})W_{2}+b_{2})} {\partial tanh(z_{1})}\\
   = z_{2}
 \label{eqn:ten}\]</span></p>
@@ -104,10 +103,8 @@ The first hidden layer is computed as follows: <span class="math display">\[z_{1
 <p><span class="math display">\[\frac{\partial z_{1}}{\partial b_{1}} = \frac{\partial (xW_{1}+b_{1})}{\partial b_{1}} = 1
 \label{eqn:fourteen}\]</span></p>
   
-  
 <p>Finally, we can now use the chain rule to compute the effect of the four parameters namely <span class="math inline">\(W_{1}\)</span>, <span class="math inline">\(W_{2}\)</span>, <span class="math inline">\(b_{1}\)</span> and <span class="math inline">\(b_{2}\)</span> on the Loss function.</p>
 <p>In what follows, <span class="math inline">\((P)^T\)</span> indicates the transpose of some matrix or vector P.</p>
-  
   
 <p><span class="math display">\[\frac{\partial Loss}{\partial W_{2}} = \frac{\partial Loss}{\partial z_{2}} * \frac{\partial z_{2}}{\partial W_{2}} = a_{1}^T(y-\hat{y})
 \label{eqn:fifteen}\]</span></p>

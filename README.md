@@ -6,3 +6,4 @@ https://pulkit-khandelwal.github.io/
 * [Pandoc](http://pandoc.org/)
 * [MathJax](https://www.mathjax.org/)
 * [https://academicpages.github.io/](https://academicpages.github.io/)
+* https://www.youtube.com/watch?v=pYHWoSNsSIU

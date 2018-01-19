@@ -104,5 +104,5 @@ Volunteer and Extra-curricular Activities
   * NPO aimed at educating less privileged students in shelter homes and orphanages
   * I was an Engish and Math teacher
 
-* Curriculum Vitae in [**PDF**](https://drive.google.com/file/d/0B1xr2l_vl4kKT29ndlBiSjM4bzQ/view?usp=sharing)
-* Resume in [**PDF**](https://drive.google.com/file/d/0B1xr2l_vl4kKbHYzbVRyTEt6X2M/view?usp=sharing)
+* Curriculum Vitae in [**PDF**](https://drive.google.com/file/d/1-m-YNU-oaeZ0YPdur52TzRR3A2EMt3gl/view?usp=sharing)
+* Resume in [**PDF**](https://drive.google.com/file/d/11IVINYZccYlZ3LYf1Yuz8wY-l8eXNxoL/view?usp=sharing)

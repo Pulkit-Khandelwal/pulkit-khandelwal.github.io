@@ -26,15 +26,15 @@ Research and Work Experience
 ======
 * **Shape Analysis Group, McGill University** [Nov. 2016 - present]   
   * Graduate Research Assistant
-  * Segmentation of Human Vertebrae in MRI
-  * Methods: Level-sets based PDEs with Shape priors
+  * Segmentation of Human Vertebrae in CT images
+  * Methods: Partial Differntial Equations based Level-sets methods with Shape priors
 
 * [**Planet Labs**](https://www.planet.com/), San Francisco, United States [Aug. 2017 - Dec. 2017]
   * Research Intern supervised by [*Katherine Scott*](https://www.linkedin.com/in/katherineascott/)
   * Created Segmentation API for an upcoming Computer Vision, Machine Learning and GIS library
   * Created an API to query Open Street Maps data
   * Developed deep segmentation modules for *building segmentation* in Planet Satellite Imagery using [*U-Net*](https://arxiv.org/abs/1505.04597) architecture
-  * Skillset: OOPs, Design Patterns and Continuous Integration
+  * Skillset: Test-driven development, OOPs, Design Patterns and Continuous Integration
 
 * [**Centre for Advanced Imaging, University of Queensland**](https://cai.centre.uq.edu.au/), Brisbane, Australia [Dec. 2015 - Feb. 2016]
   * Research Intern supervised by [*Steffen Bollmann*](https://cai.centre.uq.edu.au/profile/115/steffen-bollmann)
@@ -69,7 +69,7 @@ Publications
 Relevant Coursework
 ======
 * McGill University
-  * Computer Vision, Natural Language Processing, Applied Machine Learning, Deep Learning, Reinforcement Learning,                 Probabilistic   Graphical Models, Statistical Computer Vision, Advanced Medical Imaging
+  * Computer Vision, Natural Language Processing, Applied Machine Learning, Deep Learning, Reinforcement Learning,                 Probabilistic Graphical Models, Statistical Computer Vision, Advanced Medical Imaging
 
 * VIT University
   * Data Structures and Algorithms, Digital Image Processing, Digital Signal Processing

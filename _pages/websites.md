@@ -25,13 +25,14 @@ author_profile: true
 * pudding.cool
 * Zines by Julia Evans
 
-### Blogs
+### Blogs and tech sites
 * Quanta Magazine
 * pudding.cool
 * WildML
 * Chris Olah
 * Dan Bader
 * Hacker News
+* dev.to
 
 ### Youtube Channels
 * Numberphile
@@ -44,7 +45,5 @@ author_profile: true
 ### News and media consumption
 * Vice
 * Vox
-
 * Arts and Letters Daily
 * The New Yorker
-

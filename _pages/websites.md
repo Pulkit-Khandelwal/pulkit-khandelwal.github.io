@@ -29,4 +29,8 @@ author_profile: true
 ### Youtube Channels
 * Numberphile
 * 3Blue1Brown
+* Mathologer
+* Minute Physics
+* Computerphile
+* Physics Girl
 

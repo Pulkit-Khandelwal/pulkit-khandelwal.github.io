@@ -30,11 +30,12 @@ Research and Work Experience
   * Methods: Partial Differntial Equations based Level-sets methods with Shape priors
 
 * [**Planet Labs**](https://www.planet.com/), San Francisco, United States [Aug. 2017 - Dec. 2017]
-  * Research Intern supervised by [*Katherine Scott*](https://www.linkedin.com/in/katherineascott/)
+  * Machine Learning Intern supervised by [*Katherine Scott*](https://www.linkedin.com/in/katherineascott/)
   * Created Segmentation API for an upcoming Computer Vision, Machine Learning and GIS library
   * Created an API to query Open Street Maps data
   * Developed deep segmentation modules for *building segmentation* in Planet Satellite Imagery using [*U-Net*](https://arxiv.org/abs/1505.04597) architecture
   * Skillset: Test-driven development, OOPs, Design Patterns and Continuous Integration
+  * ***Code in Production***
 
 * [**Centre for Advanced Imaging, University of Queensland**](https://cai.centre.uq.edu.au/), Brisbane, Australia [Dec. 2015 - Feb. 2016]
   * Research Intern supervised by [*Steffen Bollmann*](https://cai.centre.uq.edu.au/profile/115/steffen-bollmann)
@@ -52,9 +53,9 @@ Research and Work Experience
 Skills
 ======
 
-* Languages: Bash, Python, C++
-* Libraries: scikit, vlfeat, PIL, OpenCV, nltk, theano, keras, tensorflow
-* Medical Imaging: freeSurfer, ASHS
+* Languages: Python, C++, Bash
+* Libraries: scikit, vlfeat, PIL, OpenCV, nltk, keras, tensorflow
+* Medical Imaging: freeSurfer, ASHS, ITK
 * GIS and Remote Sensing: geoPandas, Open Street Maps APIs
 * Tools and Packages: Matlab, git, Mathematica, web2Py
 

@@ -35,7 +35,7 @@ Research and Work Experience
   * Created an API to query Open Street Maps data
   * Developed deep segmentation modules for *building segmentation* in Planet Satellite Imagery using [*U-Net*](https://arxiv.org/abs/1505.04597) architecture
   * Skillset: Test-driven development, OOPs, Design Patterns and Continuous Integration
-  * ***Code in Production***
+  * ***Code in Production***
 
 * [**Centre for Advanced Imaging, University of Queensland**](https://cai.centre.uq.edu.au/), Brisbane, Australia [Dec. 2015 - Feb. 2016]
   * Research Intern supervised by [*Steffen Bollmann*](https://cai.centre.uq.edu.au/profile/115/steffen-bollmann)

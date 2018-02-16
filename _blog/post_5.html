@@ -11,6 +11,12 @@ tags:
   - Open Street Maps
   - Python
   - API
+  - geoPandas
+  - gdal
+  - OSM
+  - Bokeh
+  - geoJSON
+  
 ---
 
 <!DOCTYPE html>
@@ -41,10 +47,9 @@ figure {
 
 <body>
   
-<p>This article serves as a good exercise to see how forward propagation works and then how the gradients are computed to implement the backpropagation algorithm.
-Also, the reader will get comfortable with the computation of vector, tensor derivatives and vector/matrix calculus.
-A useful document can be found <a href="https://compsci697l.github.io/docs/vecDerivs.pdf">here</a> for the interested reader to get familiar with tensor operations.</p>
-
+<p>Suppose you have satellite imagery for an AOI. You can do all sorts of analysis. But, with the advent of deep learning you want to 
+  to some really cool stuff. You want to get the footprints of all the buildings in the Le Plateau area of Montreal or all the 
+  roads in SoMA in San Francisco or perhaps you want to see where are all the general amentities in the Italian quarter in Boston. </p>
   
 <p>We will compute the gradients and derivatives of the loss function of the given neural network as shown in the Fig 1.
 with respect to the parameters: <span class="math inline">\(W_{1}\)</span>, <span class="math inline">\(W_{2}\)</span>, <span class="math inline">\(b_{1}\)</span> and <span class="math inline">\(b_{2}\)</span>.

@@ -166,6 +166,11 @@ What you have got is a code snippet which runs on the server and queries all the
   You can see that on the maps. The footprint of each of the building is shown as bounding boxes. Go ahead
   and zoom in to see the different buildings. Did you get something like this?
 
+<figure>
+<img src="https://github.com/Pulkit-Khandelwal/aoi_footprint_post/blob/master/images/see_aoi.png?raw=true" alt="Buildings in San Francisco in the selected AOI" width="600" height="600" align="middle">
+<figcaption>Fig 6. Buildings in San Francisco in the selected AOI</figcaption>
+</figure>
+
 
 And now you are probably wondering can I save this data?
 Ofcourse, we can! And we will do that in three different ways.
@@ -180,7 +185,17 @@ Let us see:
 
 2. Save this AOI as an image. Click on export and then select the save as png file option.
   
+<figure>
+<img src="https://github.com/Pulkit-Khandelwal/aoi_footprint_post/blob/master/images/export_map_image.png?raw=true" alt="Export the data as an image file" width="600" height="600" align="middle">
+<figcaption>Fig 7. Export the data as an image file</figcaption>
+</figure>
+  
+  
 3. You can also open this on a map and get a weblink which you play around with later.
+
+ Here is my link:
+  https://overpass-turbo.eu/map.html?Q=%2F*%0AThis%20has%20been%20generated%20by%20the%20overpass-turbo%20wizard.%0AThe%20original%20search%20was%3A%0A%E2%80%9Cbuilding%E2%80%9D%0A*%2F%0A%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%2F%2F%20gather%20results%0A(%0A%20%20%2F%2F%20query%20part%20for%3A%20%E2%80%9Cbuilding%E2%80%9D%0A%20%20node%5B%22building%22%5D(37.78312959243036%2C-122.4045181274414%2C37.78753873820529%2C-122.39893913269043)%3B%0A%20%20way%5B%22building%22%5D(37.78312959243036%2C-122.4045181274414%2C37.78753873820529%2C-122.39893913269043)%3B%0A%20%20relation%5B%22building%22%5D(37.78312959243036%2C-122.4045181274414%2C37.78753873820529%2C-122.39893913269043)%3B%0A)%3B%0A%2F%2F%20print%20results%0Aout%20body%3B%0A%3E%3B%0Aout%20skel%20qt%3B
+
   
 </p> 
   

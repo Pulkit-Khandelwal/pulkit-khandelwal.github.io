@@ -94,7 +94,7 @@ font-size: 14px;}
 </ol>
   
 <p> 
-Go to geojson.io Once, you are there you have the choice to select an AOI using the cursor. Go to your faviurite city and draw an
+Go to geojson.io Once, you are there you have the choice to select an AOI using the cursor. Go to your favourite city and draw an
  AOI. I have drawn one in Montreal (the city I am currently writing this post from). Once you have selected the AOI, go ahead and 
   save the coordinates as a geoJSON file. You can do that by using the Save scroll-down menu at the top left corner of the website.
  
@@ -117,7 +117,12 @@ Here is the geoJSON file that I got for roughly Montreal's Lower Plateau area. F
 
 </p> 
   
-   FIGUREEEE
+<figure>
+<img src="https://github.com/Pulkit-Khandelwal/aoi_footprint_post/blob/master/images/geojson_io.png?raw=true" alt="Montreal's Le Plateau AOI" width="600" height="600" align="middle">
+<figcaption>Fig 4. Montreal's Le Plateau AOI</figcaption>
+</figure>
+ 
+  
   
 <p>
 Next, we should see a similar thing on Open Stret Map's API: turbo-pass.eu
@@ -127,9 +132,7 @@ But, this time we wil do a little bit more. On the menu bar at the top of the we
 named: Wizard. Click on that and feel free to explore in your free time. For now, type in building in the query box and then click on the
 
 build and run option. You should see a code generated on the left side of your screen and it appears like this. Make
-  sure you have got the same thing. 
-  
-  
+sure you have got the same thing. 
   
 <pre><code>
 /*
@@ -154,9 +157,12 @@ out skel qt;
   
   
   
- FIGUREEEE.
+<figure>
+<img src="https://github.com/Pulkit-Khandelwal/aoi_footprint_post/blob/master/images/build_query.png?raw=true" alt="Build Query for buildings" width="600" height="600" align="middle">
+<figcaption>Fig 5. Build Query for buildings</figcaption>
+</figure>
   
-What you have got is a code anippet which runs on the server and queries all the buildings in the given AOI.
+What you have got is a code snippet which runs on the server and queries all the buildings in the given AOI.
   You can see that on the maps. The footprint of each of the building is shown as bounding boxes. Go ahead
   and zoom in to see the different buildings. Did you get something like this?
 

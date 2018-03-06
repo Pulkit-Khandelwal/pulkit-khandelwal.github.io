@@ -63,8 +63,10 @@ My Bookshelf
 * **Five Lectures on Psychoanalysis** by *Sigmund Freud*
 * **The Mystery of the Aleph** by *Amir D. Azcel*
 * **The Idea Factory: Bell Labs and the Great Age of American Innovation** by *Jon Gertner*
+* **When Breath becomes Air** by *Paul Kalanithi*
 
 ### Fiction
+* **Never Let me Go** by *Kazuo Ishiguro*
 * **The Catcher in the Rye** by *J. D. Salinger*
 * **The Ministry of Utmost Happiness** by *Arundhati Roy*
 * **The Girl on the Train** by *Paula Hawkins*
@@ -73,7 +75,6 @@ My Bookshelf
 * **And the Mountains Echoed** by *Khaled Hosseini*
 * **The Shiva Trilogy** by *Amish Tripathi*
 
-## Reading improves your life and makes you happy. Here are some notes which might help you to read more books and get the most out of them. 
 
 ## Hungry for more?
 

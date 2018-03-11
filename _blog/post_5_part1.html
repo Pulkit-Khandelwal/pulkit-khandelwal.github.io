@@ -86,6 +86,8 @@ font-size: 14px;
 </ol>
   
  
+<h2>Introduction</h2>
+  
 <p>Suppose you have satellite imagery for an Area of Interest (AOI). You can do all sorts of crazy things with that in the computer visio
   and machine learning community. But given just a geoJSON file of an AOI, how can you get the footprints of all the buildings in the Le Plateau area of Montreal or all the 
   roads/alleys in the South of Market (SoMA) district in San Francisco or perhaps you want to see where are all the general amentities in the Italian quarter in Boston.
@@ -129,7 +131,7 @@ Let's say we have the four coordinates (we will see how to get those in this tut
  
 <p> 
   In this first part of the tutorial series, we will first extract the AOI of some desired region and save
-  that as a geoJSON file. Next, we will repeat small exercise on Open Street Maps' web API but this time
+  that as a geoJSON file. Next, we will repeat this small exercise on Open Street Maps' web API but this time
   we will also query buildings (or highways) and save the entire footprint as a geoJSON. We will stop and ponder
   over the saved geoJSON files. We can save the footprints as images or html files.
 </p> 
@@ -146,34 +148,32 @@ Let's say we have the four coordinates (we will see how to get those in this tut
   (longitude, latitude). On the left panel we have the option to save these coordinates in various forms. For now, we will save
   it as geoJSON.
  
-Here is the geoJSON file that I got for roughly Montreal's Lower Plateau area. Fun fact: I love the cafe culture in this city!
+Here (on <a href="https://github.com/Pulkit-Khandelwal/aoi_footprint_post/blob/master/montreal_aoi.geojson">gitHub</a>)
+  is the geoJSON file that I got for roughly Montreal's Lower Plateau area.
+  I have also included a screenshot below to make sure we have the right thing with us.
+  Fun fact: I love the café culture in this city!
 </p>
  
+  
 <pre class="prettyprint">
-
 {"type":"FeatureCollection","features":[{"type":"Feature","properties":{},"geometry":{"type":"Polygon",
 "coordinates":
 [[[-73.58076095581055,45.509474756808736],
 [-73.55835914611816,45.509474756808736],
 [-73.55835914611816,45.52081177681294],
 [-73.58076095581055,45.52081177681294],
-[-73.58076095581055,45.509474756808736]]]}}]}
-}
-
+[-73.58076095581055,45.509474756808736]
+]]}}]}}
 </pre>
+ 
   
-  
-  
-<p>
- I have also included a screenshot below to make sure we have the right thing with us.
-
-</p> 
   
 <figure>
 <img src="https://github.com/Pulkit-Khandelwal/aoi_footprint_post/blob/master/images/geojson_io.png?raw=true" alt="Montreal's Le Plateau AOI" width="600" height="600" align="middle">
 <figcaption>Fig 4. Montreal's Le Plateau AOI</figcaption>
 </figure>
  
+<h2>Build a query on Open Street Maps' web API</h2>
   
 <p>
 Next, we should see a similar thing on Open Stret Map's API: turbo-pass.eu

@@ -2,7 +2,7 @@
 title: "Generate label footprints for Satellite Imagery: the Pythonic Way [Part 1]"
 collection: blog
 permalink: /blog/post_5
-excerpt: 'Given an AOI of a satellite image, can we get the corresponding groundtruth labels with a some python code?'
+excerpt: 'Use Open Street Maps to query for certain amenities or landmarks'
 date: 2018-02-19
 tags:
   - GIS
@@ -16,6 +16,7 @@ tags:
   - OSM
   - Bokeh
   - geoJSON
+  - Visualisation
   
 ---
 
@@ -59,11 +60,13 @@ font-size: 14px;}
 
 <body>
   
-<p>Suppose you have satellite imagery for an Area of Interest (AOI). You can do all sorts of analysis. But, with the advent of deep learning you want to 
-  to some really cool stuff. But before that, you want to get the footprints of all the buildings in the Le Plateau area of Montreal or all the 
-  roads in SoMA in San Francisco or perhaps you want to see where are all the general amentities in the Italian quarter in Boston. </p>
+<p>Suppose you have satellite imagery for an Area of Interest (AOI). You can do all sorts of crazy things with that in the computer visio
+  and machine learning community. But given just a geoJSON file of an AOI, how can you get the footprints of all the buildings in the Le Plateau area of Montreal or all the 
+  roads/alleys in the South of Market (SoMA) district in San Francisco or perhaps you want to see where are all the general amentities in the Italian quarter in Boston.
+  Once, you have got the footprints as a geoJSON file, can you save them as images (tif, png or anything you like). And, finally
+you know what you can do with these images? Yes, you guessed it right. Analyse the hell out of it.</p>
   
-<p>Let us first see what we want to achieve</p>
+<p>Let us first see some pretty images.</p>
  
 <figure>
 <img src="https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/ams.png?raw=true" alt="Satellite image of the city of Amsterdam" width="600" height="600" align="middle">
@@ -81,17 +84,30 @@ font-size: 14px;}
 </figure>
   
 
-<p>So, you have the four coordinates of the AOI. You want to do the follwoing in order:
+<p>
+Let's say we have the four coordinates (we will see how to get those in this tutorial) of some region on earth. We call
+  the region as our AOI. Below is a list of tasks that we would like to accomplish with this AOI... 
 </p>
   
 <h2>Tasks</h2>
 <ol>
-  <li>Get the orginal image of the AOI</li>
-  <li>Get the footprint of all the amenities you are looking for (here, highways/roads)</li>
-  <li>Then you want save this save an image</li>
-  <li>You also want to overlay this on top of a map (Google Maps, perhaps?)</li>
-  <li>But wait, you also want to save a geoJSON file of the region</li>
+  <li>Get the orginal image of the AOI. Figure 1 is an example of this.</li>
+  <li>Get the footprint of all the amenities you are looking for (here, highways/roads). The footprint means the
+  coordintes of each of the building, road, park, waterbody etc. in our original AOI. geoJSON file will handle that.
+  </li>
+  <li>Then you want save this save an image. Figures 2 and 3 shows the roads and the buildings. </li>
+  <li>You also want to overlay this on top of a map (Google Maps, perhaps?). This will be accomplished using the awesome
+  Python visualisation library aka Bokeh. </li>
 </ol>
+  
+ 
+<p> 
+  In this part 1 of the tutorial, we will first extract the AOI of some desired region and save
+  that as a geoJSON file. Next, we will repeat small exercise on Open Street Maps' web API but this time
+  we will also query buildings (or highways) and save the entire footprint as a geoJSON. We will stop and ponder
+  over the saved geoJSON files. We can save the footprints as images or html files.
+</p> 
+  
   
 <p> 
 Go to geojson.io Once, you are there you have the choice to select an AOI using the cursor. Go to your favourite city and draw an
@@ -99,8 +115,6 @@ Go to geojson.io Once, you are there you have the choice to select an AOI using 
   save the coordinates as a geoJSON file. You can do that by using the Save scroll-down menu at the top left corner of the website.
  
 Here is the geoJSON file that I got for roughly Montreal's Lower Plateau area. Fun fact: I love the cafe culture in this city!
-
-  
 </p>
   
    
@@ -268,5 +282,10 @@ Let us see:
   
 </p> 
   
+<p> 
+We will stop with that in this tutorial. In the next part of this series, we wil dive into the code and actually get to the meat
+  of the problem!
+</p>
+
 </body>
 </html>

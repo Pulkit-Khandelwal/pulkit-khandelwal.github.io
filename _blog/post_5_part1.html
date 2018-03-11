@@ -30,9 +30,11 @@ tags:
   <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
   </script>
-  
   <script type="text/x-mathjax-config">
-  MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "AMS"} } });  </script>
+  MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "AMS"} } });</script>
+  
+  <script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>
+
   
 <style>
 figure {
@@ -60,8 +62,7 @@ code {
 font-family: Courier, 'New Courier', monospace;
 font-size: 14px;
 }
-  
-  
+ 
 </style>
 </head>
 
@@ -76,6 +77,7 @@ font-size: 14px;
   know them, don't worry you can always look them up and come back to the tutorial afterwards. But, between you and me; do come
   back! In any case I will mention the things to know at the start of each part of this series. Like this:
 </p>
+
 
 <h2>Things to know or to brush up</h2>
 
@@ -155,6 +157,23 @@ Here is the geoJSON file that I got for roughly Montreal's Lower Plateau area. F
 "coordinates":[[[-73.58076095581055,45.509474756808736],[-73.55835914611816,45.509474756808736],
 [-73.55835914611816,45.52081177681294],[-73.58076095581055,45.52081177681294],[-73.58076095581055,45.509474756808736]]]}}]}
 </code></pre>
+  
+  
+<pre class="prettyprint">class Voila {
+public:
+  // Voila
+  static const string VOILA = "Voila";
+
+  // will not interfere with embedded <a href="#voila2">tags</a>.
+}</pre>  
+  
+
+<pre class="prettyprint">class Voila {
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{},"geometry":{"type":"Polygon",
+"coordinates":[[[-73.58076095581055,45.509474756808736],[-73.55835914611816,45.509474756808736],
+[-73.55835914611816,45.52081177681294],[-73.58076095581055,45.52081177681294],[-73.58076095581055,45.509474756808736]]]}}]}
+}</pre>
+  
   
   
 <p>

@@ -84,7 +84,7 @@ font-size: 14px;
 <ol>
   <li>json and geoJSON file formats</li>
   <li>Skim over Open Street Maps (OSM) documentation. <a href="https://www.openstreetmap.org">Here</a>
-  <a href="https://wiki.openstreetmap.org/wiki/Main_Page">here</a>.</li>
+  and <a href="https://wiki.openstreetmap.org/wiki/Main_Page">here</a>.</li>
   <li>Skim over OSM's web API: <a href="https://wiki.openstreetmap.org/wiki/Overpass_API">Overpass API</a>
 and <a href="https://overpass-turbo.eu/">overpass-turbo</a> to build queries interactively.</li>
 </ol>
@@ -189,9 +189,16 @@ Just as we did before, go ahead and select a region of interest at <a href="http
 This time I am going with a small part of the financial disctrict in San Francisco.
 On the menu bar at the top of the website, you should see an interesting option
 named: Wizard. Click on that and feel free to explore in your free time.
-For now, type in <pre class="prettyprint"> building </pre> in the query box and then click on the <pre class="prettyprint">build and run </pre>  option.
+For now, type in <b> building </b> in the query box and then click on the <b> build and run </b> option.
 You should see some code generated on the left side of your screen and it appears like this.
 Make sure you have got the same thing. 
+ 
+<figure>
+<img src="https://github.com/Pulkit-Khandelwal/aoi_footprint_post/blob/master/images/build_query.png?raw=true" alt="Build Query for buildings" width="600" height="600" align="middle">
+<figcaption>Fig 5. Build Query for buildings</figcaption>
+</figure>
+  
+</p>
   
 <pre class="prettyprint">
 /*
@@ -212,35 +219,34 @@ out body;
 >;
 out skel qt;
 </pre>
-  
-  
-<figure>
-<img src="https://github.com/Pulkit-Khandelwal/aoi_footprint_post/blob/master/images/build_query.png?raw=true" alt="Build Query for buildings" width="600" height="600" align="middle">
-<figcaption>Fig 5. Build Query for buildings</figcaption>
-</figure>
-  
-What you have got is a code snippet which runs on the server and queries all the buildings in the given AOI.
+
+<p>
+  What you have got is a code snippet which runs on the server and queries all the buildings in the given AOI.
   You can see that on the maps. The footprint of each of the building is shown as bounding boxes. Go ahead
   and zoom in to see the different buildings. Did you get something like this?
-
+</p>
+  
+  
 <figure>
 <img src="https://github.com/Pulkit-Khandelwal/aoi_footprint_post/blob/master/images/see_aoi.png?raw=true" alt="Buildings in San Francisco in the selected AOI" width="600" height="600" align="middle">
 <figcaption>Fig 6. Buildings in San Francisco in the selected AOI</figcaption>
 </figure>
 
-
+<p>
 And now you are probably wondering can I save this data?
 Ofcourse, we can! And we will do that in three different ways.
+</p>
+
+<p>
 
 1. Let us get a geoJSON file just like we did before. To do that click on export and then save the file as a geoJSON.
   If you go through the file, you should see that there is tons of information out there.
 Let us see:
-  You get the coordinates of each building. Wow. What is more interesing is the additional information taht you get out of it.
+  You get the coordinates of each building. Wow. What is more interesing is the additional information that you get out of it.
 
-  Here is my file. And the first few lines of the file....
+Here is my file (an on <a href="https://github.com/Pulkit-Khandelwal/aoi_footprint_post/blob/master/san_francisco_turbo_pass.geojson">gitHub</a>). And the first few lines of the file....
 
-  <pre><code>
- 
+<pre class="prettyprint">
   
   {
   "type": "FeatureCollection",
@@ -301,14 +307,17 @@ Let us see:
             [
               -122.4042282,
               37.7847348
-            ].......................
+            ]
           ]
         ]
       },
       "id": "relation/6483285"
   
- </code></pre> 
-
+ </pre>
+  
+</p>
+ 
+<p>
 2. Save this AOI as an image. Click on export and then select the save as png file option.
   
 <figure>
@@ -316,11 +325,14 @@ Let us see:
 <figcaption>Fig 7. Export the data as an image file</figcaption>
 </figure>
   
+</p>  
   
-3. You can also open this on a map and get a weblink which you play around with later.
+<p>
+  
+3. You can also open this on a map and get a weblink which you play with.
 
- Here is my link:
-  https://overpass-turbo.eu/map.html?Q=%2F*%0AThis%20has%20been%20generated%20by%20the%20overpass-turbo%20wizard.%0AThe%20original%20search%20was%3A%0A%E2%80%9Cbuilding%E2%80%9D%0A*%2F%0A%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%2F%2F%20gather%20results%0A(%0A%20%20%2F%2F%20query%20part%20for%3A%20%E2%80%9Cbuilding%E2%80%9D%0A%20%20node%5B%22building%22%5D(37.78312959243036%2C-122.4045181274414%2C37.78753873820529%2C-122.39893913269043)%3B%0A%20%20way%5B%22building%22%5D(37.78312959243036%2C-122.4045181274414%2C37.78753873820529%2C-122.39893913269043)%3B%0A%20%20relation%5B%22building%22%5D(37.78312959243036%2C-122.4045181274414%2C37.78753873820529%2C-122.39893913269043)%3B%0A)%3B%0A%2F%2F%20print%20results%0Aout%20body%3B%0A%3E%3B%0Aout%20skel%20qt%3B
+Here is my <a href="https://overpass-turbo.eu/map.html?Q=%2F*%0AThis%20has%20been%20generated%20by%20the%20overpass-turbo%20wizard.%0AThe%20original%20search%20was%3A%0A%E2%80%9Cbuilding%E2%80%9D%0A*%2F%0A%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%2F%2F%20gather%20results%0A(%0A%20%20%2F%2F%20query%20part%20for%3A%20%E2%80%9Cbuilding%E2%80%9D%0A%20%20node%5B%22building%22%5D(37.78312959243036%2C-122.4045181274414%2C37.78753873820529%2C-122.39893913269043)%3B%0A%20%20way%5B%22building%22%5D(37.78312959243036%2C-122.4045181274414%2C37.78753873820529%2C-122.39893913269043)%3B%0A%20%20relation%5B%22building%22%5D(37.78312959243036%2C-122.4045181274414%2C37.78753873820529%2C-122.39893913269043)%3B%0A)%3B%0A%2F%2F%20print%20results%0Aout%20body%3B%0A%3E%3B%0Aout%20skel%20qt%3B
+">link</a>.
 
   
 </p> 
@@ -331,10 +343,12 @@ We will stop with that in this tutorial. In the next part of this series, we wil
 </p>
 
 
-<h2>Credits</h2>
+<h2>Credits and References</h2>
 <ol>
 <li>Figure 1 is queried from Planet's imagery database. You can find more about that <a href="https://www.planet.com/products/explorer/">here</a>.</li>
 <li>Figure 2 and 3 were generated from the code mentioned in the next part of this post.</li>
+<li>All the images and files used in this post can be found in this <a href="https://github.com/Pulkit-Khandelwal/aoi_footprint_post">git repo</a>.</li> 
+  
 </ol> 
 
 

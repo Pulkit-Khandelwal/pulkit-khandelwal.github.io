@@ -200,9 +200,8 @@ polygon</li>
 That's a lot to digest. Take your time and then proceed. No hurry!
 </p>
   
+  
 <h2>Step 4: Create a geoDataFrame to store the query and its metadata</h2>  
-  
-  
   
 <pre class="prettyprint" linenums:1>
 geopandas_dataframe = gpd.GeoDataFrame()
@@ -230,24 +229,18 @@ geopandas_dataframe.crs = {'init': 'epsg:4326'}
 <p>
 <ol>
 <ul style="list-style-type:disc">
+We will put all of the stuff in step 3 into geoPandas dataframe, so that we can use it later with ease!
   
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
+<li>In line 1 we create an empty geoPandas dataframe. Line 2 creates a column called <b>geometry</b>. This column
+is where we will store each of the way in its appropriate shape viz. Point, Polygon or a LineString. </li>
+<li>The for loop goes over each of the ways and determines whether each way is a Polygon, Point or a Line.
+In case we have buildings the it is: Polygon</li>
+<li>The last three lines of the for loop stores the metadata associated with each way in three different columns. We won't do
+anything with this in this tutorial series but it is always nice to have that data stored for later use!</li>
+<li>the line in this code snippet specifies the Coordinate Refrence System! More information <a href="http://geopandas.org/projections.html">here</a>. </li>
   
 </ol>
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-           
 
 <h2>Credits and References</h2>
 <ol>

@@ -137,7 +137,7 @@ a geoJSON file. You can use this file here. We will then read this file using th
 api = overpy.Overpass()
 
 query_str = '[out:json];way({south:.8f}, {west:.8f}, {north:.8f},
-                          {east:.8f})[{query_landmark:.50s}]; (._;>;); out;'
+               {east:.8f})[{query_landmark:.50s}]; (._;>;); out;'
 
 query_aoi = query_str.format(north=north, south=south, east=east, west=west, query_landmark='building')
 
@@ -194,17 +194,49 @@ in a list. And we do this for all the ways. Thus, we get a list of lists. I hope
   over through overpy's or OSM's documentation.</li>
 <li> Lines 5 through 10, loops over all the nodes in all the ways; and get all the (longitute,latitude) of the
   different nodes. If for examples we are looking for buildings then each of these (lon,lat) are bounding positions of the
-polygon<./li>
+polygon</li>
 </ol>
 
 That's a lot to digest. Take your time and then proceed. No hurry!
 </p>
   
+<h2>Step 4: Create a geoDataFrame to store the query and its metadata</h2>  
   
   
   
+<pre class="prettyprint" linenums:1>
+geopandas_dataframe = gpd.GeoDataFrame()
+geopandas_dataframe['geometry'] = None
+
+for index, way in enumerate(result_ways):
+    coordinates = list_lon_lat[index]
+
+    if coordinates[0] == coordinates[-1]:
+        geopandas_dataframe.loc[index, 'geometry'] = Polygon(coordinates)
+    elif len(coordinates) == 1:
+        geopandas_dataframe.loc[index, 'geometry'] = Point(coordinates)
+    else:
+        geopandas_dataframe.loc[index, 'geometry'] = LineString(coordinates)
+
+    geopandas_dataframe.loc[index, 'way id'] = str(way)
+    geopandas_dataframe.loc[index, 'expanded_tag'] = str(way.tags)
+    geopandas_dataframe.loc[index, 'queried_tag'] = tag
+
+geopandas_dataframe.crs = {'init': 'epsg:4326'}
+</pre>
   
+
+
+<p>
+<ol>
+<ul style="list-style-type:disc">
   
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+  
+</ol>
   
   
   

@@ -240,6 +240,65 @@ anything with this in this tutorial series but it is always nice to have that da
 <li>the line in this code snippet specifies the Coordinate Refrence System! More information <a href="http://geopandas.org/projections.html">here</a>. </li>
   
 </ol>
+ 
+  
+<h2>Step 5: Save the geoDataframe as a geoJSON file</h2>  
+  
+<pre class="prettyprint" linenums:1>
+name='name_of_geojson_file.geojson'
+
+print('Saving as a geoJSON file as {name}'.format(name=name))
+with open(name, 'w') as file:
+    file.write(geopandas_dataframe.to_json())
+</pre>
+ 
+<p>
+<ol>
+<ul style="list-style-type:disc">
+<li>In line 1 we provide a name for the geojson file.</li>
+<li>Next, we save the geoPandas dataframe obtained from the earlier steps as a geojson file.</li>
+</ol>
+  
+  
+  
+<h2>Step 6: Save the geoDataframe as a shapely object</h2>  
+<p>
+Note that if the dataframe has multiple geometries, then we should convert them to a single geometry
+otherwise a shape file cannot be generated. Hence we will employ a hack in this part.
+</p>  
+  
+<pre class="prettyprint" linenums:1>
+# Check which geometry occurs  the most
+geopandas_dataframe['geom_type'] = None
+for index, row in geopandas_dataframe.iterrows():
+     row['geom_type'] = row['geometry'].geom_type
+
+max_occur_geom = geopandas_dataframe['geom_type'].value_counts().idxmax()
+
+for index, row in data.iterrows():
+geom = row['geometry']
+if geom.geom_type is not max_occur_geom:
+    if max_occur_geom == 'LineString':
+        row['geometry'] = LineString(list(geom.exterior.coords))
+    if max_occur_geom == 'Polygon':
+        # for let's handle it by deleting the row
+        # though the LineString should be converted to a polygon
+        data.drop(index, inplace=True)
+    if max_occur_geom == 'Point':
+        row['geometry'] = Point(list(geom.exterior.coords))
+
+# Save as a shape file
+data.to_file(name)
+
+</pre>
+ 
+<p>
+<ol>
+<ul style="list-style-type:disc">
+<li>   </li>
+<li>   </li>
+</ol>  
+  
   
 
 <h2>Credits and References</h2>

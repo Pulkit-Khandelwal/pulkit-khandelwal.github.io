@@ -106,7 +106,7 @@ from osgeo import gdal, ogr
   
 <h2>Step 1: Read the geoJSON file and extract the bounds of the AOI</h2>
  
-<pre class="prettyprint" linenums>
+<pre class="prettyprint" linenums:1>
 input_aoi = gpd.read_file(aoi)
 
 bounds_coords = input_aoi['geometry'].bounds
@@ -133,7 +133,7 @@ a geoJSON file. You can use this file here. We will then read this file using th
   
 <h2>Step 2: Query the OverPass API using the overpy wrapper</h2>
 
-<pre class="prettyprint" linenums>
+<pre class="prettyprint" linenums:1>
 api = overpy.Overpass()
 
 query_str = '[out:json];way({south:.8f}, {west:.8f}, {north:.8f},
@@ -160,7 +160,60 @@ query.</li>
 </p>
   
   
+  
+  
+<h2>Step 3: Get all the desired footprints in the AOI</h2>
 
+<pre class="prettyprint" linenums:1>
+result_ways = query_result.ways
+
+nodes_of_ways = [way.get_nodes(resolve_missing=True) for way in result_ways]
+
+list_lon_lat = []
+for way in nodes_of_ways:
+    list_of_ways = []
+    for node in way:
+        list_of_ways.append([float(node.lon), float(node.lat)])
+    list_lon_lat.append(list_of_ways)
+</pre>
+  
+
+
+<p>
+<ol>
+<ul style="list-style-type:disc">
+<li> There is something known as <b>ways</b>, <b>nodes</b> and <b>relations</b> which
+  in lay man term's is a way to represent each of the
+  desired footprint. Let's say our desired footprint is buildings in the AOI. Each building is referred to as <b>way</b> and
+each of such a building is represented by some <b>nodes</b>. Each node is thus a coordinate of the building polygon. Each node
+has longitue and a latitude. We need to go through each of them step by step and extract all this information. We also
+  have to make sure that we represent this information in a nice manner.</li>
+<li> Line 1 gets all the <b>ways</b> in the given AOI. </li>
+<li> Line 3 iterates through each of the ways and gets all the nodes in them. We collect all the nodes of given way
+in a list. And we do this for all the ways. Thus, we get a list of lists. I hope this makes sense. If not then I recommend yo to go
+  over through overpy's or OSM's documentation.</li>
+<li> Lines 5 through 10, loops over all the nodes in all the ways; and get all the (longitute,latitude) of the
+  different nodes. If for examples we are looking for buildings then each of these (lon,lat) are bounding positions of the
+polygon<./li>
+</ol>
+
+That's a lot to digest. Take your time and then proceed. No hurry!
+</p>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
            
 

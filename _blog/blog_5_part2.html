@@ -137,6 +137,8 @@ query_str = '[out:json];way({south:.8f}, {west:.8f}, {north:.8f},
                           {east:.8f})[{query_landmark:.50s}]; (._;>;); out;'
 
 query_aoi = query_str.format(north=north, south=south, east=east, west=west, query_landmark='building')
+
+query_result = api.query(query_aoi)
 </pre>
   
   
@@ -147,7 +149,7 @@ bounding box which we have already estimated in the previous step. As the fifth 
 is provided. Here, <b>building</b> Take your own time to understand the syntax here. It took
 to me quite soemtime to wrap my head around it. </br>
 In line 6 the arguments are passed using <b>format</b>.</br>
-Now, we have queried the Overpass API using the overpy wrapper to get all the buildings in the AOI. <b>query_aoi</b> stores the
+Next, we query the Overpass API using the overpy wrapper to get all the buildings in the AOI. <b>query_result</b> stores the
 query.
 </p>
   

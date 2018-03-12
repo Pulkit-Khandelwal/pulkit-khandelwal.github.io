@@ -1,1 +1,357 @@
+---
+title: "Generate label footprints for Satellite Imagery: the Pythonic Way [Part 2]"
+collection: blog
+permalink: /blog/post_5
+excerpt: 'Using Overpass python wrapper to query amenities or landmarks'
+date: 2018-03-01
+tags:
+  - GIS
+  - Satellite Imagery
+  - machine learning
+  - Open Street Maps
+  - Python
+  - API
+  - geoPandas
+  - gdal
+  - OSM
+  - Bokeh
+  - geoJSON
+  - Visualisation
+  - data science
+  - notebooks
+---
 
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>MathJax example</title>
+  <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+  <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "AMS"} } });</script>
+  
+  <script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>
+
+  
+<style>
+figure {
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+  
+pre {
+white-space: pre-wrap;
+white-space: -moz-pre-wrap;
+white-space: -o-pre-wrap;
+word-wrap: break-word;
+background-color: #eee;
+border: 1px solid #999;
+display: block;
+padding: 20px;
+}
+
+code {
+font-family: Courier, 'New Courier', monospace;
+font-size: 14px;
+}
+ 
+</style>
+</head>
+
+
+<body>
+  
+<p>
+  I got introduced to super dope fields of Geographic Information Systems, Spatial Analysis and Satellite Imaging while
+  I interened at Planet in San Francisco. This series of posts will introduce you to a side project that I accomplished.
+  Special thanks to <a href="https://twitter.com/kscottz?lang=en">Kat</a> and <a href="https://github.com/kylehounslow">Kyle</a>, my mentors at Planet. Disclamer: Credits will be given where they are due.
+  I will assume that you might know certain concepts and tools at the start of each part of this tutorial. In case you do not
+  know them, don't worry you can always look them up and come back to the tutorial afterwards. But, between you and me; do come
+  back! In any case I will mention the things to know at the start of each part of this series. Like this:
+</p>
+
+
+<h2>Things to know or to brush up</h2>
+
+<ol>
+  <li>json and geoJSON file formats</li>
+  <li>Skim over Open Street Maps (OSM) documentation. <a href="https://www.openstreetmap.org">Here</a>
+  and <a href="https://wiki.openstreetmap.org/wiki/Main_Page">here</a>.</li>
+  <li>Skim over OSM's web API: <a href="https://wiki.openstreetmap.org/wiki/Overpass_API">Overpass API</a>
+and <a href="https://overpass-turbo.eu/">overpass-turbo</a> to build queries interactively.</li>
+</ol>
+  
+
+  
+<h2>Introduction</h2>
+  
+<p>Suppose you have satellite imagery for an Area of Interest (AOI). You can do all sorts of crazy things with that in the computer visio
+  and machine learning community. But given just a geoJSON file of an AOI, how can you get the footprints of all the buildings in the Le Plateau area of Montreal or all the 
+  roads/alleys in the South of Market (SoMA) district in San Francisco or perhaps you want to see where are all the general amentities in the Italian quarter in Boston.
+  Once, you have got the footprints as a geoJSON file, can you save them as images (tif, png or anything you like). And, finally
+  you know what you can do with these images? Yes, you guessed it right. Analyse the hell out of it.</p>
+  
+<p>Let us first see some pretty images.</p>
+ 
+<figure>
+<img src="https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/ams.png?raw=true" alt="Satellite image of the city of Amsterdam" width="600" height="600" align="middle">
+<figcaption>Fig 1. Satellite image of the city of Amsterdam</figcaption>
+</figure>
+  
+<figure>
+<img src="https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/amsterdam_highway.png?raw=true" alt="Highways in the city of Amsterdam" width="600" height="600" align="middle">
+<figcaption>Fig 1. Highways in the city of Amsterdam</figcaption>
+</figure>
+  
+<figure>
+<img src="https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/ams_building_labels.png?raw=true" alt="Buildings in the city of Amsterdam" width="600" height="600" align="middle">
+<figcaption>Fig 1. Buildings in the city of Amsterdam</figcaption>
+</figure>
+  
+
+<p>
+Let's say we have the four coordinates (we will see how to get those in this tutorial) of some region on earth. We call
+  the region as our AOI. Below is a list of tasks that we would like to accomplish with this AOI... 
+</p>
+  
+<h2>Tasks</h2>
+<ol>
+  <li>Get the orginal image of the AOI. Figure 1 is an example of this.</li>
+  <li>Get the footprint of all the amenities you are looking for (here, highways/roads). The footprint means the
+  coordintes of each of the building, road, park, waterbody etc. in our original AOI. geoJSON file will handle that.
+  </li>
+  <li>Then you want save this save an image. Figures 2 and 3 shows the roads and the buildings. </li>
+  <li>You also want to overlay this on top of a map (Google Maps, perhaps?). This will be accomplished using the awesome
+  Python visualisation library aka Bokeh. </li>
+</ol>
+  
+ 
+<p> 
+  In this first part of the tutorial series, we will first extract the AOI of some desired region and save
+  that as a geoJSON file. Next, we will repeat this small exercise on Open Street Maps' web API but this time
+  we will also query buildings (or highways) and save the entire footprint as a geoJSON. We will stop and ponder
+  over the saved geoJSON files. We can save the footprints as images or html files.
+</p> 
+
+
+<h2> Select an AOI and save that as geoJSON</h2>
+  
+<p>
+ Let's explore <a href="http://geojson.io/">geojson.io</a>. 
+ You have the choice to select an AOI using the cursor. Go to your favorite city and draw an
+ AOI. You can do that either select a rectangular region or an arbitrary polygon. Let's draw a rectangular region for now.
+ I have drawn one in Montreal (the city I am currently writing this post from). Next, on the right side you can see the JSON
+ tab. By clicking that you can see the coordinates of the given region. Remember that each coordinate is in the form: 
+  (longitude, latitude). On the left panel we have the option to save these coordinates in various forms. For now, we will save
+  it as geoJSON.
+ 
+Here (on <a href="https://github.com/Pulkit-Khandelwal/aoi_footprint_post/blob/master/montreal_aoi.geojson">gitHub</a>)
+  is the geoJSON file that I got for roughly Montreal's Lower Plateau area.
+  I have also included a screenshot below to make sure we have the right thing with us.
+  Fun fact: I love the café culture in this city!
+</p>
+ 
+  
+<pre class="prettyprint">
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{},"geometry":{"type":"Polygon",
+"coordinates":[[
+[-73.58076095581055,45.509474756808736],
+[-73.55835914611816,45.509474756808736],
+[-73.55835914611816,45.52081177681294],
+[-73.58076095581055,45.52081177681294],
+[-73.58076095581055,45.509474756808736]
+]]}}]}}
+</pre>
+ 
+  
+  
+<figure>
+<img src="https://github.com/Pulkit-Khandelwal/aoi_footprint_post/blob/master/images/geojson_io.png?raw=true" alt="Montreal's Le Plateau AOI" width="600" height="600" align="middle">
+<figcaption>Fig 4. Montreal's Le Plateau AOI</figcaption>
+</figure>
+ 
+<h2>Build a query on OSM's web API</h2>
+  
+
+<p>
+OSM's web API is known as <a href="https://wiki.openstreetmap.org/wiki/Overpass_API">Overpass API</a>
+and with <a href="https://overpass-turbo.eu/">overpass-turbo</a>  you can run Overpass API's queries interactively on the web.
+  
+Just as we did before, go ahead and select a region of interest at <a href="https://overpass-turbo.eu/">overpass-turbo</a>.
+This time I am going with a small part of the financial disctrict in San Francisco.
+On the menu bar at the top of the website, you should see an interesting option
+named: Wizard. Click on that and feel free to explore in your free time.
+For now, type in <b> building </b> in the query box and then click on the <b> build and run </b> option.
+You should see some code generated on the left side of your screen and it appears like this.
+Make sure you have got the same thing. 
+ 
+<figure>
+<img src="https://github.com/Pulkit-Khandelwal/aoi_footprint_post/blob/master/images/build_query.png?raw=true" alt="Build Query for buildings" width="600" height="600" align="middle">
+<figcaption>Fig 5. Build Query for buildings</figcaption>
+</figure>
+  
+</p>
+  
+<pre class="prettyprint">
+/*
+This has been generated by the overpass-turbo wizard.
+The original search was:
+“building”
+*/
+[out:json][timeout:25];
+// gather results
+(
+  // query part for: “building”
+  node["building"]({{bbox}});
+  way["building"]({{bbox}});
+  relation["building"]({{bbox}});
+);
+// print results
+out body;
+>;
+out skel qt;
+</pre>
+
+<p>
+  What you have got is a code snippet which runs on the server and queries all the buildings in the given AOI.
+  You can see that on the maps. The footprint of each of the building is shown as bounding boxes. Go ahead
+  and zoom in to see the different buildings. Did you get something like this?
+</p>
+  
+  
+<figure>
+<img src="https://github.com/Pulkit-Khandelwal/aoi_footprint_post/blob/master/images/see_aoi.png?raw=true" alt="Buildings in San Francisco in the selected AOI" width="600" height="600" align="middle">
+<figcaption>Fig 6. Buildings in San Francisco in the selected AOI</figcaption>
+</figure>
+
+<p>
+And now you are probably wondering can I save this data?
+Ofcourse, we can! And we will do that in three different ways.
+</p>
+
+<p>
+
+1. Let us get a geoJSON file just like we did before. To do that click on export and then save the file as a geoJSON.
+  If you go through the file, you should see that there is tons of information out there.
+Let us see:
+  You get the coordinates of each building. Wow. What is more interesing is the additional information that you get out of it.
+
+Here is my file (an on <a href="https://github.com/Pulkit-Khandelwal/aoi_footprint_post/blob/master/san_francisco_turbo_pass.geojson">gitHub</a>). And the first few lines of the file....
+
+<pre class="prettyprint">
+  
+  {
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-02-25T06:10:02Z",
+  "features": [
+    {
+        "type": "Feature",
+      "properties": {
+        "@id": "relation/6483285",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "55",
+        "addr:postcode": "94103",
+        "addr:state": "CA",
+        "addr:street": "4th Street",
+        "building": "hotel",
+        "building:levels": "5",
+        "height": "133",
+        "name": "San Francisco Marriott Marquis",
+        "operator": "Marriott",
+        "phone": "(415) 896-1600",
+        "smoking": "no",
+        "tourism": "hotel",
+        "type": "multipolygon",
+        "website": "https://www.marriott.com/hotels/travel/sfodt-san-francisco-marriott-marquis/",
+        "wikidata": "Q3471438"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.4049189,
+              37.7858309
+            ],
+            [
+              -122.404879,
+              37.785861
+            ],
+            [
+              -122.4047012,
+              37.7857217
+            ],
+            [
+              -122.4046577,
+              37.7856871
+            ],
+            [
+              -122.4046488,
+              37.7856801
+            ],
+            [
+   
+              -122.4042572,
+              37.7847125
+            ],
+            [
+              -122.4042282,
+              37.7847348
+            ]
+          ]
+        ]
+      },
+      "id": "relation/6483285"
+  
+ </pre>
+  
+</p>
+ 
+<p>
+2. Save this AOI as an image. Click on export and then select the save as png file option.
+  
+<figure>
+<img src="https://github.com/Pulkit-Khandelwal/aoi_footprint_post/blob/master/images/export_map_image.png?raw=true" alt="Export the data as an image file" width="600" height="600" align="middle">
+<figcaption>Fig 7. Export the data as an image file</figcaption>
+</figure>
+  
+</p>  
+  
+<p>
+  
+3. You can also open this on a map and get a weblink which you play with.
+
+Here is my <a href="https://overpass-turbo.eu/map.html?Q=%2F*%0AThis%20has%20been%20generated%20by%20the%20overpass-turbo%20wizard.%0AThe%20original%20search%20was%3A%0A%E2%80%9Cbuilding%E2%80%9D%0A*%2F%0A%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%2F%2F%20gather%20results%0A(%0A%20%20%2F%2F%20query%20part%20for%3A%20%E2%80%9Cbuilding%E2%80%9D%0A%20%20node%5B%22building%22%5D(37.78312959243036%2C-122.4045181274414%2C37.78753873820529%2C-122.39893913269043)%3B%0A%20%20way%5B%22building%22%5D(37.78312959243036%2C-122.4045181274414%2C37.78753873820529%2C-122.39893913269043)%3B%0A%20%20relation%5B%22building%22%5D(37.78312959243036%2C-122.4045181274414%2C37.78753873820529%2C-122.39893913269043)%3B%0A)%3B%0A%2F%2F%20print%20results%0Aout%20body%3B%0A%3E%3B%0Aout%20skel%20qt%3B
+">link</a>.
+
+  
+</p> 
+  
+<p> 
+We will stop with that in this tutorial. In the next part of this series, we wil dive into the code and actually get to the meat
+  of the problem!
+</p>
+
+
+<h2>Credits and References</h2>
+<ol>
+<li>Figure 1 is queried from Planet's imagery database. You can find more about that <a href="https://www.planet.com/products/explorer/">here</a>.</li>
+<li>Figure 2 and 3 were generated from the code mentioned in the next part of this post.</li>
+<li>All the images and files used in this post can be found in this <a href="https://github.com/Pulkit-Khandelwal/aoi_footprint_post">git repo</a>.</li> 
+  
+</ol> 
+
+
+  
+</body>
+</html>

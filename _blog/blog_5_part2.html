@@ -119,10 +119,11 @@ east = bounds_coords['maxx'][0]
 
   
 <p>
-We are given a geoJSON file (with the AOI) as an input. Remember from the last post that we had the bounding box coordinates saved as
-a geoJSON file. You can use this file here. We will then read this file using the geoPandas library. <br />
-In line 3 we then find the bounds of the four coordinates. This will help us to find the four coordinates.<br />
-Lines 4-7 does exactly that. We save this in four different variables.<br />
+<ul style="list-style-type:disc">
+<li>We are given a geoJSON file (with the AOI) as an input. Remember from the last post that we had the bounding box coordinates saved as
+a geoJSON file. You can use this file here. We will then read this file using the geoPandas library.</li>
+<li>In line 3 we then find the bounds of the four coordinates. This will help us to find the four coordinates.</li>
+<li>Lines 4-7 does exactly that. We save this in four different variables.</li>
 </p>
   
   
@@ -143,14 +144,15 @@ query_result = api.query(query_aoi)
   
   
 <p>
-First and foremost we initialise an object of the Overpy API. <br />
-In line 3 we write a query in the format prescribed by Overpy. The query string accepts the four coordinates of the
+<ul style="list-style-type:disc">
+<li>First and foremost we initialise an object of the Overpy API </li>
+<li>In line 3 we write a query in the format prescribed by Overpy. The query string accepts the four coordinates of the
 bounding box which we have already estimated in the previous step. As the fifth argument, the landmark that we are interested in
 is provided. Here, <b>building</b> Take your own time to understand the syntax here. It took
-to me quite soemtime to wrap my head around it. </br>
-In line 6 the arguments are passed using <b>format</b>.</br>
-Next, we query the Overpass API using the overpy wrapper to get all the buildings in the AOI. <b>query_result</b> stores the
-query.
+to me quite soemtime to wrap my head around it </li>
+<li>In line 6 the arguments are passed using <b>format</b> </li>
+<li>Next, we query the Overpass API using the overpy wrapper to get all the buildings in the AOI. <b>query_result</b> stores the
+query.</li>
 </p>
   
   

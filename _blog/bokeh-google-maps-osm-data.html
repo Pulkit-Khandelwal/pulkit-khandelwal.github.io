@@ -1,5 +1,5 @@
 ---
-title: "Generate label footprints for Satellite Imagery: the Pythonic Way [Part 2]"
+title: "Generate label footprints for Satellite Imagery: the Pythonic Way [Part 3]"
 collection: blog
 permalink: /blog/post_5/bokeh-google-maps-osm-data
 excerpt: 'Visualize Open Street Maps data on Bokeh'
@@ -19,6 +19,7 @@ tags:
   - Visualisation
   - data science
   - notebooks
+  - jupyter
 ---
 
 <!DOCTYPE html>
@@ -69,7 +70,9 @@ font-size: 14px;
 <body>
   
 <p>
-
+Now that we have got the labels, we can want to see whether they are correct or not. You can easily do so
+  by visulizing the labels on Google Maps! We will use a Python visualization library called Bokeh for this.
+This is a pretty easy thing to do!
 </p>
 
 <h2>Things to know or to brush up</h2>
@@ -150,13 +153,21 @@ from bokeh.models import GMapPlot, GMapOptions,
 <p>
 <ol>
 <ul style="list-style-type:disc">
-<li> </li>
-<li> </li>
-<li> </li>
+<li>There are a bunch of import statements.</li>
+<li>Loop through the dataframe obtained from the previous tutorial. We have already saved that! Extract the (longitude, latitude)
+  pair of each Polygon and that in a new dataframe columns. Here <b>x</b> and <b>y</b>
+  p</li>
+<li>We remove the geometry column as it is no longer required and add in the newly created <b>x</b> and <b>y</b> columns into
+  the dataframe. <b>Create ColumnDataSource</b> which is a format used by Bokeh to store the dataframe.</li>
+  <li> <b>GMapOptions(lat=45.5, lng=-73.5, zoom=11, map_type=map_type)</b> helps locate the centre of the map that we are
+  interested in. Here, these are the coordiantes of Montréal. The data will be overlayed in its vicinity. </li>
+<li>Next, we create an empty map object and provide our Google API key (which is a string). </li>
+<li>Specify the type of object. For buildings as we already know it is Polygon. Prettify the map with some tools to scroll and
+  zoom in. And display the overlayed labels on top of the maps. Save it as a html file for future!</li>
 </ol>
+  Fig. 1 shows some buildings overlayed on Google Maps and Fig. 2 shows its zoomed in verison.
 </p>
   
- 
   
 <figure>
 <img src="https://github.com/Pulkit-Khandelwal/aoi_footprint_post/blob/master/images/overlap_map.png?raw=true" alt="Buildings in Montréal" width="600" height="600" align="middle">
@@ -171,7 +182,10 @@ from bokeh.models import GMapPlot, GMapOptions,
 
 
 <p>
-
+That's a wrap to our three part tutorial series. We learnt a lot and I am sure that you enjoyed the journey as much as I did
+  both while working on this project and writing these tutorial blog posts. We learnt to query the OSM web API, use a python wrapper
+  to do it and visulize the labels as well. We got a really nice hands on experience of making our own easy to use API. All the
+  code, jupyter notebook, images, plots is located in <a href="https://github.com/Pulkit-Khandelwal/aoi_footprint_post">this</a> git repository. See you next time!
   
 <p>
   

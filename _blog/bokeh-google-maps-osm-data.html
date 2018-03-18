@@ -75,17 +75,17 @@ font-size: 14px;
 <h2>Things to know or to brush up</h2>
 
 <ol>
-  <li> Bokeh. Get to know about this Python visualization library here. </li>
+  <li> Bokeh. Get to know about this Python visualization library <a href="https://bokeh.pydata.org/en/latest/">here</a>. </li>
 </ol>
 
 <p>
-Before we start, go ahead and get you Google Developer Key. This is required for this part of the tutorial series.
+Before we start, go ahead and get you <a href="https://developers.google.com/maps/documentation/javascript/get-api-key">Google Developer Key</a>. 
+  This is required for this part of the tutorial series. The code can be found in this <a href="https://github.com/Pulkit-Khandelwal/aoi_footprint_post/blob/master/code/osm_data_query_DEMO.ipynb">notebook</a>.
+  
 </p>
   
-
  
 <pre class="prettyprint" linenums:1>
-
 import fiona
 import numpy as np
 from bokeh.models import ColumnDataSource, HoverTool, LogColorMapper
@@ -139,14 +139,14 @@ from bokeh.models import GMapPlot, GMapOptions,
         shape = MultiLine(xs="x", ys="y", line_color="#8073ac", line_width=2)
        
         
-
     plot.add_glyph(gsource, shape)
     plot.add_tools(PanTool(), WheelZoomTool(), BoxSelectTool())
     show(plot)
     output_file("show_on_map.html")
 </pre>
 
-  
+ 
+
 <p>
 <ol>
 <ul style="list-style-type:disc">
@@ -156,9 +156,18 @@ from bokeh.models import GMapPlot, GMapOptions,
 </ol>
 </p>
   
+ 
   
+<figure>
+<img src="https://github.com/Pulkit-Khandelwal/aoi_footprint_post/blob/master/images/overlap_map.png?raw=true" alt="Buildings in Montréal" width="600" height="600" align="middle">
+<figcaption>Fig 1. Buildings in Montréal</figcaption>
+</figure>  
   
-  
+
+<figure>
+<img src="https://github.com/Pulkit-Khandelwal/aoi_footprint_post/blob/master/images/map_zoom.png?raw=true" alt="Buildings in Montréal (zoomed in view)" width="600" height="600" align="middle">
+<figcaption>Fig 1. Buildings in Montréal (zoomed in view)</figcaption>
+</figure>  
 
 
 <p>

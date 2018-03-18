@@ -1,0 +1,180 @@
+---
+title: "Generate label footprints for Satellite Imagery: the Pythonic Way [Part 2]"
+collection: blog
+permalink: /blog/post_5/bokeh-google-maps-osm-data
+excerpt: 'Visualize Open Street Maps data on Bokeh'
+date: 2018-03-05
+tags:
+  - GIS
+  - Satellite Imagery
+  - machine learning
+  - Open Street Maps
+  - Python
+  - API
+  - geoPandas
+  - gdal
+  - OSM
+  - Bokeh
+  - geoJSON
+  - Visualisation
+  - data science
+  - notebooks
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>MathJax example</title>
+  <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+  <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "AMS"} } });</script>
+  
+  <script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>
+
+  
+<style>
+figure {
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+  
+pre {
+white-space: pre-wrap;
+white-space: -moz-pre-wrap;
+white-space: -o-pre-wrap;
+word-wrap: break-word;
+background-color: #eee;
+border: 1px solid #999;
+display: block;
+padding: 20px;
+}
+
+code {
+font-family: Courier, 'New Courier', monospace;
+font-size: 14px;
+}
+ 
+</style>
+</head>
+
+<body>
+  
+<p>
+
+</p>
+
+<h2>Things to know or to brush up</h2>
+
+<ol>
+  <li> Bokeh. Get to know about this Python visualization library here. </li>
+</ol>
+
+<p>
+Before we start, go ahead and get you Google Developer Key. This is required for this part of the tutorial series.
+</p>
+  
+
+ 
+<pre class="prettyprint" linenums:1>
+
+import fiona
+import numpy as np
+from bokeh.models import ColumnDataSource, HoverTool, LogColorMapper
+from bokeh.palettes import RdYlBu11 as palette
+from bokeh.plotting import figure, show, save
+from bokeh.io import output_file, show
+from bokeh.models import GMapPlot, GMapOptions,
+    ColumnDataSource, Circle, Patches, MultiLine, Oval,
+    DataRange1d, PanTool, WheelZoomTool, BoxSelectTool
+</pre>
+
+
+<pre class="prettyprint" linenums:1>
+    dataframe['x'] = None
+    dataframe['y'] = None
+
+    for index, row in dataframe.iterrows():
+
+        x = []
+        y = []
+        
+        for pt in list(row['geometry'].exterior.coords):
+            
+            x.append(pt[1])  # lat
+            y.append(pt[0])  # lon
+
+
+        dataframe.set_value(index, 'x', x)
+        dataframe.set_value(index, 'y', y)
+
+        
+    # Drop the 'geometry' column and create
+    # ColumnDataSource for Bokeh
+    g_df = dataframe.drop('geometry', axis=1).copy()
+    gsource = ColumnDataSource(g_df)
+
+    map_options = GMapOptions(lat=45.5, lng=-73.5, zoom=11, map_type=map_type)
+
+    plot = GMapPlot(
+        x_range=DataRange1d(), y_range=DataRange1d(), map_options=map_options)
+
+    plot.title.text = "AOI"
+
+    plot.api_key = key
+    
+    if shapely_type == 'Polygon':
+        shape = Patches(xs='y', ys='x', fill_color="blue", fill_alpha=0.9, line_color=None)
+    if shapely_type == 'Point':
+        shape = Circle(x='x', y='y')
+    if shapely_type == 'LineString':
+        shape = MultiLine(xs="x", ys="y", line_color="#8073ac", line_width=2)
+       
+        
+
+    plot.add_glyph(gsource, shape)
+    plot.add_tools(PanTool(), WheelZoomTool(), BoxSelectTool())
+    show(plot)
+    output_file("show_on_map.html")
+</pre>
+
+  
+<p>
+<ol>
+<ul style="list-style-type:disc">
+<li> </li>
+<li> </li>
+<li> </li>
+</ol>
+</p>
+  
+  
+  
+  
+
+
+<p>
+
+  
+<p>
+  
+  
+<h2>Credits and References</h2>
+<ol>
+The code was written during my internship. I should give credits to Planet and all the other cool open source projects and
+libraries/APIs that were used to make this possible. If you feel that I have missed some credits, feel free to email me and
+I will make sure they appear here.
+</ol> 
+
+
+  
+</body>
+</html>

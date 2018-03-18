@@ -268,7 +268,7 @@ otherwise a shape file cannot be generated. Hence we will employ a hack in this 
 </p>  
   
 <pre class="prettyprint" linenums:1>
-# Check which geometry occurs  the most
+# Check which geometry occurs the most
 geopandas_dataframe['geom_type'] = None
 for index, row in geopandas_dataframe.iterrows():
      row['geom_type'] = row['geometry'].geom_type
@@ -281,7 +281,7 @@ if geom.geom_type is not max_occur_geom:
     if max_occur_geom == 'LineString':
         row['geometry'] = LineString(list(geom.exterior.coords))
     if max_occur_geom == 'Polygon':
-        # for let's handle it by deleting the row
+        # for now let's handle it by deleting the row
         # though the LineString should be converted to a polygon
         data.drop(index, inplace=True)
     if max_occur_geom == 'Point':
@@ -295,8 +295,12 @@ data.to_file(name)
 <p>
 <ol>
 <ul style="list-style-type:disc">
-<li>   </li>
-<li>   </li>
+<li>Lines  2-4 checks which geometry occurs the most. Let's say for the case where we query all the buildings,
+  we get Polygons but there might be some outliers where we get some other object like Lines or Points. This might arise
+  beacuse of some improper labelled data in OSM.</li>
+<li>So, in that case we should either convert those outliers to Polygons or just discard them. This is handled by
+  the second part of the code snippet. </li>
+<li>Finally, save it as a shapely object!</li>
 </ol>  
   
   

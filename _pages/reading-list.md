@@ -66,7 +66,7 @@ My Bookshelf
 * **When Breath becomes Air** by *Paul Kalanithi*
 * **A Little History of Philosophy** by *Nigel Warburton*
 * **The Consolations of Philosophy** by *Alain de Botton*
-* **In Other Words** by *Jhumpa Lahiri
+* **In Other Words** by *Jhumpa Lahiri*
 
 ### Fiction
 * **Never Let me Go** by *Kazuo Ishiguro*

@@ -64,6 +64,9 @@ My Bookshelf
 * **The Mystery of the Aleph** by *Amir D. Azcel*
 * **The Idea Factory: Bell Labs and the Great Age of American Innovation** by *Jon Gertner*
 * **When Breath becomes Air** by *Paul Kalanithi*
+* **A Little History of Philosophy** by *Nigel Warburton*
+* **The Consolations of Philosophy** by *Alain de Botton*
+* **In Other Words** by *Jhumpa Lahiri
 
 ### Fiction
 * **Never Let me Go** by *Kazuo Ishiguro*

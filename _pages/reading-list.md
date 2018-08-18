@@ -66,12 +66,14 @@ My Bookshelf
 * **When Breath becomes Air** by *Paul Kalanithi*
 * **A Little History of Philosophy** by *Nigel Warburton*
 * **The Consolations of Philosophy** by *Alain de Botton*
+* **How Proust Can Change Your Life** by *Alain de Botton*
 * **In Other Words** by *Jhumpa Lahiri*
 
 ### Fiction
 * **Never Let me Go** by *Kazuo Ishiguro*
 * **The Catcher in the Rye** by *J. D. Salinger*
 * **The Ministry of Utmost Happiness** by *Arundhati Roy*
+* **The God of Small Things** by *Arundhati Roy*
 * **The Girl on the Train** by *Paula Hawkins*
 * **The Kite Runner** by *Khaled Hosseini*
 * **A Thousand Splendid Suns** by *Khaled Hosseini*

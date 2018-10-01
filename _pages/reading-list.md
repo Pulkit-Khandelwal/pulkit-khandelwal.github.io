@@ -11,7 +11,7 @@ Somebody once asked Warren Buffett about his secret to success. Buffett pointed 
 
 ## I read cognitive science, psychology and popular science books. Every now and then, I also read some fiction.
 
-I also follow the book recommendations by [**Bill Gates**](https://www.gatesnotes.com/Books#All) and [**Mark Zuckerberg**](http://www.ayearofbooks.net/book-1-/). 
+I also follow the book recommendations by [**Bill Gates**](https://www.gatesnotes.com/Books#All)
 
 My Bookshelf
 ------
@@ -68,6 +68,11 @@ My Bookshelf
 * **The Consolations of Philosophy** by *Alain de Botton*
 * **How Proust Can Change Your Life** by *Alain de Botton*
 * **In Other Words** by *Jhumpa Lahiri*
+* **Conquest of Happiness** by Bertrand Russell
+
+### Essays
+* **A Mathematician's Apology** by GH Hardy
+* **The Trouble with the Historical Philosophy of Science** by Thomas Kuhn
 
 ### Fiction
 * **Never Let me Go** by *Kazuo Ishiguro*
@@ -81,7 +86,8 @@ My Bookshelf
 * **The Shiva Trilogy** by *Amish Tripathi*
 
 
-## Hungry for more?
+## Reading Lists
 
 * [**Facebook**](https://media.fb.com/2016/12/19/global-influencers-share-2016-book-recommendations-for-readtolead/)
 * [**Simon Singh**](https://simonsingh.net/books/recommended-books/)
+* [**Mark Zuckerberg**](http://www.ayearofbooks.net/book-1-/).

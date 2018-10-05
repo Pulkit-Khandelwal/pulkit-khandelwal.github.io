@@ -5,3 +5,11 @@ This Github repository consists of a collection of Reinforcement Learning algori
  <br/><img src='https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/images/rl.png?raw=true'>"
 collection: portfolio
 ---
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+<meta http-equiv="refresh" content="0; url=https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks" />
+  
+</body>
+</html>

@@ -11,8 +11,12 @@ author_profile: true
 * Podcast init
 * Talking Machines
 * Stuff to Blow Your Mind
+* How I Built This
+* The Guardian Book Podcast
+* Planet Money
 * PartiallyDerivative
 * Software Engineering
+
 
 ### Philosophy
 * [Hi Phi Nation](https://hiphination.org/)

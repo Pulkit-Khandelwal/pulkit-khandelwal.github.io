@@ -68,7 +68,7 @@ My Bookshelf
 * **The Consolations of Philosophy** by *Alain de Botton*
 * **How Proust Can Change Your Life** by *Alain de Botton*
 * **In Other Words** by *Jhumpa Lahiri*
-* **Conquest of Happiness** by Bertrand Russell
+* **The Conquest of Happiness** by Bertrand Russell
 
 ### Essays
 * **A Mathematician's Apology** by GH Hardy

@@ -15,9 +15,9 @@ author_profile: true
 * Software Engineering
 
 ### Philosophy
-* [Hi Phi Nation] (https://hiphination.org/)
-* [Philospize This] (http://philosophizethis.org/)
-* [A Browsable History of Philosophy] (https://www.denizcemonduygu.com/philo/browse/)
+* [Hi Phi Nation](https://hiphination.org/)
+* [Philospize This](http://philosophizethis.org/)
+* [A Browsable History of Philosophy](https://www.denizcemonduygu.com/philo/browse/)
 
 ### Comics
 * Wait but Why

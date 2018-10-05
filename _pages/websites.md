@@ -51,3 +51,5 @@ author_profile: true
 * Vox
 * Arts and Letters Daily
 * The New Yorker
+* London Book of Reviews
+* Paris Book of Reviews

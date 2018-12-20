@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+## Introduction to Domain Adaptation and Generalization [2018]
+* Research talk at several venues: the School of Computer Science, Montreal AI Symposium, Montreal Neurological Institute and Imagia Inc., Montreal
+
 ## Montreal AI Symposium, Montreal, Canada [August 2018]
 * Presented a poster on Modality Generalizer: A Meta Learning Framework for Domain Generalization in Medical Imaging
 * [**Click here**](https://drive.google.com/file/d/1zBAKiiXr1-HIOd3-5-InWHX7zY48wDwW/view?usp=sharing) for the poster.

@@ -15,7 +15,8 @@ author_profile: true
 * The Guardian Book Podcast
 * Planet Money
 * PartiallyDerivative
-* Software Engineering
+* Quanta podcast
+* The Memory Palace
 
 
 ### Philosophy
@@ -42,7 +43,7 @@ author_profile: true
 * Chris Olah
 * Dan Bader
 
-### Youtube Channels
+### Youtube Channels worth following
 * Numberphile
 * 3Blue1Brown
 * Vsauce
@@ -51,6 +52,9 @@ author_profile: true
 * Computerphile
 * Physics Girl
 * Ted-ed
+* Kurzgesagt – In a Nutshell
+* Neuro Transmissions
+* CrashCourse
 
 ### News and media consumption
 * Vice

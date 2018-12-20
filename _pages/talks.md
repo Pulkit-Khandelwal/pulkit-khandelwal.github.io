@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Introduction to Domain Adaptation and Generalization [2018]
-* Research talk at several venues: the School of Computer Science, Montreal AI Symposium, Montreal Neurological Institute and Imagia Inc., Montreal
+* Research talk at several venues: School of Computer Science, Montreal AI Symposium, Montreal Neurological Institute and Imagia Inc., Montreal
 * [**Click here**](https://drive.google.com/drive/folders/1t5yFeo0aNoC7E9l8lDRBM6itRiMSSG_Y?usp=sharing) for the slides. 
 
 ## Montreal AI Symposium, Montreal, Canada [August 2018]

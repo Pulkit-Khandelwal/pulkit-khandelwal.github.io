@@ -45,6 +45,7 @@ author_profile: true
 ### Youtube Channels
 * Numberphile
 * 3Blue1Brown
+* Vsauce
 * Mathologer
 * Minute Physics
 * Computerphile
@@ -53,6 +54,7 @@ author_profile: true
 ### News and media consumption
 * Vice
 * Vox
+* The Atlantic
 * Arts and Letters Daily
 * The New Yorker
 * London Book of Reviews

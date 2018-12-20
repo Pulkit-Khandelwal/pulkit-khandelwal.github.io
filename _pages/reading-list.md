@@ -9,7 +9,7 @@ Somebody once asked Warren Buffett about his secret to success. Buffett pointed 
 > Read 500 pages like this every day. That’s how knowledge works. It builds up, like compound interest.
 >All of you can do it, but I guarantee not many of you will…
 
-## I read cognitive science, psychology and popular science books. Every now and then, I also read some fiction.
+## I read cognitive science, philosophy and popular science books. Every now and then, I also read some fiction.
 
 I also follow the book recommendations by [**Bill Gates**](https://www.gatesnotes.com/Books#All)
 
@@ -69,6 +69,8 @@ My Bookshelf
 * **How Proust Can Change Your Life** by *Alain de Botton*
 * **In Other Words** by *Jhumpa Lahiri*
 * **The Conquest of Happiness** by Bertrand Russell
+* **One Thundred years of Solitude** by Gabriel García Márquez
+* **Surely You're joking, Mr. Feynman!** by Richard Feynman
 
 ### Essays
 * **A Mathematician's Apology** by GH Hardy

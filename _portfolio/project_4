@@ -1,0 +1,36 @@
+---
+title: "Image Steganography"
+excerpt: "Randomly hiding secret data using dynamic programming for image steganography"
+ <br/><img src='https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/images/spine-200.png?raw=true' width='400' height='400'>"
+collection: portfolio
+---
+<html>
+  
+ <p>
+ Data hiding in multimedia systems is a ubiquitous practice encouraging
+ secret communication of highly confidential information among different parties.
+ To accomplish such a task, a steganographic system is to be realized.
+ Adding to the plethora of algorithms designed to hide secret data in images,
+ a new data hiding scheme based on Energy and Cost of the Image has been proposed.
+ Energy of an image describes the relationship between adjacent pixels which is based on its potential.
+ Offshoots of Dynamic Programming are used to estimate the cost of the image and further random traversal is
+ employed to select the pixels in which data is to be embedded. The information in the form of bits is embedded
+ in each of the selected pixel in a predefined manner. The mean square error and peak signal to noise ratio has also been calculated along with structural similarity index to assess the quality of the cover and the obtained stego image. The final results show a remarkable improvement over some of the existing methods in terms of payload capacity, robustness, fidelity and the metrics calculated. With minimum computational time a robust steganography scheme is achieved.
+ </p>
+  
+ <p>
+Related Publications: 
+
+A. Vasilevskiy and K. Siddiqi
+Flux Maximizing Geometric Flows.
+IEEE Transactions on Pattern Analysis & Machine Intelligence, 24(12), pp. 1565-1578, 2002.
+[PDF] © 2002 IEEE. <\br>
+
+C.X.B. Yan, B. Goulet, J. Pelletier, D. Tampieri and D. L. Collins.
+Ultrasound-CT Registration of Vertebrae Without Reconstruction.
+International Journal of Computer Assisted Radiology and Surgery, 7(6), 901--909, 2012.
+[PDF] © 2012 Springer.
+  
+</p>
+
+</html>

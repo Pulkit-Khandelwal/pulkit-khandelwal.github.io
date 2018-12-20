@@ -34,13 +34,13 @@ author_profile: true
 * Zines by Julia Evans
 
 ### Blogs and tech sites
+* Hacker News
 * Quanta Magazine
 * pudding.cool
+* dev.to
 * WildML
 * Chris Olah
 * Dan Bader
-* Hacker News
-* dev.to
 
 ### Youtube Channels
 * Numberphile
@@ -50,11 +50,13 @@ author_profile: true
 * Minute Physics
 * Computerphile
 * Physics Girl
+* Ted-ed
 
 ### News and media consumption
 * Vice
 * Vox
 * The Atlantic
+* The Verge
 * Arts and Letters Daily
 * The New Yorker
 * London Book of Reviews

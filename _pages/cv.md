@@ -24,20 +24,20 @@ Interests
 
 Research and Work Experience
 ======
-* **Shape Analysis Group, McGill University** [Nov. 2016 - present]   
+**[Shape Analysis Group](http://www.cim.mcgill.ca/~shape/), McGill University** [Nov. 2016 - present]   
 * Segmentation of Human Vertebral column in CT volumes
 * Methods: Flux based Level-sets with shape priors and topological constraints
 * Design of coherence and edge enhanced anisotropic diffusion filtering techniques
 * Numerical methods: Sparse Field and Additive Operator Splitting
 
-* [**Imagia Inc.**](https://www.imagia.com/), Montreal, Canada [May 2018 - Aug. 2018]
+[**Imagia Inc.**](https://www.imagia.com/), Montreal, Canada [May 2018 - Aug. 2018]
 * Computer vision and deep learning intern
 * Domain Adaptation via Adversarial Training to classify Polyp type in Colonoscopy data
 * Meta-learning based Domain Generalization across multiple modalities for Brain Tumor Segmentation
 * Interpretability of Deep Networks for medical imaging
 * Packaged the codebase into an API
 
-* [**Planet Labs**](https://www.planet.com/), San Francisco, United States [Aug. 2017 - Dec. 2017]
+[**Planet Labs**](https://www.planet.com/), San Francisco, United States [Aug. 2017 - Dec. 2017]
 * Machine Learning Intern supervised by [*Katherine Scott*](https://www.linkedin.com/in/katherineascott/)
 * Created Segmentation APIs for in-house Computer Vision, Machine Learning and GIS library
 * Developed an open-source tool to query Open Street Maps data
@@ -51,7 +51,7 @@ approaches for Hippocampal subfields
 * Developed a biomarker for neurodegenerative diseases
 * Performance evaluation of FreeSurfer and ASHS on 7T brain MRI volumes
   
-* [**Imaging, Media and Graphics Lab., University of Saskatchewan**](https://www.cs.usask.ca/research/research-groups/imaging,-multimedia-and-graphics-img-lab.php), Saskatoon, Canada [June 2015 - Aug. 2015]
+[**Imaging, Media and Graphics Lab., University of Saskatchewan**](https://www.cs.usask.ca/research/research-groups/imaging,-multimedia-and-graphics-img-lab.php), Saskatoon, Canada [June 2015 - Aug. 2015]
 * Research Intern supervised by [*Mark Eramian*](https://www.cs.usask.ca/faculty/eramian/)
 * Evaluation of Reproducibility and Accuracy in Semi-automated Interactive Image Segmentation Algorithms
 * Markov Random Fields and graph cuts based methods for Image Segmentation

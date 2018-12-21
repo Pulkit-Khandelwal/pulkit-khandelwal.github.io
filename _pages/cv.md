@@ -116,10 +116,10 @@ linear function approximation and Value Iteration Networks
 
 Honours and Awards
 ======
-* Graduate Scholarship, **Natural Sciences and Engineering Research Council of Canada**, Montreal, Canada [2016 - 2018]
-* Graduate Scholarship, **Mitacs Globalink Graduate Fellowship**, Montreal, Canada [2016 - 2018]
-* **UQ Summer Research Program**, Brisbane, Australia [2015 - 2016]
-* **Mitacs Globalink Research Internship**, Saskatoon, Canada [2015]
+* Graduate Scholarship, **Natural Sciences and Engineering Research Council of Canada CREATE-MIA, Graduate Fellowship** ($41,000), Montreal, Canada [2016 - 2018]
+* Graduate Scholarship, **Mitacs Globalink Graduate Fellowship** ($15,000), Montreal, Canada [2016 - 2018]
+* **UQ Summer Research Program** ($3,000), Brisbane, Australia [2015 - 2016]
+* **Mitacs Globalink Research Internship** ($7,500), Saskatoon, Canada [2015]
 * Best User Experience and User Interface Award, **Startup Weekend**, Bangalore, India [2014]
 * **iCUBE -The National Youth Idea Challenge for Innovative Business Ideation**, Top 50 out of 7500. Idea Champion, New Delhi, India [2013]
 * **International English Olympiad**, All India Rank- 44; State Rank-7; School Rank-1, Pune, India [2010]

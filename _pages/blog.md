@@ -12,7 +12,6 @@ author_profile: true
 * How to solve the class imbalance problem in Machine Learning
 * Abstract Base Classes in Python
 * Image Steganography
-* Reinforcement Learning Papers implementation
 
 ## Past Posts
 {% include base_path %}

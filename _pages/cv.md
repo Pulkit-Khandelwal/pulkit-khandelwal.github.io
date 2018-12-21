@@ -19,8 +19,9 @@ Education
  
 Interests
 ======
-* Computer Vision. Machine Learning. Deep Learning
-* Medical Imaging: Image Segmentation
+* Medical Image Analysis. Computer Vision. Machine Learning
+* Shape Analysis. Specral Methods. Computational Geometry
+
 
 Research and Work Experience
 ======
@@ -44,7 +45,7 @@ Research and Work Experience
 * Developed deep semantic segmentation modules for building segmentation in Planet Satellite Imagery
 * Skillset: Test-driven and containers driven development, OOPs, Design Patterns and Continuous Integration (***Code in Production***)
 
-* [**Centre for Advanced Imaging, University of Queensland**](https://cai.centre.uq.edu.au/), Brisbane, Australia [Dec. 2015 - Feb. 2016]
+[**Centre for Advanced Imaging, University of Queensland**](https://cai.centre.uq.edu.au/), Brisbane, Australia [Dec. 2015 - Feb. 2016]
 * Research Intern supervised by [*Steffen Bollmann*](https://cai.centre.uq.edu.au/profile/115/steffen-bollmann)
 * Evaluated reliability and reproducibility of probabilistic and atlas based segmentation
 approaches for Hippocampal subfields
@@ -61,11 +62,11 @@ approaches for Hippocampal subfields
 Skills
 ======
 
-* Languages: Python, C++, Bash
-* Libraries: scikit, vlfeat, PIL, OpenCV, nltk, keras, tensorflow
-* Medical Imaging: freeSurfer, ASHS, ITK
+* Languages: Python, C, C++, Bash
+* Libraries: scikit-learn, vlfeat, PIL, OpenCV, nltk, PyTorch, Keras
+* Medical Imaging: freeSurfer, ASHS, ITK, VTK, Slicer
 * GIS and Remote Sensing: geoPandas, Open Street Maps APIs
-* Tools and Packages: Matlab, git, Mathematica, web2Py
+* Tools and Packages: Matlab, Mathetmatica, git, Mathematica, web2Py
 
 Publications
 ======
@@ -90,6 +91,28 @@ Relevant Coursework
 Projects
 ======
 [**Click here**](https://pulkit-khandelwal.github.io/portfolio/) for some of the projects
+
+* MRI Brain Matter Segmentation: Hidden Markov Random Field Model and the Expectation-Maximization
+Algorithm
+* Understanding Medical Records - Natural Language Processing for Automatic Code Assignment
+using Structured and Contextual Information to predict patient outcomes in the form
+of ICD codes: GloVe, tf-idf, skip-thought vectors and Word2Vec feature representation for Deep Recurrent
+Nets. Also, used Synthetic Minority Over-sampling Technique (SMOTE) and MCMC sampling to solve the
+class imbalance problem
+* Conditional Image Generation for Image Inpainting: Generative Adversarial Networks, Variational
+Autoencoders, Conditional GANs, Image Synthesis, Soft Attention Models and Neural Style Transfer methods
+used to generate the middle region of images conditioned on the border of the image and a caption describing
+the image
+* Randomly Hiding Secret Data using Dynamic Programming for Image Steganography
+* Time Series Analysis of Animal Movement Data: Trajectory prediction, outlier detection and analysis
+of migratory patterns by leveraging Deep Recurrent Nets with LSTMs and GRUs for time series prediction
+and various kernel based clustering algorithms
+* Inverse Reinforcement Learning: Extension of Maximum Entropy Networks with deep non
+linear function approximation and Value Iteration Networks
+* True Online Temporal Difference Learning and Emphatic TD(lambda) for off-policy TD Learning
+* A Theoretical and Empirical Analysis of Expected Sarsa: Compared with Sarsa and Q-learning
+* Multi-step bootstrapping and TD Control Methods for On and Off Policy Learning
+* Learning to Act Using Real Time Dynamic Programming
 
 Honours and Awards
 ======

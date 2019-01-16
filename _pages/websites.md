@@ -53,6 +53,7 @@ author_profile: true
 * Physics Girl
 * Ted-ed
 * Kurzgesagt – In a Nutshell
+* Academy of Ideas
 * Neuro Transmissions
 * CrashCourse
 

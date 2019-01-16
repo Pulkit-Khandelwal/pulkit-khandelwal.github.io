@@ -69,22 +69,24 @@ My Bookshelf
 * **How Proust Can Change Your Life** by *Alain de Botton*
 * **In Other Words** by *Jhumpa Lahiri*
 * **The Conquest of Happiness** by Bertrand Russell
-* **One Thundred years of Solitude** by Gabriel García Márquez
 * **Surely You're joking, Mr. Feynman!** by Richard Feynman
 
 ### Essays
 * **A Mathematician's Apology** by GH Hardy
 * **The Trouble with the Historical Philosophy of Science** by Thomas Kuhn
+* **Existentialism is Humanism** by Jean Paul Sarte 
 
 ### Fiction
+* **The Great Gatsby** by *F. Scott Fitzgerald*
 * **Never Let me Go** by *Kazuo Ishiguro*
 * **The Catcher in the Rye** by *J. D. Salinger*
 * **The Ministry of Utmost Happiness** by *Arundhati Roy*
 * **The God of Small Things** by *Arundhati Roy*
-* **The Girl on the Train** by *Paula Hawkins*
+* **One Thundred years of Solitude** by Gabriel García Márquez
 * **The Kite Runner** by *Khaled Hosseini*
 * **A Thousand Splendid Suns** by *Khaled Hosseini*
 * **And the Mountains Echoed** by *Khaled Hosseini*
+* **The Girl on the Train** by *Paula Hawkins*
 * **The Shiva Trilogy** by *Amish Tripathi*
 
 

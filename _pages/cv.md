@@ -20,7 +20,7 @@ Education
 Interests
 ======
 * Medical Image Analysis. Computer Vision. Machine Learning
-* Shape Analysis. Specral Methods. Computational Geometry
+* Shape Analysis. Spectral Methods. Computational Geometry
 
 
 Research and Work Experience
@@ -66,7 +66,7 @@ Skills
 * Libraries: scikit-learn, vlfeat, PIL, OpenCV, nltk, PyTorch, Keras
 * Medical Imaging: freeSurfer, ASHS, ITK, VTK, Slicer
 * GIS and Remote Sensing: geoPandas, Open Street Maps APIs
-* Tools and Packages: Matlab, Mathetmatica, git, Mathematica, web2Py
+* Tools and Packages: Matlab, Mathetmatica, git
 
 Publications
 ======
@@ -127,8 +127,9 @@ Honours and Awards
 Teaching
 ======
 * ***Graduate Teaching Assistant***, School of Computer Science, McGill University
-  * *Intorduction to Software Systems* [COMP 206]: Fall 2016, Winter 2017 and Winter 2018
-  * *Intorduction to Computer Vision* [COMP 558]: Fall 2018
+  * *Introduction to Software Systems* [COMP 206]: Fall 2016, Winter 2017, Winter 2018 and Winter 2019
+  * *Introduction to Computer Systems* [COMP 273]: Winter 2019
+  * *Introduction to Computer Vision* [COMP 558]: Fall 2018
   
 Volunteer and Extra-curricular Activities
 ======

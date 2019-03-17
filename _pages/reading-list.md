@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "My Reading List"
+title: "Bookshelf"
 permalink: /reading-list/
 author_profile: true
 ---
@@ -74,10 +74,14 @@ My Bookshelf
 ### Essays
 * **A Mathematician's Apology** by GH Hardy
 * **The Trouble with the Historical Philosophy of Science** by Thomas Kuhn
-* **Existentialism is Humanism** by Jean Paul Sarte 
+* **Existentialism is a Humanism** by Jean Paul Sarte 
 
 ### Fiction
 * **The Great Gatsby** by *F. Scott Fitzgerald*
+* **The Death of Ivan Ilyich** by *Leo Tolstoy*
+* **Three Deaths** by *Leo Tolstoy*
+* **A Confession** by *Leo Tolstoy*
+* **Animal Farm** by *George Orwell*
 * **Never Let me Go** by *Kazuo Ishiguro*
 * **The Catcher in the Rye** by *J. D. Salinger*
 * **The Ministry of Utmost Happiness** by *Arundhati Roy*

@@ -76,7 +76,7 @@ My Bookshelf
 * **The Trouble with the Historical Philosophy of Science** by Thomas Kuhn
 * **Existentialism is a Humanism** by Jean Paul Sarte 
 
-### Fiction
+### Fiction: Novels and Novellas
 * **The Great Gatsby** by *F. Scott Fitzgerald*
 * **Animal Farm** by *George Orwell*
 * **Never Let me Go** by *Kazuo Ishiguro*

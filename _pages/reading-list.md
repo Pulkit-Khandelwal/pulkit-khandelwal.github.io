@@ -16,6 +16,10 @@ I also follow the book recommendations by [**Bill Gates**](https://www.gatesnote
 My Bookshelf
 ------
 
+### Currently Reading
+* **Jane Eyre** by *Charlotte Brontë*
+* **Darwin for Beginners** by *Jonathan Miller*
+
 ### Non-fiction
 * **On Intelligence** by *Jeff Hawkins*
 * **The Learning Algorithm** by *Pedro Domingos*

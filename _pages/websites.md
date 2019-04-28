@@ -66,3 +66,7 @@ author_profile: true
 * The New Yorker
 * London Book of Reviews
 * Paris Book of Reviews
+
+### Documenteries channels
+* [DocSpot](https://www.youtube.com/channel/UC3_WamCQSQbP6weftHQkRVA/playlists)
+* [PBS Nova](https://www.youtube.com/playlist?list=PL152bjytsMC4bxFN5gEkDxYg10gcwDdLg)

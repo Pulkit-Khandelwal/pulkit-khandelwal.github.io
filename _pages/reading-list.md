@@ -89,6 +89,7 @@ My Bookshelf
 * **The Death of Ivan Ilyich** by *Leo Tolstoy*
 * **Three Deaths** by *Leo Tolstoy*
 * **A Confession** by *Leo Tolstoy*
+* **Master and Man** by *Leo Tolstoy*
 * **The Ministry of Utmost Happiness** by *Arundhati Roy*
 * **The God of Small Things** by *Arundhati Roy*
 * **One Thundred years of Solitude** by Gabriel García Márquez

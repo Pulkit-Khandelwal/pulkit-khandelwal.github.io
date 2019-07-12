@@ -59,6 +59,15 @@ approaches for Hippocampal subfields
 * Focused on HCI to enhance usability research and analysis
 * Enhanced a web app for the users to enter contextual information
   
+  
+Teaching
+======
+* ***Graduate Teaching Assistant***, School of Computer Science, McGill University
+  * *Introduction to Computer Vision* [COMP 558]: Fall 2018
+  * *Practical Machine Learning* [YCBS 258]: Summer 2019
+  * *Introduction to Computer Systems* [COMP 273]: Winter 2019
+  * *Introduction to Software Systems* [COMP 206]: Fall 2016, Winter 2017, Winter 2018 and Winter 2019
+  
 Skills
 ======
 
@@ -76,8 +85,6 @@ Publications
 
 * P. Khandelwal, M. Barth, S. Bollmann. **Performance evaluation for automated segmentation of Hippocampus Subfields: Preliminary Results using FreeSurfer and ASHS**.  European Society for Magnetic Resonance in Medicine and Biology (ESMRMB), Vienna, Austria, September 2016 [**Link**](https://figshare.com/articles/Performance_evaluation_for_automated_segmentation_of_Hippocampus_Subfields_Preliminary_Results_using_FreeSurfer_and_ASHS/4272431)
 
-* Pulkit Khandelwal, Neha Bisht, Thanikaiselvan V. **Randomly Hiding Secret Data using Dynamic Programming for Image Steganography**. IEEE Symposium on Multimedia, Visualization and Human Computer Interaction, International Conference on Computing and Network Communications, December 2015. Pg: 789-795 [**Link**](http://ieeexplore.ieee.org/abstract/document/7411278/)
-
 
 Relevant Coursework
 ======
@@ -87,7 +94,8 @@ Relevant Coursework
 * VIT University
   * Data Structures and Algorithms, Digital Image Processing, Digital Signal Processing
     Probability Theory and Random Process, Statistics, Calculus, Differential Equations, Information Theory and Coding
-  
+
+
 Projects
 ======
 [**Click here**](https://pulkit-khandelwal.github.io/portfolio/) for some of the projects
@@ -124,12 +132,6 @@ Honours and Awards
 * **iCUBE -The National Youth Idea Challenge for Innovative Business Ideation**, Top 50 out of 7500. Idea Champion, New Delhi, India [2013]
 * **International English Olympiad**, All India Rank- 44; State Rank-7; School Rank-1, Pune, India [2010]
 
-Teaching
-======
-* ***Graduate Teaching Assistant***, School of Computer Science, McGill University
-  * *Introduction to Software Systems* [COMP 206]: Fall 2016, Winter 2017, Winter 2018 and Winter 2019
-  * *Introduction to Computer Systems* [COMP 273]: Winter 2019
-  * *Introduction to Computer Vision* [COMP 558]: Fall 2018
   
 Volunteer and Extra-curricular Activities
 ======

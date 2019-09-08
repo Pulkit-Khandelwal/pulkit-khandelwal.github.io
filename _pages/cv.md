@@ -10,8 +10,12 @@ redirect_from:
 
 Education
 ======
+* **PhD Bioengineering**
+* University of Pennsylvania, Philadelphia, United States [Aug. 2019 - Present]
+* Supervisor: [Prof. Paul Yushkevich](http://picsl.upenn.edu/people-staff-james-c-gee/faculty-staff/paul-yushkevich/)
+
 * **MSc. Computer Science**
-  * McGill University, Montreal, Canada [Sept. 2016 - present]
+  * McGill University, Montréal, Canada [Sept. 2016 - Aug. 2019]
   * Supervisors: [*Kaleem Siddiqi*](http://www.cim.mcgill.ca/~siddiqi/) and [*Louis Collins*](http://nist.mni.mcgill.ca/)
       
 * **BTech. Electronics and Communication Engineering**
@@ -20,12 +24,12 @@ Education
 Interests
 ======
 * Medical Image Analysis. Computer Vision. Machine Learning
-* Shape Analysis. Spectral Methods. Computational Geometry
+* Shape Analysis. Computational Geometry
 
 
 Research and Work Experience
 ======
-**[Shape Analysis Group](http://www.cim.mcgill.ca/~shape/), McGill University** [Nov. 2016 - present]   
+**[Shape Analysis Group](http://www.cim.mcgill.ca/~shape/), McGill University** [Nov. 2016 - Aug. 2019]
 * Segmentation of Human Vertebral column in CT volumes
 * Methods: Flux based Level-sets with shape priors and topological constraints
 * Design of coherence and edge enhanced anisotropic diffusion filtering techniques
@@ -62,12 +66,16 @@ approaches for Hippocampal subfields
   
 Teaching
 ======
-* ***Graduate Teaching Assistant***, School of Computer Science, McGill University
+***Graduate Teaching Assistant***
+* McGill University
   * *Introduction to Computer Vision* [COMP 558]: Fall 2018
   * *Practical Machine Learning* [YCBS 258]: Summer 2019
   * *Introduction to Computer Systems* [COMP 273]: Winter 2019
   * *Introduction to Software Systems* [COMP 206]: Fall 2016, Winter 2017, Winter 2018 and Winter 2019
   
+* University of Pennsylvania
+  * *Machine Learning* [CIS 520]: Fall 2019
+
 Skills
 ======
 
@@ -88,8 +96,11 @@ Publications
 
 Relevant Coursework
 ======
+* University of Pennsylvania
+  * Network Neuroscience, Molecular Imaging
+
 * McGill University
-  * Computer Vision, Natural Language Processing, Applied Machine Learning, Deep Learning, Reinforcement Learning,                 Probabilistic Graphical Models, Statistical Computer Vision, Advanced Medical Imaging
+  * Computer Vision, Natural Language Processing, Applied Machine Learning, Deep Learning, Reinforcement Learning,                 Statistical Computer Vision, Advanced Medical Imaging
 
 * VIT University
   * Data Structures and Algorithms, Digital Image Processing, Digital Signal Processing

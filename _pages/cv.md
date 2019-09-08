@@ -11,8 +11,8 @@ redirect_from:
 Education
 ======
 * **PhD Bioengineering**
-* University of Pennsylvania, Philadelphia, United States [Aug. 2019 - Present]
-* Supervisor: [Prof. Paul Yushkevich](http://picsl.upenn.edu/people-staff-james-c-gee/faculty-staff/paul-yushkevich/)
+  * University of Pennsylvania, Philadelphia, United States [Aug. 2019 - Present]
+  * Supervisor: [*Prof. Paul Yushkevich*](http://picsl.upenn.edu/people-staff-james-c-gee/faculty-staff/paul-yushkevich/)
 
 * **MSc. Computer Science**
   * McGill University, Montréal, Canada [Sept. 2016 - Aug. 2019]

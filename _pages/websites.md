@@ -30,6 +30,8 @@ author_profile: true
 * [A Browsable History of Philosophy](https://www.denizcemonduygu.com/philo/browse/)
 * Philosophy Overdose
 * Philosophy Tube
+* Academy of Ideas
+* School of Life
 
 ### Comics
 * Wait but Why
@@ -70,7 +72,6 @@ author_profile: true
 * Gresham College
 * IAS Videos
 * Welch Labs
-* Academy of Ideas
 * Two minute neuroscience
 * Ted-Ed
 * It’s okay to be a smart

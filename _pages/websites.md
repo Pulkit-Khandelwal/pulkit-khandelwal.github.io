@@ -20,6 +20,7 @@ author_profile: true
 * Sean Caroll
 * Ologies
 * History of Literature
+* NPR Short Wave
 
 
 
@@ -41,16 +42,16 @@ author_profile: true
 
 ### Story-telling
 * pudding.cool
-* 
+* FiveThirtyEight
 
 ### Blogs and tech sites
 * Hacker News
 * Quanta Magazine
-* pudding.cool
 * dev.to
 * WildML
 * Chris Olah
 * Dan Bader
+* Graphic Linear Algebra
 
 ### Youtube Channels worth following
 * Numberphile
@@ -70,7 +71,7 @@ author_profile: true
 * IAS Videos
 * Welch Labs
 * Academy of Ideas
-* Two minute Neuroscience
+* Two minute neuroscience
 * Ted-Ed
 * It’s okay to be a smart
 * PBS Infinite Series
@@ -82,6 +83,8 @@ author_profile: true
 * this place
 * Primer
 * henryseg
+* PoincareDuality
+* University Challenge
 
 ### News and media consumption
 * Vice
@@ -102,7 +105,5 @@ author_profile: true
 * http://www.lorepodcast.com/episodes/
 * https://stampshowheretoday1.podbean.com/
 * Trade coffee
-
-
 
 

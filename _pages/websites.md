@@ -21,6 +21,7 @@ author_profile: true
 * Ologies
 * History of Literature
 * NPR Short Wave
+* Bill Nye
 
 
 

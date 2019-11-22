@@ -23,6 +23,8 @@ author_profile: true
 * [Hi Phi Nation](https://hiphination.org/)
 * [Philospize This](http://philosophizethis.org/)
 * [A Browsable History of Philosophy](https://www.denizcemonduygu.com/philo/browse/)
+* Philosophy Overdose
+* Philosophy Tube
 
 ### Comics
 * Wait but Why
@@ -31,8 +33,11 @@ author_profile: true
 * Piled Higher and Deeper
 * Math with bad drawings
 * The Oatmeal
-* pudding.cool
 * Zines by Julia Evans
+
+### Story-telling
+* pudding.cool
+* 
 
 ### Blogs and tech sites
 * Hacker News
@@ -56,6 +61,9 @@ author_profile: true
 * Academy of Ideas
 * Neuro Transmissions
 * CrashCourse
+* It's so blatant
+* Gresham College
+* IAS Videos
 
 ### News and media consumption
 * Vice

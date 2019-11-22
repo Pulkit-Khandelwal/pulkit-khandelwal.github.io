@@ -17,6 +17,10 @@ author_profile: true
 * PartiallyDerivative
 * Quanta podcast
 * The Memory Palace
+* Sean Caroll
+* Ologies
+* History of Literature
+
 
 
 ### Philosophy
@@ -64,6 +68,20 @@ author_profile: true
 * It's so blatant
 * Gresham College
 * IAS Videos
+* Welch Labs
+* Academy of Ideas
+* Two minute Neuroscience
+* Ted-Ed
+* It’s okay to be a smart
+* PBS Infinite Series
+* 92nd Street Y
+* Up and atom
+* MusingMind
+* RibbonFarm
+* Bluepenredpen
+* this place
+* Primer
+* henryseg
 
 ### News and media consumption
 * Vice
@@ -78,3 +96,13 @@ author_profile: true
 ### Documenteries channels
 * [DocSpot](https://www.youtube.com/channel/UC3_WamCQSQbP6weftHQkRVA/playlists)
 * [PBS Nova](https://www.youtube.com/playlist?list=PL152bjytsMC4bxFN5gEkDxYg10gcwDdLg)
+
+### Coffee
+* The Coffee Show
+* http://www.lorepodcast.com/episodes/
+* https://stampshowheretoday1.podbean.com/
+* Trade coffee
+
+
+
+

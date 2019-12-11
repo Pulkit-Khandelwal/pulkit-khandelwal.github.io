@@ -87,9 +87,6 @@ Skills
 
 Publications
 ======
-* Pulkit Khandelwal, Liqiang Ding, Mohammad Havaei, Andrew Jesson. **Modality Generalizer: A Meta Learning Framework for Domain Generalization in Medical Imaging**. Montreal AI Symposium 2018 [**Link**](https://drive.google.com/file/d/1zBAKiiXr1-HIOd3-5-InWHX7zY48wDwW/view?usp=sharing)
-
-* Mark E., Christopher, Mingfang, Stephen R., Pulkit K. **Benchmarking Human Performance in Semiautomated Image Segmentation**. Interacting with Computers Oxford University Press 2018 **Under Review**[**Link**](https://drive.google.com/file/d/1hqq69ua-7bQczBUvo3oMhMIsE6ml78sq/view?usp=sharing)
 
 * P. Khandelwal, M. Barth, S. Bollmann. **Performance evaluation for automated segmentation of Hippocampus Subfields: Preliminary Results using FreeSurfer and ASHS**.  European Society for Magnetic Resonance in Medicine and Biology (ESMRMB), Vienna, Austria, September 2016 [**Link**](https://figshare.com/articles/Performance_evaluation_for_automated_segmentation_of_Hippocampus_Subfields_Preliminary_Results_using_FreeSurfer_and_ASHS/4272431)
 

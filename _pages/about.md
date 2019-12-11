@@ -26,4 +26,4 @@ I did some internships in the past:
 * Worked at the intersection of HCI and computer vision at University of Saskatchewan, Saskatoon, Canada
 
 
-I read [books](https://pulkit-khandelwal.github.io/reading-list/), listen to a lot of podcasts and am in constant search for high quality [content](https://pulkit-khandelwal.github.io/websites/) to digest. I can listen all day to indie folk and idie rock.
+I read [books](https://pulkit-khandelwal.github.io/reading-list/), listen to a lot of podcasts and am in constant search for high quality [content](https://pulkit-khandelwal.github.io/websites/) to digest. I can listen to indie folk and indie rock all day.

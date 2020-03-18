@@ -9,9 +9,11 @@ author_profile: true
 * Research talk at several venues: School of Computer Science, Montreal AI Symposium, Montreal Neurological Institute and Imagia Inc., Montreal
 * [**Click here**](https://drive.google.com/drive/folders/1t5yFeo0aNoC7E9l8lDRBM6itRiMSSG_Y?usp=sharing) for the slides. 
 
+<!--
 ## Montreal AI Symposium, Montreal, Canada [August 2018]
 * Presented a poster on Modality Generalizer: A Meta Learning Framework for Domain Generalization in Medical Imaging
 * [**Click here**](https://drive.google.com/file/d/1zBAKiiXr1-HIOd3-5-InWHX7zY48wDwW/view?usp=sharing) for the poster.
+-->
 
 ## Planet Labs, San Francisco, United States [Oct. 2017]
 * I gave a lightning talk here at Planet (where I interened in Fall 2017).

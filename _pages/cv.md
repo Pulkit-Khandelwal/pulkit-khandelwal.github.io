@@ -6,6 +6,11 @@ redirect_from:
   - /resume
 ---
 
+
+PDF link
+======
+[**PDF**](https://drive.google.com/file/d/1b7E4uBGL81UO-a0o4UttR9-iXOXWNP8L/view?usp=sharing)
+
 {% include base_path %}
 
 Education
@@ -151,5 +156,4 @@ Volunteer and Extra-curricular Activities
   * NPO aimed at educating less privileged students in shelter homes and orphanages
   * I was an Engish and Math teacher
 
-* Curriculum Vitae in [**PDF**](https://drive.google.com/file/d/1-m-YNU-oaeZ0YPdur52TzRR3A2EMt3gl/view?usp=sharing)
-* Resume in [**PDF**](https://drive.google.com/file/d/11IVINYZccYlZ3LYf1Yuz8wY-l8eXNxoL/view?usp=sharing)
+

@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-PDF link
+PDF link updated August 2020
 ======
 [**PDF**](https://drive.google.com/file/d/1b7E4uBGL81UO-a0o4UttR9-iXOXWNP8L/view?usp=sharing)
 

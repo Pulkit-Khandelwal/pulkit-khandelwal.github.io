@@ -43,6 +43,6 @@ Resonance in Medicine (ISMRM), Paris, France 2020
 Jordan W Swanson, Paul Yushkevich, Felix W Wehrli, Scott Paul P Bartlett. Bone-Selective MRI As a
 Nonradiative Alternative to CT for Cranial Vault Imaging: Concordance and Implementation of an Automated
 Segmentation Pipeline for Timely Image Processing. Plastic Surgery the Meeting 2020
-* **P. Khandelwal**, M. Barth, S. Bollmann. Performance evaluation for automated segmentation of Hippocampus
+* **Pulkit Khandelwal**, M. Barth, S. Bollmann. Performance evaluation for automated segmentation of Hippocampus
 Subfields: Preliminary Results using FreeSurfer and ASHS. European Society for Magnetic Resonance in
 Medicine and Biology (ESMRMB), Vienna, Austria, September 2016 (Lightning Talk)

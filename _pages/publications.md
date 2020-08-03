@@ -13,7 +13,7 @@ using Geometric Flows and Shape Priors
 Judy Hung, Joseph H. Gorman III, Alison M. Pouch, Robert C. Gorman, and Paul A. Yushkevich. Fully
 Automated 3D Segmentation and Diffeomorphic Medial Modeling of the Left Ventricle Mitral Valve Complex
 in Ischemic Mitral Regurgitation
-* Pulkit Khandelwal**, C. E. Zimmerman, L. Xie, H. Lee, H. K. Song, S. P. Bartlett, P. A. Yushkevich, F. W.
+* **Pulkit Khandelwal**, C. E. Zimmerman, L. Xie, H. Lee, H. K. Song, S. P. Bartlett, P. A. Yushkevich, F. W.
 Wehrli. Automated Segmentation of the Human Cranial Vault with Bone-Selective MRI as an alternative to
 radiative CT for Craniofacial Imaging
 

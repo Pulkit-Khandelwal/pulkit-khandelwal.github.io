@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Under Review and In prepration**
+**Under Review and In preparation**
 ======
 * **Pulkit Khandelwal**, D. Louis Collins, Kaleem Siddiqi. Spine Segmentation in Computed Tomography Images
 using Geometric Flows and Shape Priors

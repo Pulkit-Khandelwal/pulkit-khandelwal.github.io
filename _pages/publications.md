@@ -23,11 +23,11 @@ radiative CT for Craniofacial Imaging
 for Domain Generalization in Medical Imaging. Domain Adpatation and Representation Transfer Workshop,
 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020
 * Mark E., Christopher, Mingfang, Stephen R., **Pulkit Khandelwal**. Benchmarking Human Performance in
-Semiautomated Image Segmentation. Interacting with Computers Oxford University Press 2020
+Semiautomated Image Segmentation. Interacting with Computers, Oxford University Press 2020
 
 **Peer-reviewed conference abstracts and poster presentations**
 ======
-* **Pulkit Khandelwal**, Long Xie, Danielle S. Bassett, Robin de Flores, David A. Wolk, Paul A. Yushkevich,and
+* **Pulkit Khandelwal**, Long Xie, Danielle S. Bassett, Robin de Flores, David A. Wolk, Paul A. Yushkevich, and
 Sandhitsu R. Das. Longitudinal Network Connectivity Measurements in Medial Temporal Lobe Subregions
 Discriminate Preclinical Alzheimer’s Disease Patients from Amyloid-𝛽 Negative Controls. Alzheimer’s Association
 International Conference (AAIC) 2020 [**Talk link**](https://www.youtube.com/watch?v=ITVUuMJvQHY&feature=youtu.be)

@@ -30,7 +30,7 @@ Semiautomated Image Segmentation. Interacting with Computers Oxford University P
 * **Pulkit Khandelwal**, Long Xie, Danielle S. Bassett, Robin de Flores, David A. Wolk, Paul A. Yushkevich,and
 Sandhitsu R. Das. Longitudinal Network Connectivity Measurements in Medial Temporal Lobe Subregions
 Discriminate Preclinical Alzheimer’s Disease Patients from Amyloid-𝛽 Negative Controls. Alzheimer’s Association
-International Conference (AAIC) 2020
+International Conference (AAIC) 2020 [**Talk link**](https://www.youtube.com/watch?v=ITVUuMJvQHY&feature=youtu.be)
 * **Pulkit Khandelwal**, C. E. Zimmerman, L. Xie, H. Lee, H. K. Song, S. P. Bartlett, P. A. Yushkevich, F. W.
 Wehrli. Automated Segmentation of the Human Cranial Vault with Bone-Selective MRI as an alternative to
 radiative CT for Craniofacial Imaging. European Society for Magnetic Resonance in Medicine and Biology

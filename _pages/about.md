@@ -29,3 +29,5 @@ I did some internships in the past:
 
 
 I read [books](https://pulkit-khandelwal.github.io/reading-list/), listen to a lot of podcasts and am in constant search for high quality [content](https://pulkit-khandelwal.github.io/websites/) to digest. I can listen to indie folk and indie rock all day. I also nerd out on coffee.
+
+I belive in [**Slow Science**](http://slow-science.org/).

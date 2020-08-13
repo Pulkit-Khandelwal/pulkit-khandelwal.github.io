@@ -19,7 +19,7 @@ I'm a PhD student at the [Penn Image Computing and Science (PICSL)](http://picsl
 Previously, I obtained my MSc. in computer science at the [Shape Analysis Group](http://www.cim.mcgill.ca/~shape/) at McGill University, Montréal. I was supervised by [Prof. Kaleem Siddiqi](http://www.cim.mcgill.ca/~siddiqi/) and [Prof. Louis Collins](http://nist.mni.mcgill.ca/) at the Montreal Neurological Institute. You can read my MSc. thesis [here](https://escholarship.mcgill.ca/concern/theses/4b29bb21t) titled "Spine Segmentation in Computed
 Tomography Images using Geometric Flows and Shape Priors".
 
-In my spare time, I maintain a [blog](https://pulkit-khandelwal.github.io/blog/), act as a technical reviewer for [technical books](https://github.com/TrainingByPackt/Applied-Supervised-Learning-with-R/tree/master/Lesson07) and contribute to [open source projects](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks).
+I also maintain a [blog](https://pulkit-khandelwal.github.io/blog/), act as a technical reviewer for [technical books](https://github.com/TrainingByPackt/Applied-Supervised-Learning-with-R/tree/master/Lesson07) and contribute to [open source projects](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks).
 
 I did some internships in the past:
 * Worked on domain generalization and meta-learning for medical imaging at Imagia in Montreal, Canada
@@ -30,4 +30,4 @@ I did some internships in the past:
 
 I read [books](https://pulkit-khandelwal.github.io/reading-list/), listen to a lot of podcasts and am in constant search for high quality [content](https://pulkit-khandelwal.github.io/websites/) to digest. I can listen to indie folk and indie rock all day. I also nerd out on coffee.
 
-I belive in [**Slow Science**](http://slow-science.org/).
+I believe in [**Slow Science**](http://slow-science.org/).

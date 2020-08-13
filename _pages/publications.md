@@ -23,7 +23,7 @@ radiative CT for Craniofacial Imaging
 for Domain Generalization in Medical Imaging. Domain Adpatation and Representation Transfer Workshop,
 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020
 * Mark E., Christopher, Mingfang, Stephen R., **Pulkit Khandelwal**. Benchmarking Human Performance in
-Semiautomated Image Segmentation. Interacting with Computers, Oxford University Press 2020
+Semiautomated Image Segmentation. Interacting with Computers, Oxford University Press 2020 [**Link**](https://academic.oup.com/iwc/advance-article-abstract/doi/10.1093/iwcomp/iwaa017/5890683)
 
 **Peer-reviewed conference abstracts and poster presentations**
 ======
@@ -34,7 +34,7 @@ International Conference (AAIC) 2020 [**Talk link**](https://www.youtube.com/wat
 * **Pulkit Khandelwal**, C. E. Zimmerman, L. Xie, H. Lee, H. K. Song, S. P. Bartlett, P. A. Yushkevich, F. W.
 Wehrli. Automated Segmentation of the Human Cranial Vault with Bone-Selective MRI as an alternative to
 radiative CT for Craniofacial Imaging. European Society for Magnetic Resonance in Medicine and Biology
-(ESMRMB) 2020
+(ESMRMB) 2020 (***Lightning Talk***)
 * **Pulkit Khandelwal**, Carrie E. Zimmerman, Long Xie, Hyunyeol Lee, Cheng-Chieh Cheng, Scott P. Bartlett,
 Paul Yushkevich, Felix W. Wehrli. Automated Segmentation of Human Skull to plan Craniofacial Surgery
 using dual-Radiofrequency dual-Echo, 3D Ultrashort Echo Time MRI sequence. International Society of Magnetic
@@ -45,4 +45,4 @@ Nonradiative Alternative to CT for Cranial Vault Imaging: Concordance and Implem
 Segmentation Pipeline for Timely Image Processing. Plastic Surgery the Meeting 2020
 * **Pulkit Khandelwal**, M. Barth, S. Bollmann. Performance evaluation for automated segmentation of Hippocampus
 Subfields: Preliminary Results using FreeSurfer and ASHS. European Society for Magnetic Resonance in
-Medicine and Biology (ESMRMB), Vienna, Austria, September 2016 (Lightning Talk)
+Medicine and Biology (ESMRMB), Vienna, Austria, September 2016 (***Lightning Talk***)

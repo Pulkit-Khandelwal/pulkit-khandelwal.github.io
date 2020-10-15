@@ -16,6 +16,19 @@ author_profile: true
 * Presented a poster on Modality Generalizer: A Meta Learning Framework for Domain Generalization in Medical Imaging
 * [**Click here**](https://drive.google.com/file/d/1zBAKiiXr1-HIOd3-5-InWHX7zY48wDwW/view?usp=sharing) for the poster.
 -->
+## Medical Image Computing and Computer Assisted Interventions (MICCAI) [Oct. 2020]
+* Domain Generalizer: A Few-shot Meta Learning Framework for Domain Generalization in Medical Imaging 
+* [**Click here**](https://youtu.be/I0UXB6zR-B4)
+
+## Alzheimer’s Association International Conference (AAIC) [July 2020]
+* Longitudinal Network Connectivity Measurements in Medial Temporal Lobe Subregions Discriminate
+Preclinical Alzheimer’s Disease Patients from Amyloid-𝛽 Negative Controls.
+* [**Click here**](https://youtu.be/ITVUuMJvQHY)
+
+## The European Society for Magnetic Resonance in Medicine and Biology [Sept. 2020]
+* Automated Segmentation of the Human Cranial Vault with Bone-Selective MRI as an alternative
+to radiative CT for Craniofacial Imaging.
+* [**Click here**](https://youtu.be/RyJ94sp24W0)
 
 ## Planet Labs, San Francisco, United States [Oct. 2017]
 * I gave a lightning talk here at Planet (where I interened in Fall 2017).

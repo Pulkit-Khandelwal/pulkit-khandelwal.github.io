@@ -12,7 +12,8 @@ Let's start with my favourite quote by Randy Pausch
 > Experience is what you get when you didn't get what you wanted.
 > And experience is often the most valuable thing you have to offer.
 
-**NEW** Invited as a guest on the podcast, "Abstract: The Future of Science". Listen [here](https://anchor.fm/abstractcast). 
+**NEW** Invited as a guest on the podcast, "Abstract: The Future of Science". Listen [here](https://anchor.fm/abstractcast).
+
 **NEW** *Updated CV and Publications August 2020*
 
 I'm a PhD student at the [Penn Image Computing and Science (PICSL)](http://picsl.upenn.edu/) at the University of Pennsylvania  under the supervision of [Prof. Paul Yushkevich](http://picsl.upenn.edu/people-staff-james-c-gee/faculty-staff/paul-yushkevich/). I am interested in Medical Image Analysis using shape, vision and learning methods. In particular, I'm interested in segmentation and registration of complex anatomical structures to aid image guided surgery and develop sensible biomarkers.

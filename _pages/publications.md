@@ -19,7 +19,7 @@ in Ischemic Mitral Regurgitation
 ======
 * **Pulkit Khandelwal** and Paul A. Yushkevich. Domain Generalizer: A Few-shot Meta Learning Framework
 for Domain Generalization in Medical Imaging. Domain Adpatation and Representation Transfer Workshop,
-International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020
+International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020 [**Link**](https://arxiv.org/abs/2008.07724)
 * Mark E., Christopher, Mingfang, Stephen R., **Pulkit Khandelwal**. Benchmarking Human Performance in
 Semiautomated Image Segmentation. Interacting with Computers, Oxford University Press 2020 [**Link**](https://academic.oup.com/iwc/advance-article-abstract/doi/10.1093/iwcomp/iwaa017/5890683)
 * Zimmerman, Carrie E., **Pulkit Khandelwal**, Long Xie, Hyunyeol Lee, Hee Kwon Song, Paul A. Yushkevich, Arastoo Vossough, Scott P. Bartlett, and Felix W. Wehrli. "Automatic Segmentation of Bone Selective MR Images for Visualization and Craniometry of the Cranial Vault." Academic Radiology (2021).

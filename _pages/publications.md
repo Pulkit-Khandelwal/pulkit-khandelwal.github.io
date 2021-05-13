@@ -13,9 +13,7 @@ using Geometric Flows and Shape Priors
 Judy Hung, Joseph H. Gorman III, Alison M. Pouch, Robert C. Gorman, and Paul A. Yushkevich. Fully
 Automated 3D Segmentation and Diffeomorphic Medial Modeling of the Left Ventricle Mitral Valve Complex
 in Ischemic Mitral Regurgitation
-* **Pulkit Khandelwal**, C. E. Zimmerman, L. Xie, H. Lee, H. K. Song, S. P. Bartlett, P. A. Yushkevich, F. W.
-Wehrli. Automated Segmentation of the Human Cranial Vault with Bone-Selective MRI as an alternative to
-radiative CT for Craniofacial Imaging
+
 
 **Peer-reviewed conferences and journals**
 ======
@@ -24,6 +22,8 @@ for Domain Generalization in Medical Imaging. Domain Adpatation and Representati
 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020
 * Mark E., Christopher, Mingfang, Stephen R., **Pulkit Khandelwal**. Benchmarking Human Performance in
 Semiautomated Image Segmentation. Interacting with Computers, Oxford University Press 2020 [**Link**](https://academic.oup.com/iwc/advance-article-abstract/doi/10.1093/iwcomp/iwaa017/5890683)
+* Zimmerman, Carrie E., **Pulkit Khandelwal**, Long Xie, Hyunyeol Lee, Hee Kwon Song, Paul A. Yushkevich, Arastoo Vossough, Scott P. Bartlett, and Felix W. Wehrli. "Automatic Segmentation of Bone Selective MR Images for Visualization and Craniometry of the Cranial Vault." Academic Radiology (2021).
+ [**Link**](https://www.sciencedirect.com/science/article/pii/S1076633221001306) **Joint first auhtors**
 
 **Peer-reviewed conference abstracts and poster presentations**
 ======

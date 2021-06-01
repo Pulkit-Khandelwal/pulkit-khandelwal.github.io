@@ -23,7 +23,7 @@ International Conference on Medical Image Computing and Computer Assisted Interv
 * Mark E., Christopher, Mingfang, Stephen R., **Pulkit Khandelwal**. Benchmarking Human Performance in
 Semiautomated Image Segmentation. Interacting with Computers, Oxford University Press 2020 [**Link**](https://academic.oup.com/iwc/advance-article-abstract/doi/10.1093/iwcomp/iwaa017/5890683)
 * Zimmerman, Carrie E., **Pulkit Khandelwal**, Long Xie, Hyunyeol Lee, Hee Kwon Song, Paul A. Yushkevich, Arastoo Vossough, Scott P. Bartlett, and Felix W. Wehrli. "Automatic Segmentation of Bone Selective MR Images for Visualization and Craniometry of the Cranial Vault." Academic Radiology (2021).
- [**Link**](https://www.sciencedirect.com/science/article/pii/S1076633221001306) ***Joint first auhtors***
+ [**Link**](https://www.sciencedirect.com/science/article/pii/S1076633221001306) ***Joint first authors***
 
 **Peer-reviewed conference abstracts and poster presentations**
 ======

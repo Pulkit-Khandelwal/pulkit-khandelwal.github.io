@@ -7,8 +7,6 @@ author_profile: true
 
 **Under Review and In preparation**
 ======
-* **Pulkit Khandelwal**, D. Louis Collins, Kaleem Siddiqi. Spine Segmentation in Computed Tomography Images
-using Geometric Flows and Shape Priors
 * Ahmed H. Aly, **Pulkit Khandelwal**, Abdullah H. Aly, Takayuki Kawashima, Kazuki Mori, Yoshiaki Saito,
 Judy Hung, Joseph H. Gorman III, Alison M. Pouch, Robert C. Gorman, and Paul A. Yushkevich. Fully
 Automated 3D Segmentation and Diffeomorphic Medial Modeling of the Left Ventricle Mitral Valve Complex
@@ -17,6 +15,7 @@ in Ischemic Mitral Regurgitation
 
 **Peer-reviewed conferences and journals**
 ======
+* **Pulkit Khandelwal**, D. Louis Collins, Kaleem Siddiqi. Spine and Individual Vertebrae Segmentation in Computed Tomography Images using Geometric Flows and Shape Priors. Frontiers in Computer Science 2021 [**Link**](https://www.frontiersin.org/articles/10.3389/fcomp.2021.592296/abstract)
 * **Pulkit Khandelwal** and Paul A. Yushkevich. Domain Generalizer: A Few-shot Meta Learning Framework
 for Domain Generalization in Medical Imaging. Domain Adpatation and Representation Transfer Workshop,
 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020 [**Link**](https://arxiv.org/abs/2008.07724)

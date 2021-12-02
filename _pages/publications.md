@@ -11,8 +11,7 @@ author_profile: true
 Judy Hung, Joseph H. Gorman III, Alison M. Pouch, Robert C. Gorman, and Paul A. Yushkevich. Fully
 Automated 3D Segmentation and Diffeomorphic Medial Modeling of the Left Ventricle Mitral Valve Complex
 in Ischemic Mitral Regurgitation
-* Gray Matter Segmentation in Ultra High Resolution 7 Tesla ex vivo T2w MRI of Human Brain Hemispheres
-**Pulkit Khandelwal**, Shokufeh Sadaghiani, Sadhana Ravikumar, Sydney Lim, Sanaz Arezoumandan, Claire Peterson, Eunice Chung, Madigan Bedard, Noah Capp, Ranjit Ittyerah, Elyse Migdal, Grace Choi, Emily Kopp, Bridget Loja, Eusha Hasan, Jiacheng Li, Karthik Prabhakaran, Gabor Mizsei, Marianna Gabrielyan, Theresa Schuck, John Robinson, Daniel Ohm, Edward Lee, John Q. Trojanowski, Corey McMillan, Murray Grossman, David Irwin, M. Dylan Tisdall, Sandhitsu R. Das, Laura E.M. Wisse, David A. Wolk, Paul A. Yushkevich (Under review at ISBI 2022) [**arXiv link**](https://arxiv.org/abs/2110.07711)
+* **Pulkit Khandelwal**, Shokufeh Sadaghiani, Sadhana Ravikumar, Sydney Lim, Sanaz Arezoumandan, Claire Peterson, Eunice Chung, Madigan Bedard, Noah Capp, Ranjit Ittyerah, Elyse Migdal, Grace Choi, Emily Kopp, Bridget Loja, Eusha Hasan, Jiacheng Li, Karthik Prabhakaran, Gabor Mizsei, Marianna Gabrielyan, Theresa Schuck, John Robinson, Daniel Ohm, Edward Lee, John Q. Trojanowski, Corey McMillan, Murray Grossman, David Irwin, M. Dylan Tisdall, Sandhitsu R. Das, Laura E.M. Wisse, David A. Wolk, Paul A. Yushkevich. Gray Matter Segmentation in Ultra High Resolution 7 Tesla ex vivo T2w MRI of Human Brain Hemispheres (Under review at ISBI 2022) [**arXiv link**](https://arxiv.org/abs/2110.07711)
 
 
 **Peer-reviewed conferences and journals**

@@ -18,8 +18,8 @@ in Ischemic Mitral Regurgitation</span>
 **Peer-reviewed conferences and journals**
 ======
 * **Pulkit Khandelwal**, D. Louis Collins, Kaleem Siddiqi. <span style="color:blue">Spine and Individual Vertebrae Segmentation in Computed Tomography Images using Geometric Flows and Shape Priors</span>. Frontiers in Computer Science 2021 [**Link**](https://www.frontiersin.org/articles/10.3389/fcomp.2021.592296/abstract)
-* **Pulkit Khandelwal** and Paul A. Yushkevich. Domain Generalizer: A Few-shot Meta Learning Framework
-for Domain Generalization in Medical Imaging</span>. <span style="color:blue">Domain Adpatation and Representation Transfer Workshop,
+* **Pulkit Khandelwal** and Paul A. Yushkevich. <span style="color:blue">Domain Generalizer: A Few-shot Meta Learning Framework
+for Domain Generalization in Medical Imaging</span>. Domain Adpatation and Representation Transfer Workshop,
 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020 [**Link**](https://arxiv.org/abs/2008.07724)
 * Mark E., Christopher, Mingfang, Stephen R., **Pulkit Khandelwal**. <span style="color:blue">Benchmarking Human Performance in
 Semiautomated Image Segmentation</span>. Interacting with Computers, Oxford University Press 2020 [**Link**](https://academic.oup.com/iwc/advance-article-abstract/doi/10.1093/iwcomp/iwaa017/5890683)

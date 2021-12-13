@@ -44,6 +44,8 @@ Resonance in Medicine (ISMRM), Paris, France 2020
 Jordan W Swanson, Paul Yushkevich, Felix W Wehrli, Scott Paul P Bartlett. <span style="color:blue">Bone-Selective MRI As a
 Nonradiative Alternative to CT for Cranial Vault Imaging: Concordance and Implementation of an Automated
 Segmentation Pipeline for Timely Image Processing</span>. Plastic Surgery the Meeting 2020
+* Dillan F. Villavisanis, **Pulkit Khandelwal**, Zachary D. Zapatero, Connor S. Wagner, Daniel Y. Cho, Jessica D. Blum, Liana Cheung, Jordan W. Swanson, Jesse A. Taylor, Paul A. Yushkevich, Scott P. Bartlett. <span style="color:blue">Development Of A Craniofacial Soft Tissue Anthropomorphic Database: Application Of Diffeomorphic Algorithms To MRI</span>. American Association of Plastic Surgeons 2022
+* Dillan F. Villavisanis, **Pulkit Khandelwal**, Zachary D. Zapatero, Connor S. Wagner, Daniel Y. Cho, Jessica D. Blum, Liana Cheung, Jordan W. Swanson, Jesse A. Taylor, Paul A. Yushkevich, Scott P. Bartlett. <span style="color:blue">Development of a Craniofacial Soft Tissue Anthropomorphic Database: Application of Diffeomorphic Algorithms to MRI</span>. American Cleft Palate-Craniofacial Association 2022
 * **Pulkit Khandelwal**, M. Barth, S. Bollmann. <span style="color:blue">Performance evaluation for automated segmentation of Hippocampus
 Subfields: Preliminary Results using FreeSurfer and ASHS</span>. European Society for Magnetic Resonance in
 Medicine and Biology (ESMRMB), Vienna, Austria, September 2016 (***Lightning Talk***)

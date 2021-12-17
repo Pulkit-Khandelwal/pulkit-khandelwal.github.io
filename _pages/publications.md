@@ -8,6 +8,10 @@ author_profile: true
 
 **Under Review and In preparation**
 ======
+* Long Xie, Laura E.M. Wisse, Jiancong Wang, Sadhana Ravikumar, **Pulkit Khandelwal**, Trevor Glenn, Anica
+Luther, Sydney Lim, David A. Wolk, and Paul A. Yushkevich. <span style="color:blue">Deep Label Fusion: A Generalizable Hybrid
+Multi-Atlas and Deep Convolutional Neural Network for Medical Image Segmentation</span> [Under Review at
+Medical Image Analysis Journal]
 * Ahmed H. Aly, **Pulkit Khandelwal**, Abdullah H. Aly, Takayuki Kawashima, Kazuki Mori, Yoshiaki Saito,
 Judy Hung, Joseph H. Gorman III, Alison M. Pouch, Robert C. Gorman, and Paul A. Yushkevich. Fully
 <span style="color:blue">Automated 3D Segmentation and Diffeomorphic Medial Modeling of the Left Ventricle Mitral Valve Complex

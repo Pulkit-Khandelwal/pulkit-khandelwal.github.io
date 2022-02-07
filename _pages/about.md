@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 **NEW** Invited as a guest on the podcast, "Abstract: The Future of Science". Listen [here](https://anchor.fm/abstractcast).
-
 **NEW** *Updated CV January 2022 available [**here**](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/Pulkit_Khandelwal_CV.pdf)*
 
 I'm a PhD student at the [Penn Image Computing and Science (PICSL)](http://picsl.upenn.edu/) at the University of Pennsylvania  under the supervision of [Prof. Paul Yushkevich](http://picsl.upenn.edu/people-staff-james-c-gee/faculty-staff/paul-yushkevich/). I am interested in Medical Image Analysis using shape, vision and learning methods. In particular, I'm interested in segmentation and registration of complex anatomical structures to aid image guided surgery and develop sensible biomarkers.
@@ -22,7 +21,7 @@ I also maintain a [blog](https://pulkit-khandelwal.github.io/blog/) and contribu
 In the past, I've interened at:
 * Imagia [Montreal, Canada]
 * Planet Labs [San Francisco, United States]
-* University of Queensland [Brisbane, Australia]
+* Centre for Advanced Imaging, University of Queensland [Brisbane, Australia]
 * University of Saskatchewan [Saskatoon, Canada]
 
 

@@ -17,7 +17,7 @@ I'm a PhD student at the [Penn Image Computing and Science (PICSL)](http://picsl
 Previously, I obtained my MSc. in computer science at the [Shape Analysis Group](http://www.cim.mcgill.ca/~shape/) at McGill University, Montréal. I was supervised by [Prof. Kaleem Siddiqi](http://www.cim.mcgill.ca/~siddiqi/) and [Prof. Louis Collins](http://nist.mni.mcgill.ca/) at the Montreal Neurological Institute. You can read my MSc. thesis [here](https://escholarship.mcgill.ca/concern/theses/4b29bb21t) titled "Spine Segmentation in Computed
 Tomography Images using Geometric Flows and Shape Priors".
 
-I also maintain a [blog](https://pulkit-khandelwal.github.io/blog/), act as a technical reviewer for [technical books](https://github.com/TrainingByPackt/Applied-Supervised-Learning-with-R/tree/master/Lesson07) and contribute to [open source projects](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks).
+I also maintain a [blog](https://pulkit-khandelwal.github.io/blog/) and contribute to open source projects [such as](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks).
 
 In the past, I've interened at:
 * Imagia [Montreal, Canada]

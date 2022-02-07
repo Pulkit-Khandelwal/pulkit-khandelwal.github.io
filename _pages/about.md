@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I'm a PhD student in the [Penn Image Computing and Science (PICSL)](http://picsl.upenn.edu/) at the University of Pennsylvania under the supervision of [Prof. Paul Yushkevich](https://www.med.upenn.edu/apps/faculty/index.php/g275/p2693923). I'm interested in Medical Image Analysis using shape, vision and learning methods. In particular, I'm interested in image segmentation and registration of various anatomical structures to aid image guided surgery and develop sensible biomarkers. Previously, I completed my MSc. in computer science in the [Shape Analysis Group](http://www.cim.mcgill.ca/~shape/) at McGill University, Montréal. I was supervised by [Prof. Kaleem Siddiqi](http://www.cim.mcgill.ca/~siddiqi/) and [Prof. Louis Collins](http://nist.mni.mcgill.ca/) at the Montreal Neurological Institute. You can read my MSc. thesis [here](https://escholarship.mcgill.ca/concern/theses/4b29bb21t) titled "Spine Segmentation in Computed
-Tomography Images using Geometric Flows and Shape Priors" or the jounral aarticle [here](https://www.frontiersin.org/articles/10.3389/fcomp.2021.592296/full).
+Tomography Images using Geometric Flows and Shape Priors" or the jounral article [here](https://www.frontiersin.org/articles/10.3389/fcomp.2021.592296/full).
 
 I also maintain a [blog](https://pulkit-khandelwal.github.io/blog/) and contribute to open source projects such as [this](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks).
 

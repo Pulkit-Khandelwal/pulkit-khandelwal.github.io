@@ -6,8 +6,7 @@ redirect_from:
   - /resume
 ---
 
-
-[**PDF link updated August 2020**](https://drive.google.com/file/d/1b7E4uBGL81UO-a0o4UttR9-iXOXWNP8L/view?usp=sharing)
+[**PDF link updated February 2022 **](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/Pulkit_Khandelwal_CV.pdf)
 
 {% include base_path %}
 

@@ -29,6 +29,5 @@ I believe in [**Slow Science**](http://slow-science.org/).
 
 **NEWS** 
 Invited as a guest on the podcast, "Abstract: The Future of Science". Listen [here](https://anchor.fm/abstractcast).
-Updated CV January 2022 available [**here**](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/Pulkit_Khandelwal_CV.pdf)
 
-
+CV February 2022 available [**here**](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/Pulkit_Khandelwal_CV.pdf)

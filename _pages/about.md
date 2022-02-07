@@ -17,7 +17,7 @@ In the past, I've interened at:
 * [Imagia](https://imagia.com/) [Montreal, Canada]
 * [Planet Labs](https://www.planet.com/) [San Francisco, United States]
 * [Centre for Advanced Imaging, University of Queensland](https://cai.centre.uq.edu.au/) [Brisbane, Australia]
-* University of Saskatchewan [Saskatoon, Canada]
+* [University of Saskatchewan](https://www.cs.usask.ca/research/research-labs/imaging-multimedia-and-graphics.php) [Saskatoon, Canada]
 
 **Primary Research Interests**
 My primary research focus is to develop biomarkers and understand how neurodegenerative diseases, such as Alzheimer’s, spread in the brain using postmortem ex vivo human brain specimens scanned at ultra high resolution at 7 and 9.4 Tesla magnetic field strength magnetic resonance imaging. To this end, I develop methods to segment different cortical and subcortical structures in these high dimensional images using limited training data by leveraging methods based on meta-learning, domain disentanglement, generalization and few-shot learning. Separately, to link morphometry with underlying neuropathology, I’ve developed an end to end network to register ex vivo and in vivo images via generative adversarial networks within a contrastive learning framework and diffeomorphic deformable 3D image registration algorithms.

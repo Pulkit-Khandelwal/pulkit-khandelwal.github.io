@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Let's start with my favourite quote by Randy Pausch
-> Experience is what you get when you didn't get what you wanted.
-> And experience is often the most valuable thing you have to offer.
-
 **NEW** Invited as a guest on the podcast, "Abstract: The Future of Science". Listen [here](https://anchor.fm/abstractcast).
 
 **NEW** *Updated CV January 2022 available [**here**](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/Pulkit_Khandelwal_CV.pdf)*
@@ -23,13 +19,13 @@ Tomography Images using Geometric Flows and Shape Priors".
 
 I also maintain a [blog](https://pulkit-khandelwal.github.io/blog/), act as a technical reviewer for [technical books](https://github.com/TrainingByPackt/Applied-Supervised-Learning-with-R/tree/master/Lesson07) and contribute to [open source projects](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks).
 
-I did some internships in the past:
-* Worked on domain generalization and meta-learning for medical imaging at Imagia in Montreal, Canada
-* A machine learning and software engineering gig at Planet Labs in San Francisco, United States
-* Did some brain stuff at University of Queensland in Brisbane, Australia
-* Worked at the intersection of HCI and computer vision at University of Saskatchewan, Saskatoon, Canada
+In the past, I've interened at:
+* Imagia [Montreal, Canada]
+* Planet Labs [San Francisco, United States]
+* University of Queensland [Brisbane, Australia]
+* University of Saskatchewan [Saskatoon, Canada]
 
 
-I read [books](https://pulkit-khandelwal.github.io/reading-list/), listen to a lot of podcasts and am in constant search for high quality [content](https://pulkit-khandelwal.github.io/websites/) to digest. I can listen to indie folk and indie rock all day. I also nerd out on coffee.
+In my spare time, I read poetry, books, listen to podcasts, nerd out on coffee, enjoy indie folk music, and am constantly searching for the next best cafe!
 
 I believe in [**Slow Science**](http://slow-science.org/).

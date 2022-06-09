@@ -16,6 +16,12 @@ author_profile: true
 * Presented a poster on Modality Generalizer: A Meta Learning Framework for Domain Generalization in Medical Imaging
 * [**Click here**](https://drive.google.com/file/d/1zBAKiiXr1-HIOd3-5-InWHX7zY48wDwW/view?usp=sharing) for the poster.
 -->
+
+## Organization for Human Brain Mapping (OHBM) [June 2022]
+* Brain mapping using deep learning and morphometry analysis in ultra high resolution T2w 7 Tesla ex vivo MRI across neurodegenerative diseases reveals associations with underlying neuropathology
+* [**Click here**]([https://youtu.be/I0UXB6zR-B4](https://youtu.be/e1XtdM61gkY))
+
+
 ## Medical Image Computing and Computer Assisted Interventions (MICCAI) [Oct. 2020]
 * Domain Generalizer: A Few-shot Meta Learning Framework for Domain Generalization in Medical Imaging 
 * [**Click here**](https://youtu.be/I0UXB6zR-B4)

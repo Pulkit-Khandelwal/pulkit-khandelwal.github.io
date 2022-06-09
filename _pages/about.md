@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in the [Penn Image Computing and Science (PICSL)](http://picsl.upenn.edu/) at the University of Pennsylvania under the supervision of [Prof. Paul Yushkevich](https://www.med.upenn.edu/apps/faculty/index.php/g275/p2693923). I'm interested in medical image analysis working on image segmentation and registration problems of various anatomical structures to aid image-guided surgery and develop biomarkers for neurdegnerative diseases.
+I'm a PhD student in the [Penn Image Computing and Science (PICSL)](http://picsl.upenn.edu/) at the University of Pennsylvania under the supervision of [Prof. Paul Yushkevich](https://www.med.upenn.edu/apps/faculty/index.php/g275/p2693923). I'm interested in medical image analysis working on image segmentation and registration problems of various anatomical structures to aid image-guided surgery and develop biomarkers for neurodegenerative diseases.
 
 I completed my MSc. in computer science in the [Shape Analysis Group](http://www.cim.mcgill.ca/~shape/) at McGill University. I was supervised by [Prof. Kaleem Siddiqi](http://www.cim.mcgill.ca/~siddiqi/) and [Prof. Louis Collins](http://nist.mni.mcgill.ca/) at the Montreal Neurological Institute. My MSc. thesis was on "Spine Segmentation in Computed Tomography Images using Geometric Flows and Shape Priors". See [here](https://escholarship.mcgill.ca/concern/theses/4b29bb21t) or [here](https://www.frontiersin.org/articles/10.3389/fcomp.2021.592296/full).
 

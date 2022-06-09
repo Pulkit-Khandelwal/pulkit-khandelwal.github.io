@@ -19,7 +19,7 @@ author_profile: true
 
 ## Organization for Human Brain Mapping (OHBM) [June 2022]
 * Brain mapping using deep learning and morphometry analysis in ultra high resolution T2w 7 Tesla ex vivo MRI across neurodegenerative diseases reveals associations with underlying neuropathology
-* [**Click here**]([https://youtu.be/I0UXB6zR-B4](https://youtu.be/e1XtdM61gkY))
+* [**Click here**](https://youtu.be/e1XtdM61gkY)
 
 
 ## Medical Image Computing and Computer Assisted Interventions (MICCAI) [Oct. 2020]

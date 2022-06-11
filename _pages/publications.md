@@ -12,15 +12,15 @@ author_profile: true
 Luther, Sydney Lim, David A. Wolk, and Paul A. Yushkevich. <span style="color:blue">Deep Label Fusion: A Generalizable Hybrid
 Multi-Atlas and Deep Convolutional Neural Network for Medical Image Segmentation</span> [Under Review at
 Medical Image Analysis Journal]
-* Ahmed H. Aly, **Pulkit Khandelwal**, Abdullah H. Aly, Takayuki Kawashima, Kazuki Mori, Yoshiaki Saito,
-Judy Hung, Joseph H. Gorman III, Alison M. Pouch, Robert C. Gorman, and Paul A. Yushkevich. Fully
-<span style="color:blue">Automated 3D Segmentation and Diffeomorphic Medial Modeling of the Left Ventricle Mitral Valve Complex
-in Ischemic Mitral Regurgitation</span> [Under Review at Medical Image Analysis Journal]
-* **Pulkit Khandelwal**, Shokufeh Sadaghiani, Sadhana Ravikumar, Sydney Lim, Sanaz Arezoumandan, Claire Peterson, Eunice Chung, Madigan Bedard, Noah Capp, Ranjit Ittyerah, Elyse Migdal, Grace Choi, Emily Kopp, Bridget Loja, Eusha Hasan, Jiacheng Li, Karthik Prabhakaran, Gabor Mizsei, Marianna Gabrielyan, Theresa Schuck, John Robinson, Daniel Ohm, Edward Lee, John Q. Trojanowski, Corey McMillan, Murray Grossman, David Irwin, M. Dylan Tisdall, Sandhitsu R. Das, Laura E.M. Wisse, David A. Wolk, Paul A. Yushkevich. <span style="color:blue">Gray Matter Segmentation in Ultra High Resolution 7 Tesla ex vivo T2w MRI of Human Brain Hemispheres</span> (Under review) [**arXiv link**](https://arxiv.org/abs/2110.07711)
 
 
 **Peer-reviewed conferences and journals**
 ======
+* Ahmed H. Aly, **Pulkit Khandelwal**, Abdullah H. Aly, Takayuki Kawashima, Kazuki Mori, Yoshiaki Saito,
+Judy Hung, Joseph H. Gorman III, Alison M. Pouch, Robert C. Gorman, and Paul A. Yushkevich. Fully
+<span style="color:blue">Automated 3D Segmentation and Diffeomorphic Medial Modeling of the Left Ventricle Mitral Valve Complex
+in Ischemic Mitral Regurgitation</span> [Medical Image Analysis Journal 2022]
+* **Pulkit Khandelwal**, Shokufeh Sadaghiani, Sadhana Ravikumar, Sydney Lim, Sanaz Arezoumandan, Claire Peterson, Eunice Chung, Madigan Bedard, Noah Capp, Ranjit Ittyerah, Elyse Migdal, Grace Choi, Emily Kopp, Bridget Loja, Eusha Hasan, Jiacheng Li, Karthik Prabhakaran, Gabor Mizsei, Marianna Gabrielyan, Theresa Schuck, John Robinson, Daniel Ohm, Edward Lee, John Q. Trojanowski, Corey McMillan, Murray Grossman, David Irwin, M. Dylan Tisdall, Sandhitsu R. Das, Laura E.M. Wisse, David A. Wolk, Paul A. Yushkevich. <span style="color:blue">Gray Matter Segmentation in Ultra High Resolution 7 Tesla ex vivo T2w MRI of Human Brain Hemispheres</span> (Under review) [**arXiv link**](https://arxiv.org/abs/2110.07711)
 * **Pulkit Khandelwal**, D. Louis Collins, Kaleem Siddiqi. <span style="color:blue">Spine and Individual Vertebrae Segmentation in Computed Tomography Images using Geometric Flows and Shape Priors</span>. Frontiers in Computer Science 2021 [**Link**](https://www.frontiersin.org/articles/10.3389/fcomp.2021.592296/abstract)
 * **Pulkit Khandelwal** and Paul A. Yushkevich. <span style="color:blue">Domain Generalizer: A Few-shot Meta Learning Framework
 for Domain Generalization in Medical Imaging</span>. Domain Adpatation and Representation Transfer Workshop,
@@ -29,6 +29,7 @@ International Conference on Medical Image Computing and Computer Assisted Interv
 Semiautomated Image Segmentation</span>. Interacting with Computers, Oxford University Press 2020 [**Link**](https://academic.oup.com/iwc/advance-article-abstract/doi/10.1093/iwcomp/iwaa017/5890683)
 * Zimmerman, Carrie E., **Pulkit Khandelwal**, Long Xie, Hyunyeol Lee, Hee Kwon Song, Paul A. Yushkevich, Arastoo Vossough, Scott P. Bartlett, and Felix W. Wehrli. <span style="color:blue">Automatic Segmentation of Bone Selective MR Images for Visualization and Craniometry of the Cranial Vault</span>. Academic Radiology (2021).
  [**Link**](https://www.sciencedirect.com/science/article/pii/S1076633221001306) ***Joint first authors***
+
 
 **Peer-reviewed conference abstracts and poster presentations**
 ======

@@ -8,6 +8,7 @@ author_profile: true
 
 **Under Review and In preparation**
 ======
+* **Pulkit Khandelwal**, Shokufeh Sadaghiani, Sadhana Ravikumar, Sydney Lim, Sanaz Arezoumandan, Claire Peterson, Eunice Chung, Madigan Bedard, Noah Capp, Ranjit Ittyerah, Elyse Migdal, Grace Choi, Emily Kopp, Bridget Loja, Eusha Hasan, Jiacheng Li, Karthik Prabhakaran, Gabor Mizsei, Marianna Gabrielyan, Theresa Schuck, John Robinson, Daniel Ohm, Edward Lee, John Q. Trojanowski, Corey McMillan, Murray Grossman, David Irwin, M. Dylan Tisdall, Sandhitsu R. Das, Laura E.M. Wisse, David A. Wolk, Paul A. Yushkevich. <span style="color:blue">Gray Matter Segmentation in Ultra High Resolution 7 Tesla ex vivo T2w MRI of Human Brain Hemispheres</span> (Under review) [**arXiv link**](https://arxiv.org/abs/2110.07711)
 * Long Xie, Laura E.M. Wisse, Jiancong Wang, Sadhana Ravikumar, **Pulkit Khandelwal**, Trevor Glenn, Anica
 Luther, Sydney Lim, David A. Wolk, and Paul A. Yushkevich. <span style="color:blue">Deep Label Fusion: A Generalizable Hybrid
 Multi-Atlas and Deep Convolutional Neural Network for Medical Image Segmentation</span> [Under Review at
@@ -20,7 +21,6 @@ Medical Image Analysis Journal]
 Judy Hung, Joseph H. Gorman III, Alison M. Pouch, Robert C. Gorman, and Paul A. Yushkevich. Fully
 <span style="color:blue">Automated 3D Segmentation and Diffeomorphic Medial Modeling of the Left Ventricle Mitral Valve Complex
 in Ischemic Mitral Regurgitation</span>. Medical Image Analysis Journal 2022 [**Link**](https://www.sciencedirect.com/science/article/pii/S1361841522001608)
-* **Pulkit Khandelwal**, Shokufeh Sadaghiani, Sadhana Ravikumar, Sydney Lim, Sanaz Arezoumandan, Claire Peterson, Eunice Chung, Madigan Bedard, Noah Capp, Ranjit Ittyerah, Elyse Migdal, Grace Choi, Emily Kopp, Bridget Loja, Eusha Hasan, Jiacheng Li, Karthik Prabhakaran, Gabor Mizsei, Marianna Gabrielyan, Theresa Schuck, John Robinson, Daniel Ohm, Edward Lee, John Q. Trojanowski, Corey McMillan, Murray Grossman, David Irwin, M. Dylan Tisdall, Sandhitsu R. Das, Laura E.M. Wisse, David A. Wolk, Paul A. Yushkevich. <span style="color:blue">Gray Matter Segmentation in Ultra High Resolution 7 Tesla ex vivo T2w MRI of Human Brain Hemispheres</span> (Under review) [**arXiv link**](https://arxiv.org/abs/2110.07711)
 * **Pulkit Khandelwal**, D. Louis Collins, Kaleem Siddiqi. <span style="color:blue">Spine and Individual Vertebrae Segmentation in Computed Tomography Images using Geometric Flows and Shape Priors</span>. Frontiers in Computer Science 2021 [**Link**](https://www.frontiersin.org/articles/10.3389/fcomp.2021.592296/abstract)
 * **Pulkit Khandelwal** and Paul A. Yushkevich. <span style="color:blue">Domain Generalizer: A Few-shot Meta Learning Framework
 for Domain Generalization in Medical Imaging</span>. Domain Adpatation and Representation Transfer Workshop,

@@ -17,7 +17,7 @@ author_profile: true
 * [**Click here**](https://drive.google.com/file/d/1zBAKiiXr1-HIOd3-5-InWHX7zY48wDwW/view?usp=sharing) for the poster.
 -->
 
-## Organization for Human Brain Mapping (OHBM) [June 2022]
+## Organization for Human Brain Mapping (OHBM) and Alzheimer's Association International Conference (AAIC) [June/July 2022]
 * Brain mapping using deep learning and morphometry analysis in ultra high resolution T2w 7 Tesla ex vivo MRI across neurodegenerative diseases reveals associations with underlying neuropathology
 * [**Click here**](https://youtu.be/e1XtdM61gkY)
 

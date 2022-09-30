@@ -17,10 +17,13 @@ author_profile: true
 * [**Click here**](https://drive.google.com/file/d/1zBAKiiXr1-HIOd3-5-InWHX7zY48wDwW/view?usp=sharing) for the poster.
 -->
 
+## Center for Biomedical Image Computing & Analytics (CBICA) seminars at University of Pennsylvania [March 17th 2022]
+* Using postmortem imaging of the human brain in Alzheimer’s disease to improve in vivo biomarkers
+* [**Click here**](https://www.med.upenn.edu/cbica/old/cbica-seminars.html)
+
 ## Organization for Human Brain Mapping (OHBM) and Alzheimer's Association International Conference (AAIC) [June/July 2022]
 * Brain mapping using deep learning and morphometry analysis in ultra high resolution T2w 7 Tesla ex vivo MRI across neurodegenerative diseases reveals associations with underlying neuropathology
 * [**Click here**](https://youtu.be/e1XtdM61gkY)
-
 
 ## Medical Image Computing and Computer Assisted Interventions (MICCAI) [Oct. 2020]
 * Domain Generalizer: A Few-shot Meta Learning Framework for Domain Generalization in Medical Imaging 

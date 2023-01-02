@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in the [Penn Image Computing and Science (PICSL)](http://picsl.upenn.edu/) at the University of Pennsylvania under the supervision of [Prof. Paul Yushkevich](https://www.med.upenn.edu/apps/faculty/index.php/g275/p2693923). I'm also a research intern at Google, Mountain View. I'm interested in medical image analysis working on image segmentation and registration problems to aid image-guided surgery and develop biomarkers for neurodegenerative diseases.
+I'm a PhD student in the [Penn Image Computing and Science (PICSL)](http://picsl.upenn.edu/) at the University of Pennsylvania under the supervision of [Prof. Paul Yushkevich](https://www.med.upenn.edu/apps/faculty/index.php/g275/p2693923). I'm also a research intern at Google. I'm interested in medical image analysis working on image segmentation and registration problems to aid image-guided surgery and develop biomarkers for neurodegenerative diseases.
 
 I completed my MSc. in computer science in the [Shape Analysis Group](http://www.cim.mcgill.ca/~shape/) at McGill University. I was supervised by [Prof. Kaleem Siddiqi](http://www.cim.mcgill.ca/~siddiqi/) and [Prof. Louis Collins](http://nist.mni.mcgill.ca/) at the Montreal Neurological Institute. My MSc. thesis was on "Spine Segmentation in Computed Tomography Images using Geometric Flows and Shape Priors". See [here](https://escholarship.mcgill.ca/concern/theses/4b29bb21t) or [here](https://www.frontiersin.org/articles/10.3389/fcomp.2021.592296/full).
 
 See publications at my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=6BOwPcoAAAAJ&view_op=list_works&sortby=pubdate).
 
-**NEWS** 
+**NEWS**
+* Guest lecturer for the graduate course CIS/BE 537 Biomedical Image Analysis at UPenn [Dec. 5th-7th 2022] Recordign available on YouTube [Day 1](https://youtu.be/cS-PJj3Wy6Q) and [Day 2](https://youtu.be/4RhGIG4jiaQ).
 * Research intern at Google, Mountain View [Fall 2022]
 * Research intern at Amazon, Palo Alto [Summer 2022]
-* Reviewer for Medical Image Analyis
+* Reviewed for Medical Image Analyis
 * Guest on the podcast, "Abstract: The Future of Science". Listen [here](https://anchor.fm/abstractcast)
 
 In the past, I've interned at:

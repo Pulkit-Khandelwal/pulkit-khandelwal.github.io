@@ -15,7 +15,7 @@ I completed my MSc. in computer science in the [Shape Analysis Group](http://www
 See publications at my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=6BOwPcoAAAAJ&view_op=list_works&sortby=pubdate).
 
 **NEWS**
-* Guest lecturer for the graduate course CIS/BE 537 Biomedical Image Analysis at UPenn [Dec. 5th-7th 2022] Recordign available on YouTube [Day 1](https://youtu.be/cS-PJj3Wy6Q) and [Day 2](https://youtu.be/4RhGIG4jiaQ).
+* Guest lecturer for the graduate course CIS/BE 537 Biomedical Image Analysis at UPenn [Dec. 5th-7th 2022] Recording available on YouTube [Day 1](https://youtu.be/cS-PJj3Wy6Q) and [Day 2](https://youtu.be/4RhGIG4jiaQ).
 * Research intern at Google, Mountain View [Fall 2022]
 * Research intern at Amazon, Palo Alto [Summer 2022]
 * Reviewed for Medical Image Analyis

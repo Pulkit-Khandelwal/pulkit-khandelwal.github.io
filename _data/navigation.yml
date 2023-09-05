@@ -14,12 +14,15 @@ main:
     
   - title: "Talks"
     url: /talks/
+
+  - title: "Interesting Sites"
+    url: /websites/
     
+  - title: "List of courses I love"
+    url: /websites/
+
   - title: "Reading List"
     url: /reading-list/
     
   - title: "Vagabond"
     url: /vagabond/
-
-  - title: "Interesting Sites"
-    url: /websites/

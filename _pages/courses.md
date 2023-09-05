@@ -1,17 +1,11 @@
- Bookmarks
+---
+layout: archive
+title: "Courses I love"
+permalink: /courses/
+author_profile: true
+---
 
-Bookmarks
-=========
 
-### Bookmark Bar
-
-### Bookmark Bar
-
-### Bookmark Bar
-
-[Bookmarks](chrome://bookmarks/)
-
-[Bookmarks](chrome://bookmarks/)
 
 ### Winter 2017
 

@@ -19,7 +19,7 @@ main:
     url: /websites/
     
   - title: "List of courses I love"
-    url: /websites/
+    url: /courses/
 
   - title: "Reading List"
     url: /reading-list/

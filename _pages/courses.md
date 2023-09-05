@@ -5,6 +5,7 @@ permalink: /courses/
 author_profile: true
 ---
 
+
 [15-386 Neural Computation](http://www.cnbc.cmu.edu/~tai/nc17.html)
 
 [15-386 Neural Computation](http://www.cnbc.cmu.edu/~tai/nc17.html)

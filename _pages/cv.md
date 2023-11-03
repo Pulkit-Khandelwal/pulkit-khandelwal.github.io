@@ -6,6 +6,6 @@ redirect_from:
   - /resume
 ---
 
-[**See this PDF link for an updated CV August 2023 **](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/Pulkit_Khandelwal_CV.pdf)
+[**PDF link CV **](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/Pulkit_Khandelwal_CV.pdf)
 
 {% include base_path %}

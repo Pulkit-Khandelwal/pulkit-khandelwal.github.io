@@ -15,14 +15,8 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Interesting Sites"
+  - title: "Interesting sites"
     url: /websites/
     
-  - title: "List of courses I love"
+  - title: "Courses"
     url: /courses/
-
-  - title: "Reading List"
-    url: /reading-list/
-    
-  - title: "Vagabond"
-    url: /vagabond/

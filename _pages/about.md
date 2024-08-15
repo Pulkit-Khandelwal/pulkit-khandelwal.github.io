@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fifth year PhD student in the [Penn Image Computing and Science (PICSL)](http://picsl.upenn.edu/) at the University of Pennsylvania under the supervision of [Prof. Paul Yushkevich](https://www.med.upenn.edu/apps/faculty/index.php/g275/p2693923). I'm interested in medical image analysis working on image segmentation and registration problems to aid image-guided surgery and develop computational methods and tools to understand neurodegenerative diseases.
+I'm a final year PhD candidate in the [Penn Image Computing and Science (PICSL)](http://picsl.upenn.edu/) at the University of Pennsylvania under the supervision of [Prof. Paul Yushkevich](https://www.med.upenn.edu/apps/faculty/index.php/g275/p2693923). I'm interested in medical image analysis working on image segmentation and registration problems to aid image-guided surgery and develop computational methods and tools to understand neurodegenerative diseases.
 
 I completed my MSc. in computer science in the [Shape Analysis Group](http://www.cim.mcgill.ca/~shape/) at McGill University. I was supervised by [Prof. Kaleem Siddiqi](http://www.cim.mcgill.ca/~siddiqi/) and [Prof. Louis Collins](http://nist.mni.mcgill.ca/) at the Montreal Neurological Institute. My MSc. thesis was on "Spine Segmentation in Computed Tomography Images using Geometric Flows and Shape Priors". See [here](https://escholarship.mcgill.ca/concern/theses/4b29bb21t) or [here](https://www.frontiersin.org/articles/10.3389/fcomp.2021.592296/full).
 
-[**PDF: CV February 2024 **](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/Pulkit_Khandelwal_CV.pdf).
+[**PDF: CV June 2024 **](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/Pulkit_Khandelwal_CV.pdf).
 
 See my publications at [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=6BOwPcoAAAAJ&view_op=list_works&sortby=pubdate).
 

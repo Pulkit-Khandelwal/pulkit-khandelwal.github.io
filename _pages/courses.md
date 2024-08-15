@@ -44,11 +44,18 @@ Graph Neural Networks Courses: Penn and Stanford
 Deep Unsupervised Learning
 Meta-learning Chelsea Finn
 Numerical Tours
-
-
-
-
-
+https://www.youtube.com/user/cscsch/playlists
+https://www.youtube.com/@stanfordmedai1263
+https://www.youtube.com/playlist?list=PL2xTeGtUb-8B94jdWGT-chu4ucI7oEe_x
+https://www.youtube.com/watch?v=_Nyy6UUHPeg
+https://geomedia-tutorial.github.io/index.html
+https://www.youtube.com/@howfarawayisit/playlists
+https://www.cs.ubc.ca/~tmm/gc/#intro
+https://www.youtube.com/@TamaraMunzner/videos
+https://www.youtube.com/@aatrn1
+https://vios.science/tutorials/dream2021
+https://sites.google.com/view/miccai2022tutoriallwls/home?authuser=0
+https://uvagedl.github.io/
 
 
 

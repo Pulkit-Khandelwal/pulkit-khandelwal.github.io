@@ -5,6 +5,27 @@ permalink: /courses/
 author_profile: true
 ---
 
+### Books!
+Shapes and Diffeomorphisms
+MedIA Riemannian Geometry
+Jean Gallier
+Friston and Ashburner
+Vision Science Stanford (https://foundationsofvision.stanford.edu/)
+Medial Representations
+Solid Shape
+Deep Learning
+Topology Book and Notes
+MedIA 2020 Handbook
+Differential Geometry deCarmo
+Brain Network Neuroscience
+Hastie book with Code
+Computational Optimal Transport
+Geometric Deep Learning
+
+
+### Courses!
+
+
 [15-386 Neural Computation](http://www.cnbc.cmu.edu/~tai/nc17.html)
 
 [(15-874) Machine Learning from Neural Cortical Circuits](http://www.cnbc.cmu.edu/~tai/microns.html)

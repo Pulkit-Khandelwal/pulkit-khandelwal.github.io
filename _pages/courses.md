@@ -7,9 +7,7 @@ author_profile: true
 
 ### Books!
 Shapes and Diffeomorphisms
-
 MedIA Riemannian Geometry
-
 Jean Gallier
 Friston and Ashburner
 Vision Science Stanford (https://foundationsofvision.stanford.edu/)

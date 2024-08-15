@@ -23,7 +23,6 @@ Computational Optimal Transport
 Geometric Deep Learning
 
 ### Tutorials!
-
 http://timdettmers.com/2015/03/09/deep-learning-hardware-guide/
 https://medium.com/@iliakarmanov/multi-gpu-rosetta-stone-d4fa96162986
 http://briancaffey.github.io/2017/11/20/using-tensorflow-and-tensor-board-with-docker.html
@@ -54,10 +53,19 @@ https://www.youtube.com/@aatrn1
 https://vios.science/tutorials/dream2021
 https://sites.google.com/view/miccai2022tutoriallwls/home?authuser=0
 https://uvagedl.github.io/
+MRI-PHYS:
+https://github.com/pulseq/MR-Physics-with-Pulseq/tree/main
+https://github.com/Image-X-Institute/mri_distortion_toolkit
 
 
 ### Current Courses 2024!
-These lectures are on YouTube
+Human-brain MIT
+Psychology MIT
+mri-physics-youtube: Radiology Tutorials
+fsl course
+CBMM MIT
+BrainMap MIT
+SCAN Sydney
 Stephen Pizer
 Discrete Differential Geometry CMU
 Milnor lectures (Differential Topology)

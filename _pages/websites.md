@@ -114,14 +114,12 @@ author_profile: true
 * bevinmaultsby
 
 ### News and media consumption
-* Vice
-* Vox
-* The Atlantic
-* The Verge
 * Arts and Letters Daily
+* Public domain review
 * The New Yorker
 * London Book of Reviews
 * Paris Book of Reviews
+* Center for fiction
 
 ### Documenteries channels
 * [DocSpot](https://www.youtube.com/channel/UC3_WamCQSQbP6weftHQkRVA/playlists)
@@ -144,5 +142,11 @@ author_profile: true
 * https://www.redbubble.com/people/TheNeuronFamily/explore?page=1&sortOrder=recent
 * The Unemployed Philosophers Guild
 * Cognitive surplus
+
+
+### Books
+* thriftbooks
+* binding: https://makinghandmadebooks.blogspot.com/2012/07/instructions-drum-leaf-binding.html
+* binding: https://karenhanmer.com/
 
 

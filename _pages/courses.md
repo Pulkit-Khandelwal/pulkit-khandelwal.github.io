@@ -80,6 +80,34 @@ Neural ODEs
 Computer Graphics
 Databases
 PGM
+Functional Analysis MIT
+Real Analysis MIT
+Jean Gallier
+https://www.youtube.com/playlist?list=PL20gKJcYxxBU3kXvu58vf-lL2XxtLHtRL
+https://www.youtube.com/playlist?list=PLA3v5BKsMh2UIXgnt_8QO32ysRERU9hfV
+https://www.youtube.com/@TensorCalculusRobertDavie
+https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0
+https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf
+https://www.youtube.com/playlist?list=PLUl4u3cNGP63cUdAG3v311Vl72ozOiK25
+https://www.youtube.com/playlist?list=PLUl4u3cNGP63bAfjGas3TuA4ZCPUtN6Xf
+https://www.youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE
+https://ocw.mit.edu/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/
+https://www.youtube.com/@lashkarisresearchgroup485
+https://www.youtube.com/@brightsideofmaths
+https://www.youtube.com/@utahsoccomputationaltopolo4135
+https://cs217.stanford.edu/
+https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S
+https://uvadl2c.github.io/
+https://www.youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd
+https://www.youtube.com/playlist?list=PL8yHsr3EFj53RWBkiHKoOsTw-dGHAoJ-h
+https://www.youtube.com/watch?v=gy8U7S4LWzs&list=PLZvVv2ZA9LA1DTmgkJsWDQ4YlCFcWmNvz
+https://www.youtube.com/playlist?list=PL_oEZ6dld4ignAdbFvcP_LAJgNbdrNBKC
+https://www.youtube.com/playlist?list=PLdMorpQLjeXmbFaVku4JdjmQByHHqTd1F
+https://www.youtube.com/@RichardSouthwell/playlists
+https://www.youtube.com/playlist?list=PLLq_gUfXAnkkvL_UoCGivS0wOYhwCtczI
+https://www.youtube.com/playlist?list=PLLq_gUfXAnkl8bjQh-hGQ9u24xZP9x0dx
+https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz
+https://www.youtube.com/playlist?list=PLDfPUNusx1EoVnrQcCRishydtNBYU6A0c
 
 
 

@@ -58,9 +58,21 @@ https://sites.google.com/view/miccai2022tutoriallwls/home?authuser=0
 https://uvagedl.github.io/
 
 
+### Current Courses 2024!
+These lectures are on YouTube
+Stephen Pizer
+Discrete Differential Geometry CMU
+Milnor lectures (Differential Topology)
+Geometric Deep Learning: Bronstein
+Shape Analysis MIT
+
+
+
+
+
+
 
 ### Courses!
-
 
 [15-386 Neural Computation](http://www.cnbc.cmu.edu/~tai/nc17.html)
 

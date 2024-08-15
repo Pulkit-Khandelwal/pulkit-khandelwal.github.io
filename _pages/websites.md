@@ -7,12 +7,8 @@ author_profile: true
 
 ### Podcasts
 * Talk Python to Me
-* Python Testing
-* Podcast init
-* Talking Machines
 * Stuff to Blow Your Mind
 * How I Built This
-* The Guardian Book Podcast
 * Planet Money
 * PartiallyDerivative
 * Quanta podcast
@@ -22,7 +18,6 @@ author_profile: true
 * History of Literature
 * NPR Short Wave
 * Bill Nye
-
 
 
 ### Philosophy

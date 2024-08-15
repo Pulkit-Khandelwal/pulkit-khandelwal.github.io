@@ -24,6 +24,33 @@ Hastie book with Code
 Computational Optimal Transport
 Geometric Deep Learning
 
+### Tutorials!
+
+http://timdettmers.com/2015/03/09/deep-learning-hardware-guide/
+https://medium.com/@iliakarmanov/multi-gpu-rosetta-stone-d4fa96162986
+http://briancaffey.github.io/2017/11/20/using-tensorflow-and-tensor-board-with-docker.html
+https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/batch_norm_layer.html
+https://david-abel.github.io/blog.html
+http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html
+https://medium.com/@eirinimalliaraki/toward-ethical-transparent-and-fair-ai-ml-a-critical-reading-list-d950e70a70ea
+https://d2l.ai/
+https://cs217.github.io/
+https://whitead.github.io/dmol-book/intro.html
+https://lilianweng.github.io/lil-log/
+https://www.youtube.com/watch?v=v4ZHlTbTOK8&list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU&index=90
+https://www.youtube.com/watch?v=EjdnrWUib8k&list=PLw93TUuxrFAbWrTsvaDsn7Y32l8LHJJXn&index=3
+Kernel Methods
+Graph Neural Networks Courses: Penn and Stanford
+Deep Unsupervised Learning
+Meta-learning Chelsea Finn
+Numerical Tours
+
+
+
+
+
+
+
 
 ### Courses!
 

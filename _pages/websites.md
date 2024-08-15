@@ -145,10 +145,25 @@ author_profile: true
 * The Unemployed Philosophers Guild
 * Cognitive surplus
 
-
 ### Books
 * thriftbooks
 * binding: https://makinghandmadebooks.blogspot.com/2012/07/instructions-drum-leaf-binding.html
 * binding: https://karenhanmer.com/
+
+### Rare books
+* SchoenbergInstitute
+* Book Historia
+* Adeels Bindery & Pen Art: adeelsbinderypenart
+* https://www.bookhistoria.com/work/publications
+* https://ilab.org/ https://www.finebooksmagazine.com
+* https://finefairs.com/
+* Morgan Library and Museum
+* https://rarehistoricalphotos.com/
+* rarebooksguy on instagram
+* https://libwww.freelibrary.org/programs/rarebooks
+* https://www.chstm.org/
+* https://www.nytimes.com/2022/12/02/arts/rare-book-school-grolier-exhibition.html
+* https://manuscriptroadtrip.wordpress.com/
+* https://www.dotporterdigital.org/
 
 

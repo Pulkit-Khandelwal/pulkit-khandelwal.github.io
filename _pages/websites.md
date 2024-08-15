@@ -51,7 +51,7 @@ author_profile: true
 * Dan Bader
 * Graphic Linear Algebra
 
-### Youtube Channels worth following
+### Youtube: math and science
 * Numberphile
 * 3Blue1Brown
 * Vsauce
@@ -107,6 +107,13 @@ author_profile: true
 * Mathologer
 * acegikmo
 * bevinmaultsby
+
+### Youtube: artsy
+* StorytrailsChannel
+* Mother The Mountain Farm
+* HGTV Handmade
+* nao
+* carlyrenee.art
 
 ### News and media consumption
 * Arts and Letters Daily

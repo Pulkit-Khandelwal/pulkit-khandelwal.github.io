@@ -65,6 +65,24 @@ Discrete Differential Geometry CMU
 Milnor lectures (Differential Topology)
 Geometric Deep Learning: Bronstein
 Shape Analysis MIT
+Variational Methods for computer vision
+Operating Systems
+Optimization
+Algorithms
+fMRI design and analysis UCL
+Learn C and C++
+ODEs/PDEs
+MIT Healthcare
+BE 581 at Penn
+GPU Programming at Penn
+Neural ODEs
+[Multi-view geometry](https://www.youtube.com/playlist?list=PLEB45naDUsF2vpvdxZ72Jjl8ZEKISv4Nh)
+Computer Graphics
+Databases
+PGM
+
+
+
 
 
 

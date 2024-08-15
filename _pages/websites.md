@@ -87,6 +87,31 @@ author_profile: true
 * henryseg
 * PoincareDuality
 * University Challenge
+* Serious Science
+* Quanta Magazine
+* Complexity Explorer
+* https://thepalindrome.substack.com/
+* brightsideofmaths
+* Steve Brunton
+* Yannic Kilcher
+* mCoding
+* Reducible
+* Mathemaniac
+* Tensor Calculus - Robert Davie
+* Institute of Anatomy
+* CharmingData
+* Code calmly
+* Mr. P Solver
+* DeepFindr: GNN
+* The AI Epiphany
+* Elliot Nicholson
+* Mutual Information
+* vcubingx
+* Morphocular
+* https://bakingandmath.com/
+* Mathologer
+* acegikmo
+* bevinmaultsby
 
 ### News and media consumption
 * Vice
@@ -114,7 +139,6 @@ author_profile: true
 
 ### Bike stuff
 * https://thebestbikelock.com/how-to-lock-your-bike/#:~:text=Locking%20your%20bike%20with%20one%20lock%20and%20a%20removed%20front%20wheel&text=Attach%20the%20u%20or%20chain,secured%20with%20one%20good%20lock
-
 
 ### Cool stuff to buy
 * https://www.redbubble.com/people/TheNeuronFamily/explore?page=1&sortOrder=recent

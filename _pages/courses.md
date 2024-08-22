@@ -92,6 +92,7 @@ author_profile: true
 * https://cs217.stanford.edu/
 * https://uvadl2c.github.io/
 * https://ocw.mit.edu/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/
+* Systems Programming: https://www.youtube.com/playlist?list=PLhy9gU5W1fvUND_5mdpbNVHC1WCIaABbP
 * https://www.youtube.com/playlist?list=PL20gKJcYxxBU3kXvu58vf-lL2XxtLHtRL
 * https://www.youtube.com/playlist?list=PLA3v5BKsMh2UIXgnt_8QO32ysRERU9hfV
 * https://www.youtube.com/@TensorCalculusRobertDavie

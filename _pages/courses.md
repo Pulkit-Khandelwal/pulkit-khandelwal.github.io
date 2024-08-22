@@ -24,39 +24,38 @@ author_profile: true
 
 
 ### Tutorials!
-http://timdettmers.com/2015/03/09/deep-learning-hardware-guide/
-https://medium.com/@iliakarmanov/multi-gpu-rosetta-stone-d4fa96162986
-http://briancaffey.github.io/2017/11/20/using-tensorflow-and-tensor-board-with-docker.html
-https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/batch_norm_layer.html
-https://david-abel.github.io/blog.html
-http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html
-https://medium.com/@eirinimalliaraki/toward-ethical-transparent-and-fair-ai-ml-a-critical-reading-list-d950e70a70ea
-https://d2l.ai/
-https://cs217.github.io/
-https://whitead.github.io/dmol-book/intro.html
-https://lilianweng.github.io/lil-log/
-https://www.youtube.com/watch?v=v4ZHlTbTOK8&list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU&index=90
-https://www.youtube.com/watch?v=EjdnrWUib8k&list=PLw93TUuxrFAbWrTsvaDsn7Y32l8LHJJXn&index=3
-Kernel Methods
-Graph Neural Networks Courses: Penn and Stanford
-Deep Unsupervised Learning
-Meta-learning Chelsea Finn
-Numerical Tours
-https://www.youtube.com/user/cscsch/playlists
-https://www.youtube.com/@stanfordmedai1263
-https://www.youtube.com/playlist?list=PL2xTeGtUb-8B94jdWGT-chu4ucI7oEe_x
-https://www.youtube.com/watch?v=_Nyy6UUHPeg
-https://geomedia-tutorial.github.io/index.html
-https://www.youtube.com/@howfarawayisit/playlists
-https://www.cs.ubc.ca/~tmm/gc/#intro
-https://www.youtube.com/@TamaraMunzner/videos
-https://www.youtube.com/@aatrn1
-https://vios.science/tutorials/dream2021
-https://sites.google.com/view/miccai2022tutoriallwls/home?authuser=0
-https://uvagedl.github.io/
-MRI-PHYS:
-https://github.com/pulseq/MR-Physics-with-Pulseq/tree/main
-https://github.com/Image-X-Institute/mri_distortion_toolkit
+* http://timdettmers.com/2015/03/09/deep-learning-hardware-guide/
+* https://medium.com/@iliakarmanov/multi-gpu-rosetta-stone-d4fa96162986
+* http://briancaffey.github.io/2017/11/20/using-tensorflow-and-tensor-board-with-docker.html
+* https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/batch_norm_layer.html
+* https://david-abel.github.io/blog.html
+* http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html
+* https://medium.com/@eirinimalliaraki/toward-ethical-transparent-and-fair-ai-ml-a-critical-reading-list-d950e70a70ea
+* https://d2l.ai/
+* https://cs217.github.io/
+* https://whitead.github.io/dmol-book/intro.html
+* https://lilianweng.github.io/lil-log/
+* https://www.youtube.com/watch?v=v4ZHlTbTOK8&list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU&index=90
+* https://www.youtube.com/watch?v=EjdnrWUib8k&list=PLw93TUuxrFAbWrTsvaDsn7Y32l8LHJJXn&index=3
+* Kernel Methods
+* Graph Neural Networks Courses: Penn and Stanford
+* Deep Unsupervised Learning
+* Meta-learning Chelsea Finn
+* Numerical Tours
+* https://www.youtube.com/user/cscsch/playlists
+* https://www.youtube.com/@stanfordmedai1263
+* https://www.youtube.com/playlist?list=PL2xTeGtUb-8B94jdWGT-chu4ucI7oEe_x
+* https://www.youtube.com/watch?v=_Nyy6UUHPeg
+* https://geomedia-tutorial.github.io/index.html
+* https://www.youtube.com/@howfarawayisit/playlists
+* https://www.cs.ubc.ca/~tmm/gc/#intro
+* https://www.youtube.com/@TamaraMunzner/videos
+* https://www.youtube.com/@aatrn1
+* https://vios.science/tutorials/dream2021
+* https://sites.google.com/view/miccai2022tutoriallwls/home?authuser=0
+* https://uvagedl.github.io/
+* MRI-PHYS: https://github.com/pulseq/MR-Physics-with-Pulseq/tree/main
+* MRI-PHYS: https://github.com/Image-X-Institute/mri_distortion_toolkit
 
 
 ### Current Courses 2024!
@@ -169,72 +168,39 @@ https://github.com/Image-X-Institute/mri_distortion_toolkit
 [MathHistory](https://www.youtube.com/watch?v=dW8Cy6WrO94&list=PL55C7C83781CF4316)
 [Manifolds and Tensors](https://www.youtube.com/watch?v=CEXSSz0gZI4&list=PLRlVmXqzHjUQHEx63ZFxV-0Ortgf-rpJo)
 [Vector Calculus @ UNSW Sydney. Dr Chris Tisdell - YouTube](https://www.youtube.com/playlist?list=PL283CA2107AD503A3)
-
 [elo.mastermath.nl](https://elo.mastermath.nl/)
-
 [18.409 Materials](http://stellar.mit.edu/S/course/18/fa09/18.409/materials.html)
-
 [Alexandra Kolla, University of Illinois at Urbana-Champaign](http://akolla.cs.illinois.edu/)
-
 [IAS- Princeton | Video Lectures](https://video.ias.edu/sm)
-
 [MIT 18.01 Single Variable Calculus, Fall 2007](https://www.youtube.com/playlist?list=PLE2215608E2574180)
-
 [MIT 18.02 Multivariable Calculus, Fall 2007](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
-
 [MIT 18.01SC: Homework Help for Single Variable Calculus - YouTube](https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1)
-
 [Differential Geometry (UNSW)](https://www.youtube.com/playlist?list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP)
-
 [MSRI](http://www.msri.org/web/cms)
-
 [Spectral Graph Theoy and Algorithmic Applications](http://web.stanford.edu/class/msande337/)
-
 [CS359G: Graph Partitioning and Expanders](http://theory.stanford.edu/~trevisan/cs359g/)
-
 [Lecture Notes | in theory](https://lucatrevisan.wordpress.com/lecture-notes/)
-
 [Luca Trevisan](https://people.eecs.berkeley.edu/~luca/)
-
 [CS294: Graph Partitioning, Expanders, and Spectral Methods](https://people.eecs.berkeley.edu/~luca/expanders2016/)
-
 [CS 274: Computational Geometry - Shewchuk - UC Berkeley](https://people.eecs.berkeley.edu/~jrs/274s15/)
-
 [Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/lecture-notes/)
-
 [Gusfield 2](https://www.youtube.com/playlist?list=PL_w_qWAQZtAaNemYPcciRtoJLEJz5MwYW)
-
 [Gusfiled 1](https://www.youtube.com/playlist?list=PL_w_qWAQZtAZ2n35UD2FHgvbXj4pqPQq5)
-
 [Tardos](http://www.cs.cornell.edu/~eva/)
-
 [Algorithmic Game Theory (CS364A), Fall 2013](http://theory.stanford.edu/~tim/f13/f13.html)
-
 [Algorithmic Game Theory (CS364A, Fall 2013) - YouTube](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4)
-
 [Math Insight](http://mathinsight.org/)
-
 [Advanced course eigenvalue techniques in graph theory](http://upcommons.upc.edu/handle/2099.2/2453)
-
 [Facultat de Matemàtiques i Estadística](http://upcommons.upc.edu/handle/2099.2/201)
-
 [LeonhardEuler1 - YouTube](https://www.youtube.com/user/LeonhardEuler1/playlists)
-
 [Fukaya categories and mirror symmetry](http://math.columbia.edu/~topology/Eilenberg_lectures_fall_2016)
-
 [Topics in Differential Geometry](https://math.berkeley.edu/~auroux/277F09/)
-
 [Topics in Geometric Topology](https://math.berkeley.edu/~auroux/18.937-S06/)
-
-[Introduction to Mathematical Programming | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-251j-introduction-to-mathematical-programming-fall-2009/index.htm)
-
-[Advanced Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/index.htm)
-
+[Introduction to Mathematical Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-251j-introduction-to-mathematical-programming-fall-2009/index.htm)
+[Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/index.htm)
 [Particle Physics](https://www.youtube.com/playlist?list=PLDlWMHnDwyljKJt-nGIw8rJZxSy2DGvNZ)
-
-[1\. Introduction to Human Behavioral Biology - YouTube](https://www.youtube.com/watch?v=NNnIGh9g6fA&list=PL150326949691B199)
-
-[Harvard Math - YouTube](https://www.youtube.com/channel/UCZgHOeJBfMKOZ5PMlZysy8Q/playlists)
+[Introduction to Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA&list=PL150326949691B199)
+[Harvard Math](https:/www.youtube.com/channel/UCZgHOeJBfMKOZ5PMlZysy8Q/playlists)
 
 [Charles Bordenave - 1/3 Spectrum of random graphs - YouTube](https://www.youtube.com/watch?v=VQsrKHD0b60&list=PLx5f8IelFRgEY6Iq6I_-EBv-7CxQgxyJM)
 

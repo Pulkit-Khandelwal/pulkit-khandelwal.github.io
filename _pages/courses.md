@@ -202,79 +202,40 @@ author_profile: true
 [Particle Physics](https://www.youtube.com/playlist?list=PLDlWMHnDwyljKJt-nGIw8rJZxSy2DGvNZ)
 [Introduction to Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA&list=PL150326949691B199)
 [Harvard Math](https:/www.youtube.com/channel/UCZgHOeJBfMKOZ5PMlZysy8Q/playlists)
-
 [Charles Bordenave - 1/3 Spectrum of random graphs - YouTube](https://www.youtube.com/watch?v=VQsrKHD0b60&list=PLx5f8IelFRgEY6Iq6I_-EBv-7CxQgxyJM)
-
 [Ali Chamseddine - 1/4 Spectral Geometric Unification - YouTube](https://www.youtube.com/watch?v=wHFN1rVF8Ds&list=PLx5f8IelFRgETgYw71v8uApxP9LNdMQz3)
-
 [Noncommutative Geometry and Cosmology - YouTube](https://www.youtube.com/playlist?list=PLuqpwpkBmbAnCsZbb7zj5YdicGQBPIyV8)
-
 [Institut des Hautes Études Scientifiques (IHÉS) - YouTube](https://www.youtube.com/channel/UC4R1IsRVKs_qlWKTm9pT82Q/playlists)
-
 [Faculty of Khan - YouTube](https://www.youtube.com/channel/UCGDanWUzNMbIV11lcNi-yBg/playlists)
-
 [schang1971 - YouTube](https://www.youtube.com/user/schang1971/playlists)
-
 [Math 583 B - Spring 1999](http://math.arizona.edu/~lega/583/Spring99/583b.html)
-
 [model of computation book](http://jeffe.cs.illinois.edu/teaching/algorithms/everything.pdf)
-
 [Adrian Vetta](http://www.math.mcgill.ca/vetta/Teaching.dir/teaching.html)
-
 [Book of Proof](http://www.people.vcu.edu/~rhammack/BookOfProof/)
-
 [Algorithms and Data Structures II \[Course\] - Princeton - YouTube](https://www.youtube.com/playlist?list=PLLioQ130_xjXqDczBWHgCNr9bIEuDUdtG)
-
 [Algorithms and Data Structures I \[Course\] - Princeton - YouTube](https://www.youtube.com/playlist?list=PLxc4gS-_A5VDXUIOPkJkwQKYiT2T1t0I8)
-
 [Group Theory](https://www.youtube.com/playlist?list=PLAvgI3H-gclb_Xy7eTIXkkKt3KlV6gk9_)
-
 [Galois Theory](https://www.youtube.com/playlist?list=PLAvgI3H-gcla8xWr-UuLPxwhia2up0W8j)
-
 [Ring Theory](https://www.youtube.com/playlist?list=PLAvgI3H-gclZ-DYOVyyTkJBUXZ_R1JEZP)
-
 [Functional Analysis](https://www.youtube.com/playlist?list=PLAvgI3H-gclZa-DVTMyUIAxM-X8NSikwu)
-
 [Field Theory](https://www.youtube.com/playlist?list=PLAvgI3H-gclbhFtavB7BFUvHKm6QMGDXR)
-
 [Number Theory](https://www.youtube.com/playlist?list=PLdr5XE6u9kErSIo4xN8DPXWPcINSSMix2)
-
 [Professor Leonard - YouTube](https://www.youtube.com/user/professorleonard57/playlists)
-
 [Discrete Math](https://www.youtube.com/playlist?list=PLXyQgvdKgEeK-QLJ-FjVNTTu1UzIGXf-J)
-
 [Erik's Lectures in 6.849: Geometric Folding Algorithms: Linkages, Origami, Polyhedra (Fall 2010)](http://courses.csail.mit.edu/6.849/fall10/lectures/)
-
 [MathDoctorBob - Math Courses](https://www.youtube.com/user/MathDoctorBob/playlists)
-
 [Spectral Courses](https://www.youtube.com/playlist?list=PLgKuh-lKre12PQAw5emlXKedaQtAMflFt)
-
 [Spectral Coures 2](https://www.youtube.com/playlist?list=PLgKuh-lKre12YBy6mn8k8spPp19F-V8K9)
-
 [UNSW DSA](https://www.youtube.com/playlist?list=PLE621E25B3BF8B9D1)
-
 [Spectral Graph Theory Course](https://www.youtube.com/playlist?list=PLi4h0n4UP8d9VGPqO8vLQga9ZApO65TLW)
-
-[Math Subject GRE Practice Test - YouTube - YouTube](https://www.youtube.com/playlist?list=PL81IATpFpPBgrG8fZ3tRO41nNypY5xtEP)
-
-[LEARN FRENCH WITH VINCENT - YouTube - YouTube](https://www.youtube.com/user/imagiers/playlists)
-
 [How to Become a Pure Mathematician (or Statistician)](http://hbpms.blogspot.in/)
-
 [PGM- Daphne Koller](https://www.youtube.com/playlist?list=PL50E6E80E8525B59C)
-
 [Stochastic Process MIT](https://www.youtube.com/playlist?list=PLXK8OwT160Q8T6T2DEfGmJE6POQcmBmn0)
-
 [Math3ma](http://www.math3ma.com/)
-
-[Lecture Videos | Statistics for Applications | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-videos/)
-
-[Justin Solomon - YouTube - YouTube](https://www.youtube.com/user/justinmsolomon/videos)
-
+[Statistics for Applications MIT](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-videos/)
+[Justin Solomon](https://www.youtube.com/user/justinmsolomon/videos)
 [mathematicalmonk](https://www.youtube.com/channel/UCcAtD_VYwcYwVbTdvArsm7w)
-
 [Sam Drury's Teaching Page](http://www.math.mcgill.ca/drury/teaching/teaching.php)
-
 [Math 222, Course Plan](http://www.math.mcgill.ca/drury/teaching/math222w18/Course_Plan.php)
 [Mathematics of Computer Graphics and Virtual Environments - YouTube](https://www.youtube.com/channel/UCfO67kOKUqVlos7IUANDPHw/videos)
 [ICTP Mathematics - YouTube](https://www.youtube.com/channel/UC-akozxNLMPcMcs0qVvS1VQ)
@@ -288,73 +249,37 @@ author_profile: true
 
 
 ### Great Talks!
-
 [Discrete Differential Geometry - Helping Machines (and People) Think Clearly about Shape - YouTube](https://www.youtube.com/watch?v=Mcal5Cy7r4E&t=2150s)
-
 [The Unreasonable Effectiveness of Spectral Graph Theory: A Confluence of Algorithms, Geometry & ... - YouTube](https://www.youtube.com/watch?v=8XJes6XFjxM)
-
 [Daniel Spielman: Part 1](https://www.youtube.com/watch?v=gVsj5vzElLY)
-
 [Gravity Lecture I - Manifolds and Tensors](https://www.youtube.com/watch?v=LD6Y9_Q-xo8)
-
 [Tensors: A Geometric View](https://www.youtube.com/watch?v=X0t5-esLIoA)
-
 [What is a Manifold? - Mikhail Gromov](https://www.youtube.com/watch?v=u5DLpAqX4YA)
-
 [How (and Why) to "Read" Big Graphs - YouTube](https://www.youtube.com/watch?v=PDWkoiyVy3A)
-
 [Fast Regression Algorithms Using Spectral Graph Theory - YouTube](https://www.youtube.com/watch?v=LmPLP5asrm8)
-
 [Techniques for combinatorial optimization: Spectral Graph Theory and Semidefinite Programming - YouTube](https://www.youtube.com/watch?v=ADwygfTLR5g)
-
 [Tensors/tensor products over-mystified - YouTube](https://www.youtube.com/watch?v=qHuUazkUcnU)
-
 [Riemannian manifolds, kernels and learning - YouTube](https://www.youtube.com/watch?v=MtZV82LCNHc)
-
 [What is a Manifold? - Mikhail Gromov - YouTube](https://www.youtube.com/watch?v=u5DLpAqX4YA&t=1950s)
-
 [Chaos Theory PBS - YouTube](https://www.youtube.com/watch?v=eJAs9Qr359o)
-
 [Hausdorff Center for Mathematics - YouTube](https://www.youtube.com/channel/UC2F-j2KMho0zVWIPFKWoXoA/playlists?sort=dd&shelf_id=0&view=1)
-
 [Andrew Wiles, Curves of Genus One - YouTube](https://www.youtube.com/watch?v=jwoKB2h4DtA)
-
 [Peter Scholze - Locally symmetric spaces, and Galois representations (1) - YouTube](https://www.youtube.com/watch?v=y73YkwDxN50)
-
 [Tadashi Tokieda || Toys in Applied Mathematics || Radcliffe Institute - YouTube](https://www.youtube.com/watch?v=f07KzjnL2eE)
-
 [Mathematics of Juggling - YouTube](https://www.youtube.com/watch?v=38rf9FLhl-8)
-
 [Jean-Pierre Serre: How to write mathematics badly - YouTube](https://www.youtube.com/watch?v=tJZpdXWm4Gg)
-
 [LMS Popular Lecture Series 2008, Toy models, Dr Tadashi Tokieda - YouTube](https://www.youtube.com/watch?v=pkfDYOZ1p4Y)
-
 [GreshamCollege - YouTube](https://www.youtube.com/user/GreshamCollege/playlists)
-
 [Philosophy Tube - YouTube](https://www.youtube.com/user/thephilosophytube)
-
 [It's so blatant - YouTube](https://www.youtube.com/user/itssoblatant)
-
 [PBS Nova Documentary Collection - YouTube](https://www.youtube.com/playlist?list=PLlHanBMNk-DKQzkktkFKGvJR_9gSRDhBr)
-
-[Warren Buffett - HBO Documentary 2017 (HD) - YouTube](https://www.youtube.com/watch?v=ridk6OvkgGM)
-
 [Laplacian Eigenvalues, Metric Uniformization, and Incidence Geometry - YouTube](https://www.youtube.com/watch?v=s1YkddPII5E)
-
 [Symplectic and Spectral Theory of Integrable Systems - Alvaro Pelayo - YouTube](https://www.youtube.com/watch?v=DXfutvZL26Y)
-
 [Spectral geometry and spectral action, Bruno Iochum - YouTube](https://www.youtube.com/watch?v=lhorrzLuT6k)
-
 [Introduction to the work of Mirzakhani - YouTube](https://www.youtube.com/watch?v=Q-H0jEsJUWk)
-
 [From Euclid to modern geometry: Do the angles of a triangle really add up to 180˚? (28 Feb 2012) - YouTube](https://www.youtube.com/watch?v=Hwi_FGkgloo)
-
 [Reason for a blog | njwildberger: tangential thoughts](https://njwildberger.com/2012/08/02/reason-for-a-blog/)
-
 [Philosophical Overdose - YouTube](https://www.youtube.com/user/soultorment27/playlists)
-
 [neozhaoliang/pywonderland: Render beautiful images or animate interesting algorithms in mathematics with Python.](https://github.com/neozhaoliang/pywonderland)
-
 [Alexander Grothendieck - YouTube](https://www.youtube.com/channel/UCI2xq9OXUSbQGb3GdKx_ixg)
-
 [CEMC - Past Contests - Mathematics and Computing Contests - University of Waterloo](http://www.cemc.uwaterloo.ca/contests/past_contests.html)

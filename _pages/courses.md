@@ -115,6 +115,7 @@ chttps://whitead.github.io/dmol-book/intro.html
 * https://www.youtube.com/playlist?list=PLLq_gUfXAnkl8bjQh-hGQ9u24xZP9x0dx
 * https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz
 * https://www.youtube.com/playlist?list=PLDfPUNusx1EoVnrQcCRishydtNBYU6A0c
+* cs-149 Stanford
 
 
 ### More courses!

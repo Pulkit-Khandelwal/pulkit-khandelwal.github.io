@@ -16,13 +16,6 @@ I completed my MSc. in computer science in the [Shape Analysis Group](http://www
 
 See my complete publications at [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=6BOwPcoAAAAJ&view_op=list_works&sortby=pubdate).
 
-**NEWS**
-* Guest lecturer for the graduate course CIS/BE 537 Biomedical Image Analysis at UPenn [Dec. 5th-7th 2022] Recording available on YouTube [Day 1](https://youtu.be/cS-PJj3Wy6Q) and [Day 2](https://youtu.be/4RhGIG4jiaQ).
-* Research intern at Google, Mountain View [Fall 2022]
-* Research intern at Amazon, Palo Alto [Summer 2022]
-* Reviewed for Medical Image Analyis
-* Guest on the podcast, "Abstract: The Future of Science". Listen [here](https://anchor.fm/abstractcast)
-
 In the past, I've interned at:
 * Google [Mountain View, United States]
 * Amazon [Palo Alto, United States]
@@ -31,7 +24,9 @@ In the past, I've interned at:
 * Centre for Advanced Imaging, University of Queensland [Brisbane, Australia]
 * Imaging, Multimedia and Graphics Lab, University of Saskatchewan[Saskatoon, Canada]
 
-I also maintain a [blog](https://pulkit-khandelwal.github.io/blog/) and contribute to open source projects such as [this](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks).
+Every Fall, I lecture on medical image segmentation with deep learning in the graduate course on biomedical image analysis (BE/CIS 537) at the University of Pennsylvania. You can view the recordings [here](https://pulkit-khandelwal.github.io/medical-image-segmentation-deep-learning/).
+
+I also maintain a [blog](https://pulkit-khandelwal.github.io/blog/) and contribute to open source projects such as [this](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks) and have appeared as a guest on the ["Abstract: The Future of Science"](https://anchor.fm/abstractcast) podcast.
 
 **Primary Research Interests**
 

@@ -2,21 +2,15 @@
 main:
   - title: "CV"
     url: /cv/
-    
-  - title: "Publications"
-    url: /publications/
-    
+  
   - title: "Portfolio"
     url: /portfolio/
         
   - title: "Blog"
     url: /blog/
-    
-  - title: "Talks"
-    url: /talks/
 
   - title: "Interesting sites"
     url: /websites/
     
-  - title: "Courses"
+  - title: "Study"
     url: /courses/

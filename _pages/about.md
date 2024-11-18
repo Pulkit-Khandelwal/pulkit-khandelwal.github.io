@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year PhD candidate in the [Penn Image Computing and Science (PICSL)](http://picsl.upenn.edu/) at the University of Pennsylvania under the supervision of [Prof. Paul Yushkevich](https://www.med.upenn.edu/apps/faculty/index.php/g275/p2693923). I'm interested in medical image analysis working on image segmentation and registration problems to aid image-guided surgery and develop computational methods and tools to understand neurodegenerative diseases.
+I'm a final year PhD candidate in the [Penn Image Computing and Science (PICSL)](http://picsl.upenn.edu/) at the University of Pennsylvania under the supervision of [Prof. Paul Yushkevich](https://www.med.upenn.edu/apps/faculty/index.php/g275/p2693923). I'm interested in medical image analysis working on image segmentation and registration problems to aid image-guided surgery and develop computational methods and tools to understand neurodegenerative diseases. I completed my MSc. in computer science in the [Shape Analysis Group](http://www.cim.mcgill.ca/~shape/) at McGill University. I was supervised by [Prof. Kaleem Siddiqi](http://www.cim.mcgill.ca/~siddiqi/) and [Prof. Louis Collins](http://nist.mni.mcgill.ca/) at the Montreal Neurological Institute. My MSc. thesis was on "Spine Segmentation in Computed Tomography Images using Geometric Flows and Shape Priors". See [here](https://escholarship.mcgill.ca/concern/theses/4b29bb21t) or [here](https://www.frontiersin.org/articles/10.3389/fcomp.2021.592296/full).
 
-I completed my MSc. in computer science in the [Shape Analysis Group](http://www.cim.mcgill.ca/~shape/) at McGill University. I was supervised by [Prof. Kaleem Siddiqi](http://www.cim.mcgill.ca/~siddiqi/) and [Prof. Louis Collins](http://nist.mni.mcgill.ca/) at the Montreal Neurological Institute. My MSc. thesis was on "Spine Segmentation in Computed Tomography Images using Geometric Flows and Shape Priors". See [here](https://escholarship.mcgill.ca/concern/theses/4b29bb21t) or [here](https://www.frontiersin.org/articles/10.3389/fcomp.2021.592296/full).
+My primary research focus is to develop computational methods to analyze ultra high resolution postmortem human brain at 7 tesla MRI and link morphometry with histopathology data in Alzheimer's and related dementias. You can find my lastest boy of work [here](https://pulkit-khandelwal.github.io/exvivo-brain-upenn/). See my complete publications at [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=6BOwPcoAAAAJ&view_op=list_works&sortby=pubdate).
 
 [**PDF: CV November 2024 **](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/Pulkit_Khandelwal_CV.pdf).
-
-See my complete publications at [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=6BOwPcoAAAAJ&view_op=list_works&sortby=pubdate).
 
 In the past, I've interned at:
 * Google [Mountain View, United States]
@@ -27,12 +25,6 @@ In the past, I've interned at:
 Every Fall, I lecture on medical image segmentation with deep learning in the graduate course on biomedical image analysis (BE/CIS 537) at the University of Pennsylvania. You can view the recordings [here](https://pulkit-khandelwal.github.io/medical-image-segmentation-deep-learning/).
 
 I also maintain a [blog](https://pulkit-khandelwal.github.io/blog/) and contribute to open source projects such as [this](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks) and have appeared as a guest on the ["Abstract: The Future of Science"](https://anchor.fm/abstractcast) podcast.
-
-**Primary Research Interests**
-
-My primary research focus is to develop biomarkers and understand how neurodegenerative diseases, such as Alzheimer’s, spread in the brain using postmortem human brain specimens scanned at ultra high resolution at 7 Tesla MRI. To this end, I develop methods to for brain mapping using limited training data by leveraging methods based on meta-learning, domain disentanglement, generalization and few-shot learning. Separately, to link morphometry with underlying neuropathology, I’ve developed an end to end network to register ex vivo and in vivo images via generative adversarial networks within a contrastive learning framework and diffeomorphic deformable 3D image registration algorithms.
-
-I’ve also developed methods based on geometric level sets and shape priors and geometric constraints based on medial axis representations to segment vertebrae in computed tomography images and the heart in ultrasound images, to help image-guided surgery. Separately, I’ve explored graph-based network analysis methods to investigate possible computational biomarkers to distinguish patients within the Alzheimer’s Disease spectrum.
 
 In my spare time, I read poetry, fiction and non-fiction, listen to science podcasts, nerd out on coffee, enjoy independent movies music and I'm constantly searching for the next best cafe! Oh, and I love oxford comma!
 I believe in [**Slow Science**](http://slow-science.org/).

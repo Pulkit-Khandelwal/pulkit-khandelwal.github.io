@@ -12,7 +12,7 @@ I'm a final year PhD candidate in the [Penn Image Computing and Science (PICSL)]
 
 My primary research focus is to develop computational methods to analyze ultra high resolution postmortem human brain at 7 tesla MRI and link morphometry with histopathology in Alzheimer's and related dementias. You can find my latest body of work [here](https://pulkit-khandelwal.github.io/exvivo-brain-upenn/). See my complete publications at [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=6BOwPcoAAAAJ&view_op=list_works&sortby=pubdate).
 
-[**CV November 2024 **](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/Pulkit_Khandelwal_CV.pdf).
+[**Curriculum Vitae**](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/Pulkit_Khandelwal_CV.pdf).
 
 In the past, I've interned at:
 * Google [Mountain View, United States]

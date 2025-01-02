@@ -21,6 +21,8 @@ author_profile: true
 * Hastie book
 * Computational Optimal Transport
 * Geometric Deep Learning
+* https://textbook.nipraxis.org/mean_test_example.html
+* https://www.damtp.cam.ac.uk/user/tong/vc.html 
 
 
 ### Tutorials!

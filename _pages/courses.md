@@ -116,9 +116,8 @@ chttps://whitead.github.io/dmol-book/intro.html
 - [ICTP Diploma - Topology - Bruno Zimmermann](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl8bjQh-hGQ9u24xZP9x0dx)
 - [ICTP Diploma - Differential Geometry - Claudio Arezzo](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz)
 - [Symplectic geometry & classical mechanics](https://www.youtube.com/playlist?list=PLDfPUNusx1EoVnrQcCRishydtNBYU6A0c)
-
-* cs-149 Stanford
-
+- [Parallel Computing Stanford](https://gfxcourses.stanford.edu/cs149/fall24)
+  
 
 ### More courses!
 * MIT missing CS semester

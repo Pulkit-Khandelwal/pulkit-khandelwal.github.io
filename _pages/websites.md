@@ -166,4 +166,31 @@ author_profile: true
 * https://manuscriptroadtrip.wordpress.com/
 * https://www.dotporterdigital.org/
 
+## Health News:
+- [KFF Health News](https://kffhealthnews.org/)
+- [Stat News](https://www.statnews.com/)
+
+## Math Schools:
+- [IAS PCMI 2025 Research Program](https://www.ias.edu/pcmi/apply-2025-research-program?utm_source=chatgpt.com)
+- [SLMath](https://www.slmath.org/)
+- [BIRS Videos](https://www.birs.ca/videos/#gsc.tab=0)
+- [PIMS Math](https://www.pims.math.ca/)
+
+## Rare Books and Other Cool Links:
+- [CSMBR - Fondazione Comel](https://csmbr.fondazionecomel.org/)
+- [Stanford White Experiments](https://bigoldhouses.blogspot.com/2014/09/stanford-white-experiments.html?fbclid=IwY2xjawJNLgJleHRuA2FlbQIxMAABHUA5BB1I8DXseX_dk46lI7BrUwQVy5NelgQMdqBS-W6g3Ko8ug8EqjMOsw_aem_i6P_uNao49RZ9d5bWl143g)
+
+## Really Really Cool Stuff:
+- [Books on the History of Mathematics - Thony C](https://thonyc.wordpress.com/2025/02/12/books-on-the-history-of-mathematics-some-thoughts)
+- [Theorem of the Day](https://www.theoremoftheday.org)
+- [Ultrascale Playbook - Hugging Face](https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=gradient_accumulation)
+- [SciComm Lab Playlists - YouTube](https://www.youtube.com/@scicommlab/playlists)
+- [Sebastian Lague - YouTube](https://www.youtube.com/@SebastianLague)
+- [Homo sapiens Brain Evolution](https://www.mpg.de/11883269/homo-sapiens-brain-evolution)
+- [Brain Development and Evolution](https://sjcinspire.com/2021/03/01/how-did-brain-development-evolve-to-produce-the-human-brain/)
+
+## New Nice YouTube Channels:
+- [Video 1: Channel Playlist](https://www.youtube.com/watch?v=almlINDXU5c&list=PL1lNrW4e0G8WacM84PX1lqDjUIflPmFCA&index=2)
+- [Video 2: YouTube Link](https://youtu.be/xOL72Jo94S8)
+
 

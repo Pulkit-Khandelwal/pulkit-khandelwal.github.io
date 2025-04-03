@@ -93,30 +93,30 @@ chttps://whitead.github.io/dmol-book/intro.html
 * Jean Gallier
 * https://cs217.stanford.edu/
 * https://uvadl2c.github.io/
-* https://ocw.mit.edu/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/
-* Systems Programming: https://www.youtube.com/playlist?list=PLhy9gU5W1fvUND_5mdpbNVHC1WCIaABbP
-* https://www.youtube.com/playlist?list=PL20gKJcYxxBU3kXvu58vf-lL2XxtLHtRL
-* https://www.youtube.com/playlist?list=PLA3v5BKsMh2UIXgnt_8QO32ysRERU9hfV
-* https://www.youtube.com/@TensorCalculusRobertDavie
-* https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0
-* https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf
-* https://www.youtube.com/playlist?list=PLUl4u3cNGP63cUdAG3v311Vl72ozOiK25
-* https://www.youtube.com/playlist?list=PLUl4u3cNGP63bAfjGas3TuA4ZCPUtN6Xf
-* https://www.youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE
-* https://www.youtube.com/@lashkarisresearchgroup485
-* https://www.youtube.com/@brightsideofmaths
-* https://www.youtube.com/@utahsoccomputationaltopolo4135
-* https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S
-* https://www.youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd
-* https://www.youtube.com/playlist?list=PL8yHsr3EFj53RWBkiHKoOsTw-dGHAoJ-h
-* https://www.youtube.com/watch?v=gy8U7S4LWzs&list=PLZvVv2ZA9LA1DTmgkJsWDQ4YlCFcWmNvz
-* https://www.youtube.com/playlist?list=PL_oEZ6dld4ignAdbFvcP_LAJgNbdrNBKC
-* https://www.youtube.com/playlist?list=PLdMorpQLjeXmbFaVku4JdjmQByHHqTd1F
-* https://www.youtube.com/@RichardSouthwell/playlists
-* https://www.youtube.com/playlist?list=PLLq_gUfXAnkkvL_UoCGivS0wOYhwCtczI
-* https://www.youtube.com/playlist?list=PLLq_gUfXAnkl8bjQh-hGQ9u24xZP9x0dx
-* https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz
-* https://www.youtube.com/playlist?list=PLDfPUNusx1EoVnrQcCRishydtNBYU6A0c
+- [Brains, Minds, and Machines (MIT OCW)](https://ocw.mit.edu/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/)
+- [Systems Programming (YouTube)](https://www.youtube.com/playlist?list=PLhy9gU5W1fvUND_5mdpbNVHC1WCIaABbP)
+- [Designing and Analysing fMRI Experiments](https://www.youtube.com/playlist?list=PL20gKJcYxxBU3kXvu58vf-lL2XxtLHtRL)
+- [FMRI Summer Course 2024](https://www.youtube.com/playlist?list=PLA3v5BKsMh2UIXgnt_8QO32ysRERU9hfV)
+- [Tensor Calculus - Robert Davie](https://www.youtube.com/@TensorCalculusRobertDavie)
+- [MIT 18.650 Statistics for Applications, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+- [MIT 6.172 Performance Engineering of Software Systems, Fall 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
+- [MIT 16.687 Private Pilot Ground School, IAP 2019](https://www.youtube.com/playlist?list=PLUl4u3cNGP63cUdAG3v311Vl72ozOiK25)
+- [MIT STS.042J Einstein, Oppenheimer, Feynman: Physics In The 20th Century, Fall 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63bAfjGas3TuA4ZCPUtN6Xf)
+- [MIT 18.S096 Matrix Calculus For Machine Learning And Beyond, IAP 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE)
+- [Lashkari's Research Group](https://www.youtube.com/@lashkarisresearchgroup485)
+- [Bright Side of Maths](https://www.youtube.com/@brightsideofmaths)
+- [Utah SoC Computational Topology](https://www.youtube.com/@utahsoccomputationaltopolo4135)
+- [MIT 18.S190 Introduction To Metric Spaces, IAP 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S)
+- [Group Equivariant Deep Learning (UvA - 2022)](https://www.youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd)
+- [Lie groups](https://www.youtube.com/playlist?list=PL8yHsr3EFj53RWBkiHKoOsTw-dGHAoJ-h)
+- [Riemann and Gauss meet Asimov: A tutorial on Geometric methods in robot learning, optimization, and control](https://www.youtube.com/playlist?list=PL_oEZ6dld4ignAdbFvcP_LAJgNbdrNBKC)
+- [ROB 530 W22 - Mobile Robotics](https://www.youtube.com/playlist?list=PLdMorpQLjeXmbFaVku4JdjmQByHHqTd1F)
+- [Richard Southwell - Playlists](https://www.youtube.com/@RichardSouthwell/playlists)
+- [ICTP Diploma - Partial Differential Equations - Giovanni Bellettini](https://www.youtube.com/playlist?list=PLLq_gUfXAnkkvL_UoCGivS0wOYhwCtczI)
+- [ICTP Diploma - Topology - Bruno Zimmermann](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl8bjQh-hGQ9u24xZP9x0dx)
+- [ICTP Diploma - Differential Geometry - Claudio Arezzo](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz)
+- [Symplectic geometry & classical mechanics](https://www.youtube.com/playlist?list=PLDfPUNusx1EoVnrQcCRishydtNBYU6A0c)
+
 * cs-149 Stanford
 
 

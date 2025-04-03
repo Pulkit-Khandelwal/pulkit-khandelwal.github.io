@@ -26,38 +26,40 @@ author_profile: true
 
 
 ### Tutorials!
-* http://timdettmers.com/2015/03/09/deep-learning-hardware-guide/
-* https://medium.com/@iliakarmanov/multi-gpu-rosetta-stone-d4fa96162986
-* http://briancaffey.github.io/2017/11/20/using-tensorflow-and-tensor-board-with-docker.html
-* https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/batch_norm_layer.html
-* https://david-abel.github.io/blog.html
-* http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html
-* https://medium.com/@eirinimalliaraki/toward-ethical-transparent-and-fair-ai-ml-a-critical-reading-list-d950e70a70ea
-* https://d2l.ai/
-* https://cs217.github.io/
-chttps://whitead.github.io/dmol-book/intro.html
-* https://lilianweng.github.io/lil-log/
-* https://www.youtube.com/watch?v=v4ZHlTbTOK8&list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU&index=90
-* https://www.youtube.com/watch?v=EjdnrWUib8k&list=PLw93TUuxrFAbWrTsvaDsn7Y32l8LHJJXn&index=3
+- [Deep Learning Hardware Guide - Tim Dettmers](http://timdettmers.com/2015/03/09/deep-learning-hardware-guide/)
+- [Multi-GPU Rosetta Stone](https://medium.com/@iliakarmanov/multi-gpu-rosetta-stone-d4fa96162986)
+- [Using TensorFlow and TensorBoard with Docker](http://briancaffey.github.io/2017/11/20/using-tensorflow-and-tensor-board-with-docker.html)
+- [Batch Normalization Layer Guide](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/batch_norm_layer.html)
+- [David Abel's Blog](https://david-abel.github.io/blog.html)
+- [FairML: Auditing Black-Box Predictive Models](http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html)
+- [Toward Ethical, Transparent, and Fair AI/ML - Critical Reading List](https://medium.com/@eirinimalliaraki/toward-ethical-transparent-and-fair-ai-ml-a-critical-reading-list-d950e70a70ea)
+- [Dive into Deep Learning](https://d2l.ai/)
+- [CS217: Advanced NLP](https://cs217.github.io/)
+- [Deep Molecular Machine Learning Book](https://whitead.github.io/dmol-book/intro.html)
+- [Lil'Log - Lilian Weng](https://lilianweng.github.io/lil-log/)
+- [Mathematical Foundations for Data Analysis (YouTube)](https://www.youtube.com/watch?v=v4ZHlTbTOK8&list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU&index=90)
+- [Mathematics for Machine Learning (YouTube)](https://www.youtube.com/watch?v=EjdnrWUib8k&list=PLw93TUuxrFAbWrTsvaDsn7Y32l8LHJJXn&index=3)
+- [CSCsch YouTube Playlists](https://www.youtube.com/user/cscsch/playlists)
+- [Stanford Medical AI](https://www.youtube.com/@stanfordmedai1263)
+- [Machine Learning & AI Playlist](https://www.youtube.com/playlist?list=PL2xTeGtUb-8B94jdWGT-chu4ucI7oEe_x)
+- [Neural Networks Explained (YouTube)](https://www.youtube.com/watch?v=_Nyy6UUHPeg)
+- [GeoMedia Tutorials](https://geomedia-tutorial.github.io/index.html)
+- [How Far Away Is It? (YouTube)](https://www.youtube.com/@howfarawayisit/playlists)
+- [Tamara Munzner's Information Visualization Course](https://www.cs.ubc.ca/~tmm/gc/#intro)
+- [Tamara Munzner (YouTube)](https://www.youtube.com/@TamaraMunzner/videos)
+- [Applied Algebraic Topology Research Network (YouTube)](https://www.youtube.com/@aatrn1)
+- [VIOS Science - DREAM 2021 Tutorials](https://vios.science/tutorials/dream2021)
+- [MICCAI 2022 Tutorial on LWLS](https://sites.google.com/view/miccai2022tutoriallwls/home?authuser=0)
+- [Group Equivariant Deep Learning](https://uvagedl.github.io/)
+- [MR Physics with Pulseq - GitHub](https://github.com/pulseq/MR-Physics-with-Pulseq/tree/main)
+- [MRI Distortion Toolkit - Image X Institute](https://github.com/Image-X-Institute/mri_distortion_toolkit)
+
+
 * Kernel Methods
 * Graph Neural Networks Courses: Penn and Stanford
 * Deep Unsupervised Learning
 * Meta-learning Chelsea Finn
 * Numerical Tours
-* https://www.youtube.com/user/cscsch/playlists
-* https://www.youtube.com/@stanfordmedai1263
-* https://www.youtube.com/playlist?list=PL2xTeGtUb-8B94jdWGT-chu4ucI7oEe_x
-* https://www.youtube.com/watch?v=_Nyy6UUHPeg
-* https://geomedia-tutorial.github.io/index.html
-* https://www.youtube.com/@howfarawayisit/playlists
-* https://www.cs.ubc.ca/~tmm/gc/#intro
-* https://www.youtube.com/@TamaraMunzner/videos
-* https://www.youtube.com/@aatrn1
-* https://vios.science/tutorials/dream2021
-* https://sites.google.com/view/miccai2022tutoriallwls/home?authuser=0
-* https://uvagedl.github.io/
-* MRI-PHYS: https://github.com/pulseq/MR-Physics-with-Pulseq/tree/main
-* MRI-PHYS: https://github.com/Image-X-Institute/mri_distortion_toolkit
 
 
 ### Current Courses 2024!
@@ -84,15 +86,13 @@ chttps://whitead.github.io/dmol-book/intro.html
 * BE 581 at Penn
 * GPU Programming at Penn
 * Neural ODEs
-* [Multi-view geometry](https://www.youtube.com/playlist?list=PLEB45naDUsF2vpvdxZ72Jjl8ZEKISv4Nh)
 * Computer Graphics
 * Databases
 * PGM
 * Functional Analysis MIT
 * Real Analysis MIT
 * Jean Gallier
-* https://cs217.stanford.edu/
-* https://uvadl2c.github.io/
+* [Multi-view geometry](https://www.youtube.com/playlist?list=PLEB45naDUsF2vpvdxZ72Jjl8ZEKISv4Nh)
 - [Brains, Minds, and Machines (MIT OCW)](https://ocw.mit.edu/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/)
 - [Systems Programming (YouTube)](https://www.youtube.com/playlist?list=PLhy9gU5W1fvUND_5mdpbNVHC1WCIaABbP)
 - [Designing and Analysing fMRI Experiments](https://www.youtube.com/playlist?list=PL20gKJcYxxBU3kXvu58vf-lL2XxtLHtRL)
@@ -117,7 +117,9 @@ chttps://whitead.github.io/dmol-book/intro.html
 - [ICTP Diploma - Differential Geometry - Claudio Arezzo](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz)
 - [Symplectic geometry & classical mechanics](https://www.youtube.com/playlist?list=PLDfPUNusx1EoVnrQcCRishydtNBYU6A0c)
 - [Parallel Computing Stanford](https://gfxcourses.stanford.edu/cs149/fall24)
-  
+- [CS217: Advanced NLP (Stanford)](https://cs217.stanford.edu/)
+- [Deep Learning for Language and Control (UVA)](https://uvadl2c.github.io/)
+
 
 ### More courses!
 * MIT missing CS semester

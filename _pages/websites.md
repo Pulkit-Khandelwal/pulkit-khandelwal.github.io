@@ -129,16 +129,17 @@ author_profile: true
 
 ### Coffee
 * The Coffee Show
-* http://www.lorepodcast.com/episodes/
-* https://stampshowheretoday1.podbean.com/
 * Trade coffee
-* https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ
-* https://www.youtube.com/watch?v=Fg1Rk-cPock
-* https://www.youtube.com/@TomsCoffeeCorner
-* https://www.amazon.com/stores/page/5C7DD300-8AB9-4A9A-920C-AC493CB8F239?ingress=0&visitId=e8b48b6e-4a6f-4250-9a2a-5b48607de1b9&lp_slot=desktop-hsa-3psl&store_ref=SB_A08180143S56PUP9SSQVA&ref_=sbx_be_s_3psl_mbd_mb1_asin
+- [Lore Podcast Episodes - Official Website](http://www.lorepodcast.com/episodes/)
+- [Stamp Show Here Today - Stamp Collecting Podcast](https://stampshowheretoday1.podbean.com/)
+- [James Hoffmann](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ)
+- [Morgan Eckroth](https://www.youtube.com/watch?v=Fg1Rk-cPock)
+- [Tom's Coffee Corner](https://www.youtube.com/@TomsCoffeeCorner)
+- [Coffee Gear and More](https://www.amazon.com/stores/page/5C7DD300-8AB9-4A9A-920C-AC493CB8F239?ingress=0&visitId=e8b48b6e-4a6f-4250-9a2a-5b48607de1b9&lp_slot=desktop-hsa-3psl&store_ref=SB_A08180143S56PUP9SSQVA&ref_=sbx_be_s_3psl_mbd_mb1_asin)
 
 ### Bike stuff
-* https://thebestbikelock.com/how-to-lock-your-bike/#:~:text=Locking%20your%20bike%20with%20one%20lock%20and%20a%20removed%20front%20wheel&text=Attach%20the%20u%20or%20chain,secured%20with%20one%20good%20lock
+- [How to Lock Your Bike](https://thebestbikelock.com/how-to-lock-your-bike/#:~:text=Locking%20your%20bike%20with%20one%20lock%20and%20a%20removed%20front%20wheel&text=Attach%20the%20u%20or%20chain,secured%20with%20one%20good%20lock)
+
 
 ### Cool stuff to buy
 * https://www.redbubble.com/people/TheNeuronFamily/explore?page=1&sortOrder=recent

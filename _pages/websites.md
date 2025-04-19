@@ -189,6 +189,7 @@ author_profile: true
 - [Sebastian Lague - YouTube](https://www.youtube.com/@SebastianLague)
 - [Homo sapiens Brain Evolution](https://www.mpg.de/11883269/homo-sapiens-brain-evolution)
 - [Brain Development and Evolution](https://sjcinspire.com/2021/03/01/how-did-brain-development-evolve-to-produce-the-human-brain/)
+- https://retrododo.com/baby-t-rex-review/
 
 ## New Nice YouTube Channels:
 - [Video 1: Channel Playlist](https://www.youtube.com/watch?v=almlINDXU5c&list=PL1lNrW4e0G8WacM84PX1lqDjUIflPmFCA&index=2)

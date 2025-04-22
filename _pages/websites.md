@@ -194,5 +194,11 @@ author_profile: true
 ## New Nice YouTube Channels:
 - [Video 1: Channel Playlist](https://www.youtube.com/watch?v=almlINDXU5c&list=PL1lNrW4e0G8WacM84PX1lqDjUIflPmFCA&index=2)
 - [Video 2: YouTube Link](https://youtu.be/xOL72Jo94S8)
+  
+## History of medicine
+- https://www.youtube.com/playlist?list=PLrjMc8u3pXMvZOaDyiBJwrVCMju5UKpPO
+- https://youtu.be/T8xX6FytZ30
+- https://youtu.be/M_jd-P2Fyvo
+
 
 

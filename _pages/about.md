@@ -9,7 +9,9 @@ redirect_from:
 ---
 I'm a postdoctoral researcher in the department of Radiollogy at the University of Pennsylvania under the supervision of [Prof. Paul Yushkevich](https://www.med.upenn.edu/apps/faculty/index.php/g275/p2693923), where I also obtained my PhD. Previously, I completed MSc. in computer science in the [Shape Analysis Group](http://www.cim.mcgill.ca/~shape/) at McGill University where I was supervised by [Prof. Kaleem Siddiqi](http://www.cim.mcgill.ca/~siddiqi/) and [Prof. Louis Collins](http://nist.mni.mcgill.ca/) at the Montreal Neurological Institute.
 
-My primary research focus is to develop computational methods to analyze ultra-high resolution postmortem human brain at 7 tesla MRI and link morphometry with histopathology in Alzheimer's and related dementias. You can find my latest body of work [here](https://pulkit-khandelwal.github.io/exvivo-brain-upenn/). See my complete publications at [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=6BOwPcoAAAAJ&view_op=list_works&sortby=pubdate). See my MSc. thesis [here](https://escholarship.mcgill.ca/concern/theses/4b29bb21t).
+My primary research focus is to develop computational methods to analyze ultra-high resolution postmortem human brain at 7 tesla MRI and link morphometry with histopathology in Alzheimer's and related dementias. You can find my latest body of work [here](https://pulkit-khandelwal.github.io/exvivo-brain-upenn/). See my complete publications at [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=6BOwPcoAAAAJ&view_op=list_works&sortby=pubdate).
+
+My [PhD](https://www.proquest.com/docview/3217902703?sourcetype=Dissertations%20&%20Theses) and [MSc](https://escholarship.mcgill.ca/concern/theses/4b29bb21t) theses.
 
 [**Curriculum Vitae**](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/Pulkit_Khandelwal_CV.pdf).
 

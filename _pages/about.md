@@ -21,11 +21,11 @@ In the past, I've interned at:
 * Imagia Inc. [Montreal, Canada]
 * Planet Labs [San Francisco, United States]
 * Centre for Advanced Imaging, University of Queensland [Brisbane, Australia]
-* Imaging, Multimedia and Graphics Lab, University of Saskatchewan[Saskatoon, Canada]
+* Imaging, Multimedia and Graphics Lab, University of Saskatchewan [Saskatoon, Canada]
 
 Every Fall, I lecture on medical image segmentation with deep learning in the graduate course on biomedical image analysis (BE/CIS 537) at the University of Pennsylvania. You can view the recordings [here](https://pulkit-khandelwal.github.io/medical-image-segmentation-deep-learning/).
 
 I also maintain a [blog](https://pulkit-khandelwal.github.io/blog/) and contribute to open-source projects such as [this](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks) and have appeared as a guest on the ["Abstract: The Future of Science"](https://anchor.fm/abstractcast) podcast.
 
-In my spare time, I read poetry, fiction, and non-fiction, listen to science podcasts, nerd out on coffee, enjoy independent movies, music, and I'm constantly searching for the next best cafe!
+In my spare time, I read poetry, fiction, and nonfiction, listen to science podcasts, nerd out over coffee, enjoy independent movies and music, and I'm constantly searching for the next best cafe.
 I believe in [**Slow Science**](http://slow-science.org/).

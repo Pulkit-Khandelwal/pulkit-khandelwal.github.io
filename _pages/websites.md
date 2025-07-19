@@ -6,9 +6,7 @@ author_profile: true
 ---
 
 ### Podcasts
-* PartiallyDerivative
 * Quanta podcast
-* The Memory Palace
 * Sean Caroll
 * Ologies
 * History of Literature
@@ -16,6 +14,8 @@ author_profile: true
 * Science Friday
 * Big Biology
 * Bill Nye
+* The Memory Palace
+* PartiallyDerivative
 * Talk Python to Me
 * Stuff to Blow Your Mind
 * How I Built This

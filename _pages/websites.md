@@ -6,10 +6,6 @@ author_profile: true
 ---
 
 ### Podcasts
-* Talk Python to Me
-* Stuff to Blow Your Mind
-* How I Built This
-* Planet Money
 * PartiallyDerivative
 * Quanta podcast
 * The Memory Palace
@@ -17,7 +13,13 @@ author_profile: true
 * Ologies
 * History of Literature
 * NPR Short Wave
+* Science Friday
+* Big Biology
 * Bill Nye
+* Talk Python to Me
+* Stuff to Blow Your Mind
+* How I Built This
+* Planet Money
 
 
 ### Philosophy
@@ -198,6 +200,8 @@ author_profile: true
 ## History of medicine
 - https://www.youtube.com/playlist?list=PLrjMc8u3pXMvZOaDyiBJwrVCMju5UKpPO
 - https://youtu.be/T8xX6FytZ30
+- https://microscopist.net/
+- https://microspeci.men/
 - https://youtu.be/M_jd-P2Fyvo
 
 

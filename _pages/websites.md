@@ -15,7 +15,6 @@ author_profile: true
 * Big Biology
 * Bill Nye
 * The Memory Palace
-* PartiallyDerivative
 * Talk Python to Me
 * Stuff to Blow Your Mind
 * How I Built This
@@ -109,6 +108,7 @@ author_profile: true
 * Mathologer
 * acegikmo
 * bevinmaultsby
+* BenjaminMcEvoy
 
 ### Youtube: artsy
 * StorytrailsChannel
@@ -168,6 +168,7 @@ author_profile: true
 * https://www.nytimes.com/2022/12/02/arts/rare-book-school-grolier-exhibition.html
 * https://manuscriptroadtrip.wordpress.com/
 * https://www.dotporterdigital.org/
+* https://www.forumrarebooks.com/index.html?fbclid=IwY2xjawIbMLtleHRuA2FlbQIxMAABHajiauWZ8iT-k-t_jvdYF03J5BZKGeqvYJW273pyMZegw2KQybI0vE-TPQ_aem_ObO64qjFAvmMPCMi0za89Q&
 
 ## Health News:
 - [KFF Health News](https://kffhealthnews.org/)

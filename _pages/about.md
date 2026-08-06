@@ -35,8 +35,6 @@ My primary research focus is to develop computational methods to analyze high re
 
 My [PhD](https://www.proquest.com/docview/3217902703?sourcetype=Dissertations%20&%20Theses) and [MSc](https://escholarship.mcgill.ca/concern/theses/4b29bb21t) theses.
 
-[**Curriculum Vitae**](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/Pulkit_Khandelwal_CV.pdf).
-
 In the past, I've interned at:
 * Google [Mountain View, United States]
 * Amazon [Palo Alto, United States]

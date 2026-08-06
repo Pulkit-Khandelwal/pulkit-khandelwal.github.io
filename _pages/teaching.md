@@ -14,3 +14,4 @@ My teaching and educational resources.
 **2022–present**
 
 [A tour of biomedical image segmentation using deep learning](https://pulkit-khandelwal.github.io/medical-image-segmentation-deep-learning/)
+(Winner of the 2023 MICCAI Educational Challenge)

@@ -2,10 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Teaching and educational resources.
 nav: true
 nav_order: 6
 ---
+
+My teaching and educational resources.
 
 ## Biomedical Image Analysis (BE5370)
 

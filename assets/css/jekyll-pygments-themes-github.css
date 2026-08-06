@@ -23,7 +23,12 @@
   color: #999999;
   font-weight: bold;
   font-style: italic;
-} /* Comment.Preproc */ /* Comment.Single */ /* Comment.Special */
+} /* Comment.Preproc */ /* Comment.Single */
+.highlight .cs {
+  color: #999999;
+  font-weight: bold;
+  font-style: italic;
+} /* Comment.Special */
 .highlight .gd {
   color: #000000;
   background-color: #ffdddd;
@@ -141,7 +146,10 @@
 } /* Literal.String.Single */ /* Literal.String.Symbol */
 .highlight .bp {
   color: #999999;
-} /* Name.Builtin.Pseudo */ /* Name.Variable.Class */ /* Name.Variable.Global */
+} /* Name.Builtin.Pseudo */
+.highlight .vc {
+  color: #008080;
+} /* Name.Variable.Class */ /* Name.Variable.Global */
 .highlight .vi {
   color: #008080;
 } /* Name.Variable.Instance */ /* Literal.Number.Integer.Long */

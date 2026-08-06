@@ -2,7 +2,6 @@
 layout: page
 title: interests
 permalink: /interests/
-description: Podcasts, writing, videos, books, and other things I enjoy.
 nav: true
 nav_order: 8
 ---

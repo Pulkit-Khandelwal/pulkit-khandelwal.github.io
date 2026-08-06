@@ -2,7 +2,6 @@
 layout: page
 title: learning
 permalink: /learning/
-description: Books, courses, tutorials, and educational resources I find useful.
 nav: true
 nav_order: 7
 ---

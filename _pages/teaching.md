@@ -2,12 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Teaching and educational resources.
 nav: true
 nav_order: 6
-calendar: true
 ---
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+## Biomedical Image Analysis (BE5370)
 
-{% include courses.liquid %}
+**Guest Lecturer, University of Pennsylvania**  
+**2022–present**
+
+[A tour of biomedical image segmentation using deep learning](https://pulkit-khandelwal.github.io/medical-image-segmentation-deep-learning/)

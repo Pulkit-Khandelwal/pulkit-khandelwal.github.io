@@ -15,7 +15,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I'm a postdoctoral research fellow at Harvard Medical School and Massachusetts General Hospital where I'm advised by [Prof. Lilla Zollei]([https://lillazollei.github.io/] as part of the [FreeSurfer group](https://lcn.martinos.org/) at the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org/).
+I'm a postdoctoral research fellow at Harvard Medical School and Massachusetts General Hospital where I'm advised by [Prof. Lilla Zollei](https://lillazollei.github.io/) as part of the [FreeSurfer group](https://lcn.martinos.org/) at the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org/).
 
 Previously, I was a postdoc in the department of Radiology at the University of Pennsylvania where I also completed my PhD under the supervision of [Prof. Paul Yushkevich](https://www.med.upenn.edu/apps/faculty/index.php/g275/p2693923). Before that, I completed MSc. in computer science in the [Shape Analysis Group](http://www.cim.mcgill.ca/~shape/) at McGill University where I was supervised by [Prof. Kaleem Siddiqi](http://www.cim.mcgill.ca/~siddiqi/) and [Prof. Louis Collins](http://nist.mni.mcgill.ca/) at the Montreal Neurological Institute. Even before that, I obtained a BTech in ECE at VIT university, Vellore and completed my Bachelor's thesis under the supervision of [Dr. Steffen Bollmann](https://about.uq.edu.au/experts/11402) at the University of Queensland.
 

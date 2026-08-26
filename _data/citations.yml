@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-26'
 papers:
   6BOwPcoAAAAJ:-f6ydRqryjwC:
     citations: 11
@@ -34,7 +34,7 @@ papers:
     title: Automated Segmentation of Human Skull to plan Craniofacial Surgery using dual-Radiofrequency dual-Echo, 3D Ultrashort Echo Time MRI sequence
     year: '2020'
   6BOwPcoAAAAJ:70eg2SAEIzsC:
-    citations: 9
+    citations: 10
     title: "Operationalizing postmortem pathology-MRI association studies in Alzheimer\u2019s disease and related disorders with MRI-guided histology sampling"
     year: '2025'
   6BOwPcoAAAAJ:7PzlFSSx8tAC:
@@ -282,7 +282,7 @@ papers:
     title: Randomly hiding secret data using dynamic programming for image steganography
     year: '2015'
   6BOwPcoAAAAJ:u5HHmVD_uO8C:
-    citations: 23
+    citations: 24
     title: Detection of features to track objects and segmentation using grabcut for application in marker-less augmented reality
     year: '2015'
   6BOwPcoAAAAJ:vV6vV6tmYwMC:

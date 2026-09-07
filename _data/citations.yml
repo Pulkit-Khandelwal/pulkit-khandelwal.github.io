@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-31'
+  last_updated: '2026-09-07'
 papers:
   6BOwPcoAAAAJ:-f6ydRqryjwC:
     citations: 11
@@ -42,7 +42,7 @@ papers:
     title: Automated deep learning segmentation of high-resolution 7 T ex vivo MRI for quantitative analysis of structure-pathology correlations in neurodegenerative diseases
     year: '2023'
   6BOwPcoAAAAJ:9ZlFYXVOiuMC:
-    citations: 15
+    citations: 16
     title: "Associations of phosphorylated tau pathology with whole\u2010hemisphere ex vivo morphometry in 7 tesla MRI"
     year: '2023'
   6BOwPcoAAAAJ:BqipwSGYUEgC:
@@ -169,6 +169,10 @@ papers:
     citations: 1
     title: Postmortem brain MRI reveals differential associations of subcortical and limbic volumes with cortical thinning and neurodegenerative pathologies
     year: '2026'
+  6BOwPcoAAAAJ:abG-DnoFyZgC:
+    citations: 0
+    title: "50\xB5m ex vivo MRI reveals distant layer-specific hippocampal atrophy in early Alzheimer's disease"
+    year: '2026'
   6BOwPcoAAAAJ:aqlVkmm33-oC:
     citations: 2
     title: "Deep Learning for Ultra High Resolution T2\u2010weighted 7 Tesla Ex vivo Magnetic Resonance Imaging Reveals Differential Subcortical Atrophy across \u2026"
@@ -198,7 +202,7 @@ papers:
     title: MRI Correlates of Executive Function in Cognitively Normal Older Subjects
     year: '2024'
   6BOwPcoAAAAJ:f2IySw72cVMC:
-    citations: 0
+    citations: 1
     title: "Volumetric postmortem MRI of the medial temporal lobe in Alzheimer\u2019s disease and related disorders: methodological advances and implications for in vivo biomarker development"
     year: '2026'
   6BOwPcoAAAAJ:g5m5HwL7SMYC:
@@ -218,7 +222,7 @@ papers:
     title: Alzheimer's Imaging Consortium
     year: '2024'
   6BOwPcoAAAAJ:iH-uZ7U-co4C:
-    citations: 22
+    citations: 23
     title: "Association of quantitative histopathology measurements with antemortem medial temporal lobe cortical thickness in the Alzheimer\u2019s disease continuum"
     year: '2024'
   6BOwPcoAAAAJ:isC4tDSrTZIC:
@@ -238,7 +242,7 @@ papers:
     title: Development of an isotropic segmentation model for medial temporal lobe subregions on anisotropic MRI atlas using implicit neural representation
     year: '2025'
   6BOwPcoAAAAJ:mB3voiENLucC:
-    citations: 16
+    citations: 17
     title: Automated deep learning segmentation of high-resolution 7 tesla postmortem MRI for quantitative analysis of structure-pathology correlations in neurodegenerative diseases
     year: '2024'
   6BOwPcoAAAAJ:mVmsd5A6BfQC:
@@ -246,7 +250,7 @@ papers:
     title: 'Deep label fusion: A generalizable hybrid multi-atlas and deep convolutional neural network for medical image segmentation'
     year: '2023'
   6BOwPcoAAAAJ:ns9cj8rnVeAC:
-    citations: 15
+    citations: 16
     title: "A multi\u2010cohort study of longitudinal and cross\u2010sectional Alzheimer's disease biomarkers in cognitively unimpaired older adults"
     year: '2025'
   6BOwPcoAAAAJ:pqnbT2bcN3wC:
@@ -298,6 +302,6 @@ papers:
     title: Clinical correlates of perfusion and diffusion MRI metrics in cognitively unimpaired older adults
     year: '2026'
   6BOwPcoAAAAJ:zYLM7Y9cAGgC:
-    citations: 67
+    citations: 68
     title: 'Domain Generalizer: A Few-shot Meta Learning Framework for Domain Generalization in Medical Imaging'
     year: '2020'

@@ -33,3 +33,48 @@ In the past, I've interned at:
 * Imaging, Multimedia and Graphics Lab, University of Saskatchewan [Saskatoon, Canada]
 
 Every Fall, I lecture on medical image segmentation with deep learning in the graduate course on biomedical image analysis (BE/CIS 537) at the University of Pennsylvania. You can view the recordings [here](https://pulkit-khandelwal.github.io/medical-image-segmentation-deep-learning/). I actively organize the [seminar series](https://youtube.com/playlist?list=PLZrwirZzeDlQL2d6dXVOhZVbaicm-OwRh&si=AWwFlTtrqjE_72fM) for the [RISE-MICCAI](https://rise-miccai.org/) society, where we discuss medical imaging papers and host panel discussions throughout the year.
+
+<!-- pulkit-profile-hover:start -->
+<style>
+  .pulkit-photo-swap { position: relative; display: block; }
+  .pulkit-photo-swap__hover {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: inherit;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 300ms ease-in-out;
+  }
+  @media (hover: hover) and (pointer: fine) {
+    .pulkit-photo-swap:hover > .pulkit-photo-swap__hover { opacity: 1; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .pulkit-photo-swap__hover { transition: none; }
+  }
+</style>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const original = document.querySelector('.profile img');
+    if (!original) return;
+    const picture = original.closest('picture') || original;
+    if (picture.parentElement?.classList.contains('pulkit-photo-swap')) return;
+
+    const wrapper = document.createElement('span');
+    wrapper.className = 'pulkit-photo-swap';
+    wrapper.style.borderRadius = getComputedStyle(original).borderRadius;
+    picture.parentNode.insertBefore(wrapper, picture);
+    wrapper.appendChild(picture);
+
+    const alternate = new Image();
+    alternate.className = 'pulkit-photo-swap__hover';
+    alternate.alt = '';
+    alternate.setAttribute('aria-hidden', 'true');
+    alternate.src = "{{ page.profile.hover_image | default: 'mugshot_2023.png' | prepend: '/assets/img/' | relative_url }}";
+    alternate.onerror = function () { alternate.remove(); };
+    wrapper.appendChild(alternate);
+  });
+</script>
+<!-- pulkit-profile-hover:end -->
